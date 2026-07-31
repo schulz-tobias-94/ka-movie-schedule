@@ -56,7 +56,8 @@ def test_html_tabs_grouping_links_and_escaping():
     assert "https://example.test/a?x=1&amp;y=2" in output
     assert output.count('<article class="movie">') == 1
     assert "16:30" in output and "19:00" in output
-    assert "OmU · Englisch · Deutsche Untertitel · Saal 4" in output
+    assert 'class="format-badge">OmU</span>' in output
+    assert "Englisch · Deutsche Untertitel · Saal 4" in output
     assert ">Tickets<" in output
     assert "Schauburg Karlsruhe: Mädchen" not in output
     assert "location.hash" in output and "localStorage" in output
@@ -85,4 +86,24 @@ def test_html_two_failed_sources_keeps_the_successful_panel():
         cinema_result("universum", "Universum City Kinos Karlsruhe", [movie]),
     ])
     assert output.count("Der Spielplan konnte derzeit nicht geladen werden und") == 2
-    assert "Film" in output and "OmU · Spanisch · Deutsche Untertitel" in output
+    assert "Film" in output and 'class="format-badge">OmU</span>' in output and "Spanisch · Deutsche Untertitel" in output
+
+
+def test_html_cinema_themes_are_progressive_and_accessible():
+    output = html([])
+    soup = BeautifulSoup(output, "html.parser")
+    css, script = soup.style.string, soup.script.string
+    assert soup.body["data-active-cinema"] == "schauburg"
+    for cinema_id, primary in (("schauburg", "#0f766e"), ("filmpalast", "#1e3a8a"), ("universum", "#b91c1c")):
+        assert f'body[data-active-cinema="{cinema_id}"]' in css
+        assert f'.cinema-panel[data-cinema="{cinema_id}"]' in css
+        assert primary in css
+    assert "document.body.dataset.activeCinema=id" in script
+    assert "border-bottom-width: 6px" in css and ":focus-visible" in css
+    assert "text-decoration: underline" in css and ".format-badge" in css
+    assert "--positive" in css and "--warning" in css and "--danger" in css
+    assert "prefers-color-scheme: dark" in css and "prefers-reduced-motion: reduce" in css
+    for cinema_id, accent, strong in (("schauburg", "#5eead4", "#99f6e4"), ("filmpalast", "#93c5fd", "#bfdbfe"), ("universum", "#fca5a5", "#fecaca")):
+        assert f'body[data-active-cinema="{cinema_id}"] {{ --accent: {accent}; --accent-dark: {strong};' in css
+        assert f'.cinema-panel[data-cinema="{cinema_id}"] {{ --panel-accent: {accent}; --panel-dark: {strong};' in css
+    assert "http" not in script and "Film" not in script
