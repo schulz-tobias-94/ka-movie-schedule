@@ -59,7 +59,7 @@ jobs:
           fi
           git push origin HEAD:"$branch" || echo "Warning: could not push snapshots; deploying current page without persistence."
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
         with:
           enablement: true
       - name: Upload GitHub Pages artifact
@@ -76,4 +76,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
