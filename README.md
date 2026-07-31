@@ -39,6 +39,12 @@ Responses are cached for 15 minutes in the platform user cache directory (typica
 
 `--html` writes a standalone, UTF-8 HTML page for GitHub Pages with no JavaScript or external assets. It includes the same eight-day default range and only original-language screenings.
 
+## GitHub Pages
+
+GitHub Actions regenerates the schedule page daily at 06:15 UTC and on relevant pushes to `main`. Run it manually from the repository's **Actions** tab by selecting **Update GitHub Pages** and choosing **Run workflow**. Scheduled workflows use UTC and GitHub may occasionally delay them.
+
+In repository **Settings** > **Pages**, set the publishing source to **GitHub Actions**. After the first successful deployment, the Pages URL appears in the workflow's deploy job and on that settings page. Open the failed workflow run in the Actions tab to inspect scraper or deployment logs.
+
 ## Troubleshooting
 
 Use `--debug` to see skipped malformed entries and cache diagnostics. Connection and parser errors are printed to stderr with a nonzero exit status. The cinema can change its website markup; in that case, update the parser selectors and refresh `tests/fixtures/schedule.html` from a representative response.
