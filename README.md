@@ -1,73 +1,167 @@
-# Schauburg Schedule
+# Karlsruhe Original-Version Cinema Schedule
 
-Lists upcoming Schauburg Karlsruhe screenings marked as original-language or subtitled versions. It follows the site-provided HTML fragment URL behind `mehr laden`; no browser automation is required. By default it retrieves today plus the next seven calendar days.
+Retrieve original-language, subtitled, and explicitly foreign-language screenings from Schauburg Karlsruhe, Filmpalast am ZKM, and Universum City Kinos Karlsruhe. The project produces terminal output, JSON, and a responsive static HTML site that is deployed daily to GitHub Pages.
 
-## Install
+See the [live cinema schedule](https://schulz-tobias-94.github.io/ka-movie-schedule/). This is an independent project and is not affiliated with any of the cinemas.
+
+## Live site
+
+The published page is available at [Karlsruhe Original-Version Cinema Schedule](https://schulz-tobias-94.github.io/ka-movie-schedule/).
+
+Direct links select a cinema:
+
+- [Schauburg](https://schulz-tobias-94.github.io/ka-movie-schedule/#schauburg)
+- [Filmpalast](https://schulz-tobias-94.github.io/ka-movie-schedule/#filmpalast)
+- [Universum](https://schulz-tobias-94.github.io/ka-movie-schedule/#universum)
+
+The selected tab is remembered locally when browser storage is available.
+
+## Features
+
+- Three independent cinema source adapters with per-screening filtering.
+- Recognition of `OV`, `OmU`, `OmeU`, `OmdU`, and explicit non-German language labels where a source provides them.
+- Spoken and subtitle languages preserved when available.
+- Inclusive eight-day default range, Europe/Berlin date handling, and no past screenings.
+- Terminal, JSON, and standalone HTML output.
+- Selectable cinema tabs, hash links, responsive layout, automatic system light/dark mode, and teal, dark-blue, and red cinema themes.
+- Keyboard-accessible tabs and a no-JavaScript fallback that shows every cinema section.
+- Per-cinema failure isolation and snapshot fallback.
+- Daily GitHub Pages deployment.
+
+## Installation
+
+Python 3.12 or newer is required.
 
 ```bash
-python3 -m pip install .
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install .
 ```
 
-For tests:
+For development and tests:
 
 ```bash
-python3 -m pip install -e '.[test]'
-pytest
+python -m pip install -e '.[test]'
 ```
 
 ## Usage
 
 ```bash
 python -m schauburg_schedule
-python -m schauburg_schedule --days 14
+python -m schauburg_schedule --days 8
+python -m schauburg_schedule --cinema schauburg
+python -m schauburg_schedule --cinema filmpalast
+python -m schauburg_schedule --cinema universum
+python -m schauburg_schedule --json
 python -m schauburg_schedule --json --output screenings.json
 python -m schauburg_schedule --html --output site/index.html
-python -m schauburg_schedule --cinema schauburg --json
-python -m schauburg_schedule --cinema filmpalast --json
-python -m schauburg_schedule --cinema universum --json
 python -m schauburg_schedule --no-cache --debug
 ```
 
-Example output:
+With no `--cinema`, all three sources run. `--days 8` means today plus the following seven calendar days. Past screenings are excluded. A failed cinema does not stop the other cinemas, and a successful live result with no matching screenings is not replaced with older snapshot data.
+
+Additional options:
+
+- `--output FILE`: write output to a file.
+- `--snapshot-dir PATH`: use a different per-cinema snapshot directory; the default is `snapshots`.
+- `--no-snapshot-fallback`: do not restore data for failed sources.
+- `--site-title TEXT`: set the HTML page title only.
+
+Illustrative terminal output:
 
 ```text
-Date      Day       Title        Type  Time
-31.07.26  Friday    Die Odyssee  OV    16:30:00
-                      The Invite   OmU   19:00:00
+Date      Day     Cinema                        Title                         Type                                  Time
+31.07.26  Friday  Schauburg Karlsruhe            The Invite                    OmU                                   19:00:00
+                   Filmpalast am ZKM             Spider-Man: Brand New Day     englisch · OV · Kino 9               20:15:00
+                   Universum City Kinos Karlsruhe  Obsession - Du sollst mich lieben  OmU · English · German subtitles  21:00:00
 ```
 
-Supported labels are `OV`, `OmU`, `OmeU`, and `OmdU`, case-insensitively. Add another exact label to `VERSION_LABELS` in `src/schauburg_schedule/parser.py` when the cinema introduces one.
+## Supported cinemas
 
-Responses are cached for 15 minutes in the platform user cache directory (typically `~/.cache/schauburg-schedule` on Linux). Use `--no-cache` to bypass it.
+### Schauburg Karlsruhe
 
-Successful source runs also save publishable per-cinema snapshots in `snapshots/` by default. When a source temporarily fails, the command uses only a valid snapshot that still has screenings within the requested future date range; past entries are removed. Use `--snapshot-dir PATH` to choose another location or `--no-snapshot-fallback` to disable restoration. A successful live result with no matching screenings remains authoritative and does not use older data.
+Source: [Schauburg program](https://www.schauburg.de/spielplan).
 
-`--html` writes a standalone, UTF-8 HTML page for GitHub Pages. It presents Schauburg, Filmpalast, and Universum in selectable tabs, while retaining all three schedules as vertical sections when JavaScript is disabled. The page uses no external assets and includes the same eight-day default range and only original-language screenings.
+The adapter recognizes OV/OmU-style labels and follows the site’s additional-program loading mechanism behind “Mehr Laden”. It loads enough batches to satisfy the requested date range where the site makes them available.
 
-Generate it locally with:
+### Filmpalast am ZKM
+
+Source: [Filmpalast weekly program](https://filmpalast.net/programmuebersicht/?time=week).
+
+The page generally exposes about one week of programming. The adapter recognizes OV/OmU markers and explicit spoken-language labels such as English, Korean, Japanese, and other languages. Original and subtitle languages are retained when supplied.
+
+### Universum City Kinos Karlsruhe
+
+Source: [Universum program](https://www.universum-city.de/de/programm).
+
+The adapter uses explicit audio and subtitle metadata where available and retains auditorium, dimension, technology, and ticket links when supplied. Explicit screening-level metadata takes precedence over title prefixes; fields are not guaranteed for every screening.
+
+## HTML site
+
+Generate one standalone page locally:
 
 ```bash
 python -m schauburg_schedule --html --output site/index.html
 ```
 
-Direct links can select a cinema with `#schauburg`, `#filmpalast`, or `#universum`, for example `site/index.html#universum`. The selected tab is also remembered locally when browser storage is available. Each panel reports whether its data is current, restored from an earlier successful snapshot, or unavailable. Text and JSON output are unchanged.
+The page has selectable Schauburg, Filmpalast, and Universum tabs, with teal, dark-blue, and red identities respectively. It follows the visitor’s system light/dark preference, works on phones and desktops, supports keyboard tab navigation, and accepts the hash links listed above. Without JavaScript, all cinema sections remain visible.
 
-## Cinema Sources
+Each panel reports whether its source is current, restored from a snapshot, or unavailable. The page has no external frontend framework, fonts, tracking, or runtime API dependencies.
 
-The command uses source adapters so each cinema can keep its own website parsing rules. `schauburg`, `filmpalast`, and `universum` are implemented. With no `--cinema` option, all three sources run independently.
+## Snapshot resilience
 
-Filmpalast data comes from its [weekly program page](https://filmpalast.net/programmuebersicht/?time=week), which generally exposes about one week of upcoming screenings. The adapter preserves explicit source labels such as `OV`, `OmU`, `englisch mit deutschen Untertiteln`, and `koreanisch mit Untertiteln`, and normalizes named spoken/subtitle languages when stated.
+Each cinema has a separate publishable JSON snapshot in `snapshots/`; snapshots contain normalized schedule data rather than raw website responses. Successful retrievals update only that cinema’s snapshot.
 
-Universum data comes from its [program page](https://www.universum-city.de/de/programm). Its server-rendered Cineamo payload contains the program, ISO showing times, audio/subtitle languages, rooms, and ticket URLs; no browser automation is used. Explicit screening audio and subtitle metadata takes precedence over title prefixes, and optional `3D`/`2D` and technology data such as `D-BOX` are retained in JSON and HTML output. Individual screening detail URLs are included where the overview exposes them. HTML output remains a combined page rather than separate cinema tabs.
+If a source fails, the program may restore that cinema’s prior snapshot when it still contains usable future screenings in the requested range. Past entries are removed and restored data is visibly marked in the HTML page. Expired snapshots, corrupted snapshots, and snapshots with no future screenings are not used; one broken snapshot does not affect other cinemas. A successful live empty result remains authoritative.
 
-## GitHub Pages
+## GitHub Pages automation
 
-GitHub Actions regenerates the schedule page daily at 06:15 UTC and on relevant pushes to `main`. Run it manually from the repository's **Actions** tab by selecting **Update GitHub Pages** and choosing **Run workflow**. Scheduled workflows use UTC and GitHub may occasionally delay them.
+The [GitHub Actions workflow](https://github.com/schulz-tobias-94/ka-movie-schedule/actions) runs daily at 06:15 UTC, can be started manually from the Actions tab, and runs on relevant application or workflow pushes. GitHub cron schedules can occasionally be delayed.
 
-After a successful build, the workflow commits changed `snapshots/*.json` files with the GitHub Actions bot identity. Snapshot-only commits do not match the workflow push paths, so they do not create deployment loops.
+The workflow generates the static page, deploys it through GitHub Pages, and commits changed snapshots with `github-actions[bot]`. Snapshot-only commits do not match the workflow push paths, preventing deployment loops. Inspect failed workflow runs in the Actions tab. Forks must configure GitHub Pages to use GitHub Actions as the publishing source.
 
-In repository **Settings** > **Pages**, set the publishing source to **GitHub Actions**. After the first successful deployment, the Pages URL appears in the workflow's deploy job and on that settings page. Open the failed workflow run in the Actions tab to inspect scraper or deployment logs.
+## Architecture
+
+```text
+src/schauburg_schedule/
+├── sources/
+│   ├── schauburg.py
+│   ├── filmpalast.py
+│   └── universum.py
+├── coordinator.py
+├── snapshots.py
+├── formatter.py
+└── cli.py
+```
+
+Each source owns its website-specific fetching and parsing. Shared models normalize screening data, the coordinator isolates source failures, and formatters consume normalized results. Tests use saved fixtures and mocked responses rather than live cinema websites.
+
+## Testing
+
+Install test dependencies as shown above, then run:
+
+```bash
+pytest
+```
+
+The automated tests do not depend on live cinema websites.
 
 ## Troubleshooting
 
-Use `--debug` to see skipped malformed entries and cache diagnostics. Connection and parser errors are printed to stderr with a nonzero exit status. The cinema can change its website markup; in that case, update the parser selectors and refresh `tests/fixtures/schedule.html` from a representative response.
+- Use `--debug` for parser, cache, and source diagnostics.
+- Use `--no-cache` when local cached responses may be stale.
+- A cinema website may change its markup or data source; update that cinema’s adapter, fixture, and tests.
+- A restored tab indicates that its current retrieval failed but usable prior data remains. An unavailable tab has no usable snapshot.
+- Run a successful live retrieval to refresh snapshots.
+- Inspect failed GitHub Actions runs in the Actions tab for deployment or source diagnostics.
+
+## Contributing and maintenance
+
+Cinema websites and APIs change. When updating an adapter:
+
+1. Change only that source where possible.
+2. Refresh its fixture.
+3. Add or update parser tests.
+4. Run the complete suite.
+5. Validate live output locally.
