@@ -1,7 +1,7 @@
 from datetime import date
 
-from schauburg_schedule import fetcher
-from schauburg_schedule.parser import parse_schedule
+from schauburg_schedule.sources import schauburg as fetcher
+from schauburg_schedule.sources.schauburg import parse_schedule
 
 
 def page(day, *, month="Jul", title="Film", next_url=None, selected=None):
@@ -50,8 +50,8 @@ def test_loads_batches_until_after_requested_date_and_keeps_final_day(monkeypatc
     screenings = parse_schedule(fetcher.fetch_schedule_html(days=8, use_cache=False, today=date(2026, 7, 31)))
 
     assert len(session.get_urls) == 3  # Initial request plus two load-more batches.
-    assert any(item.title == "Final" and item.date == date(2026, 8, 7) for item in screenings)
-    assert [item.title for item in screenings if item.date <= date(2026, 8, 7)] == ["One", "Two", "Final"]
+    assert any(item.movie_title == "Final" and item.date == date(2026, 8, 7) for item in screenings)
+    assert [item.movie_title for item in screenings if item.date <= date(2026, 8, 7)] == ["One", "Two", "Final"]
 
 
 def test_stops_for_no_results_empty_or_repeated_batches(monkeypatch):
@@ -80,5 +80,5 @@ def test_deduplicates_across_batches_and_honors_safety_limit(monkeypatch):
 
     screenings = parse_schedule(fetcher.fetch_schedule_html(days=14, use_cache=False, today=date(2026, 7, 31)))
 
-    assert [item.title for item in screenings] == ["One", "Two", "Three"]
+    assert [item.movie_title for item in screenings] == ["One", "Two", "Three"]
     assert len(session.get_urls) == 3

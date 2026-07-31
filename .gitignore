@@ -3,5 +3,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 site/
+snapshots/.*.tmp
+snapshots/*.bak
 .DS_Store
 *.egg-info/

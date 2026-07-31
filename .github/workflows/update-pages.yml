@@ -12,13 +12,13 @@ on:
       - ".github/workflows/update-pages.yml"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
   group: github-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -36,11 +36,28 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install .
       - name: Generate schedule page
-        run: python -m schauburg_schedule --html --output site/index.html --days 8 --no-cache
+        run: python -m schauburg_schedule --html --output site/index.html --days 8 --no-cache --snapshot-dir snapshots
       - name: Verify generated page
         run: |
           test -s site/index.html
           wc -c site/index.html
+      - name: Persist cinema snapshots
+        run: |
+          shopt -s nullglob
+          files=(snapshots/*.json)
+          ((${#files[@]})) || exit 0
+          git add "${files[@]}"
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update cinema snapshots [skip ci]"
+          branch="${{ github.event.repository.default_branch }}"
+          if ! git pull --rebase origin "$branch"; then
+            git rebase --abort || true
+            echo "Warning: could not rebase snapshot commit; deploying current page without persistence."
+            exit 0
+          fi
+          git push origin HEAD:"$branch" || echo "Warning: could not push snapshots; deploying current page without persistence."
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
         with:

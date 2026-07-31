@@ -1,6 +1,6 @@
 import pytest
 
-from schauburg_schedule.parser import VERSION_LABELS, version_label
+from schauburg_schedule.sources.schauburg import VERSION_LABELS, version_label
 
 
 @pytest.mark.parametrize("value, expected", [("OV", "OV"), ("ov", "ov"), ("OmU", "OmU"), ("OmeU", "OmeU"), ("OmdU", "OmdU"), ("DE", None), ("movie", None), ("OV extra", None)])
