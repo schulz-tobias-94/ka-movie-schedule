@@ -7,76 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-07",
-    "start": "2026-07-31"
+    "end": "2026-08-08",
+    "start": "2026-08-01"
   },
-  "retrieved_at": "2026-07-31T14:31:56.601669+02:00",
+  "retrieved_at": "2026-08-01T10:32:48.081542+02:00",
   "schema_version": 3,
   "screenings": [
-    {
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-07-31",
-      "dimension": null,
-      "format_label": "OV",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:30:00"
-    },
-    {
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-07-31",
-      "dimension": null,
-      "format_label": "OmU",
-      "movie_title": "The Invite",
-      "movie_url": "https://www.schauburg.de/film/the-invite",
-      "original_language": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-07-31",
-      "dimension": null,
-      "format_label": "OmU",
-      "movie_title": "Bitteres Fest",
-      "movie_url": "https://www.schauburg.de/film/bitteres-fest",
-      "original_language": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-07-31",
-      "dimension": null,
-      "format_label": "OmU",
-      "movie_title": "Obsession - Du sollst mich lieben",
-      "movie_url": "https://www.schauburg.de/film/obsession-du-sollst-mich-lieben-omu",
-      "original_language": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "auditorium": null,
       "booking_url": null,
@@ -316,6 +252,22 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-08-07",
+      "dimension": null,
+      "format_label": "OmU",
+      "movie_title": "Ghost in the Shell",
+      "movie_url": "https://www.schauburg.de/film/ghost-in-the-shell-omu",
+      "original_language": null,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "19:00:00"
     }
   ],
   "success": true
