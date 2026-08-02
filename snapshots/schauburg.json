@@ -7,28 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-08",
-    "start": "2026-08-01"
+    "end": "2026-08-09",
+    "start": "2026-08-02"
   },
-  "retrieved_at": "2026-08-01T10:32:48.081542+02:00",
+  "retrieved_at": "2026-08-02T10:35:42.070852+02:00",
   "schema_version": 3,
   "screenings": [
-    {
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-01",
-      "dimension": null,
-      "format_label": "OV",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:15:00"
-    },
     {
       "auditorium": null,
       "booking_url": null,
