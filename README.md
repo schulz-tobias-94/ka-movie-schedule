@@ -26,6 +26,7 @@ The selected tab is remembered locally when browser storage is available.
 - Selectable cinema tabs, hash links, responsive layout, automatic system light/dark mode, and teal, dark-blue, and red cinema themes.
 - Keyboard-accessible tabs and a no-JavaScript fallback that shows every cinema section.
 - Per-cinema failure isolation and snapshot fallback.
+- Best-effort IMDb title links, with safe search links when no exact match is available.
 - Daily GitHub Pages deployment.
 
 ## Installation
@@ -57,6 +58,7 @@ python -m schauburg_schedule --json
 python -m schauburg_schedule --json --output screenings.json
 python -m schauburg_schedule --html --output site/index.html
 python -m schauburg_schedule --no-cache --debug
+python -m schauburg_schedule --html --refresh-imdb --output site/index.html
 ```
 
 With no `--cinema`, all three sources run. `--days 8` means today plus the following seven calendar days. Past screenings are excluded. A failed cinema does not stop the other cinemas, and a successful live result with no matching screenings is not replaced with older snapshot data.
@@ -89,6 +91,8 @@ The adapter recognizes OV/OmU-style labels and follows the site’s additional-p
 
 Source: [Filmpalast weekly program](https://filmpalast.net/programmuebersicht/?time=week).
 
+The current embedded weekly payload reliably provides titles, format labels, performance times, auditoriums, booking links, and movie routes. It does not expose dependable release-year, runtime, director, original-title, country, or original-language movie metadata, so the adapter deliberately leaves those optional matching fields empty rather than deriving them from synopsis text.
+
 The page generally exposes about one week of programming. The adapter recognizes OV/OmU markers and explicit spoken-language labels such as English, Korean, Japanese, and other languages. Original and subtitle languages are retained when supplied.
 
 ### Universum City Kinos Karlsruhe
@@ -109,6 +113,18 @@ The page has selectable Schauburg, Filmpalast, and Universum tabs, with teal, da
 
 Each panel reports whether its source is current, restored from a snapshot, or unavailable. The page has no external frontend framework, fonts, tracking, or runtime API dependencies.
 
+Movie titles link to a canonical English IMDb title page when a confident match is available. Otherwise they link to IMDb title-search results. Cinema booking, screening, and movie-detail links remain separate `Tickets` or `Details` actions. IMDb resolution is optional and never removes screenings or blocks page generation.
+
+## IMDb enrichment
+
+TMDb is used only as an optional provider for IMDb external title IDs; it does not supply cinema schedules. The generated HTML footer includes the required TMDb attribution and official-logo notice: This product uses the TMDB API but is not endorsed or certified by TMDB. The project is independent and not affiliated with TMDb or IMDb. Set `TMDB_API_TOKEN` locally to enable remote matching. Without it, cached and manual matches are used where available and other titles receive an IMDb search link.
+
+The workflow secret can be added in **Repository Settings -> Secrets and variables -> Actions** as `TMDB_API_TOKEN`. It is optional for local development, tests, pull requests, and deployment.
+
+Manual corrections live in `config/movie-overrides.json`. Resolved publishable metadata is cached in `metadata/imdb-matches.json`; no provider responses or tokens are stored. Uncertain matches use search links, and a provider failure is retried later without affecting the cinema schedule.
+
+Use `--refresh-imdb` to revalidate cached automatic matches after improving metadata or matching rules. Manual overrides remain authoritative.
+
 ## Snapshot resilience
 
 Each cinema has a separate publishable JSON snapshot in `snapshots/`; snapshots contain normalized schedule data rather than raw website responses. Successful retrievals update only that cinema’s snapshot.
@@ -120,6 +136,8 @@ If a source fails, the program may restore that cinema’s prior snapshot when i
 The [GitHub Actions workflow](https://github.com/schulz-tobias-94/ka-movie-schedule/actions) runs daily at 06:15 UTC, can be started manually from the Actions tab, and runs on relevant application or workflow pushes. GitHub cron schedules can occasionally be delayed.
 
 The workflow generates the static page, deploys it through GitHub Pages, and commits changed snapshots with `github-actions[bot]`. Snapshot-only commits do not match the workflow push paths, preventing deployment loops. Inspect failed workflow runs in the Actions tab. Forks must configure GitHub Pages to use GitHub Actions as the publishing source.
+
+Changed IMDb-match cache data is committed with the same bot mechanism. The optional TMDb token is not printed or persisted.
 
 ## Architecture
 

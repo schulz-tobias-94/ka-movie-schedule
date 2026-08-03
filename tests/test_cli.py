@@ -41,6 +41,7 @@ def test_html_creates_output_directory_and_uses_berlin_today(monkeypatch, tmp_pa
     calls = []
     monkeypatch.setattr(cli, "today_in_berlin", lambda: requested_today)
     monkeypatch.setattr(cli, "select_sources", lambda ids: [object()])
+    monkeypatch.setattr(cli, "resolve_imdb_matches", lambda screenings: {})
     monkeypatch.setattr(cli, "collect_screenings", lambda sources, **kwargs: calls.append(kwargs) or result([
         screening(requested_today - timedelta(days=1), time(18), "Past", "OV"),
         screening(requested_today, time(19), "Heute", "OV"),

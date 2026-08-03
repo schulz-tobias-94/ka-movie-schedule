@@ -3,6 +3,7 @@ from __future__ import annotations
 import logging
 import re
 import time
+from dataclasses import replace
 from datetime import date, timedelta
 from hashlib import sha256
 from pathlib import Path
@@ -71,6 +72,15 @@ def _parse_time(value: str):
     return clock_time(int(match.group(1)), int(match.group(2)))
 
 
+def _runtime_minutes(entry: Tag) -> int | None:
+    value = entry.get_text(" ", strip=True)
+    hour = re.search(r"\b(\d{1,2})\s*Std(?:\.?|unden)?(?:\s+(\d{1,2})\s*Min(?:uten)?)?\b", value, re.I)
+    minutes = int(hour.group(1)) * 60 + int(hour.group(2) or 0) if hour else None
+    match = re.search(r"\b(\d{1,3})\s*(?:MIN|Minuten)\b", value, re.I)
+    minutes = minutes if minutes is not None else int(match.group(1)) if match else None
+    return minutes if minutes is not None and 1 <= minutes <= 600 else None
+
+
 def schedule_dates(html: str, *, reference: date | None = None) -> list[date]:
     soup = BeautifulSoup(html, "html.parser")
     reference = reference or _reference_date(soup)
@@ -123,6 +133,7 @@ def parse_schedule(html: str) -> list[Screening]:
                     _parse_time(time_node.get_text(" ", strip=True)),
                     normalize(title_node.get_text(" ", strip=True)), label,
                     movie_url=urljoin(BASE_URL, href) if href else None,
+                    runtime_minutes=_runtime_minutes(entry),
                 )
             except ValueError as exc:
                 logger.debug("Skipping malformed screening entry: %s", exc)
@@ -245,5 +256,29 @@ class SchauburgSource(CinemaSource):
     cinema_id = "schauburg"
     cinema_name = "Schauburg Karlsruhe"
 
+    @staticmethod
+    def _directors(screenings: list[Screening]) -> dict[str, tuple[str, ...]]:
+        """The labelled detail field is optional matching evidence, never source data."""
+        urls = sorted({item.movie_url for item in screenings if item.movie_url})
+        session, directors = requests.Session(), {}
+        session.headers["User-Agent"] = USER_AGENT
+        for url in urls:
+            try:
+                response = session.get(url, timeout=20)
+                response.raise_for_status()
+                soup = BeautifulSoup(response.text, "html.parser")
+                topic = next((node for node in soup.select(".schauburg-filmdetail-poster-topic") if normalize(node.get_text(" ", strip=True)).casefold() == "regie"), None)
+                value = topic.find_next_sibling(class_="schauburg-filmdetail-poster-topic-text") if topic else None
+                if value:
+                    names = tuple(dict.fromkeys(part.strip() for part in value.get_text(" ", strip=True).replace("\xa0", " ").split(",") if part.strip()))
+                    if names:
+                        directors[url] = names
+            except requests.RequestException as exc:
+                logging.getLogger(__name__).debug("Could not load Schauburg movie metadata for %s: %s", url, exc)
+        return directors
+
     def fetch(self, *, days: int, today: date, use_cache: bool) -> list[Screening]:
-        return parse_schedule(fetch_schedule_html(days=days, use_cache=use_cache, today=today))
+        screenings = parse_schedule(fetch_schedule_html(days=days, use_cache=use_cache, today=today))
+        directors = self._directors(screenings)
+        logging.getLogger(__name__).debug("Schauburg movie metadata requests: %d", len({item.movie_url for item in screenings if item.movie_url}))
+        return [replace(item, director_names=directors.get(item.movie_url, ())) for item in screenings]

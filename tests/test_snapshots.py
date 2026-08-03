@@ -18,6 +18,12 @@ def test_snapshot_round_trip_is_deterministic_utf8_json():
     assert serialize_snapshot(deserialize_snapshot(serialized)) == serialized
 
 
+def test_snapshot_round_trip_preserves_optional_movie_metadata():
+    item = Screening("schauburg", "Schauburg Karlsruhe", date(2026, 8, 3), time(20), "Film", "OV", release_year=2026, runtime_minutes=107, director_names=("Jane Doe",), original_title="Original", alternate_titles=("Alternative",), production_countries=("Germany",))
+    restored = deserialize_snapshot(serialize_snapshot(CinemaResult("schauburg", "Schauburg Karlsruhe", (item,), datetime(2026, 8, 3, 12), True)))
+    assert restored.screenings[0] == item
+
+
 @pytest.mark.parametrize("snapshot", ["not json", '{"schema_version": 2}', '{"schema_version": 1, "cinema": {}}'])
 def test_malformed_or_incompatible_snapshots_are_rejected(snapshot):
     with pytest.raises(SnapshotError):

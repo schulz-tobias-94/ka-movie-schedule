@@ -36,6 +36,8 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install .
       - name: Generate schedule page
+        env:
+          TMDB_API_TOKEN: ${{ secrets.TMDB_API_TOKEN }}
         run: python -m schauburg_schedule --html --output site/index.html --days 8 --no-cache --snapshot-dir snapshots
       - name: Verify generated page
         run: |
@@ -44,7 +46,7 @@ jobs:
       - name: Persist cinema snapshots
         run: |
           shopt -s nullglob
-          files=(snapshots/*.json)
+          files=(snapshots/*.json metadata/imdb-matches.json)
           ((${#files[@]})) || exit 0
           git add "${files[@]}"
           git diff --cached --quiet && exit 0

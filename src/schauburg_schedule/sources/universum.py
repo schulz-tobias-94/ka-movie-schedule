@@ -4,6 +4,7 @@ import logging
 import json
 import re
 import time
+from dataclasses import replace
 from datetime import date, datetime, time as clock_time, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -104,6 +105,7 @@ def _embedded_value(payload: str, key: str) -> object | None:
 def _embedded_program(soup: BeautifulSoup) -> tuple[list[dict], dict[int, str]] | None:
     showings: list[dict] | None = None
     rooms: dict[int, str] = {}
+    contents: dict[int, dict] = {}
     for script in soup.find_all("script"):
         text = script.string or ""
         if not text.startswith("self.__next_f.push("):
@@ -120,7 +122,32 @@ def _embedded_program(soup: BeautifulSoup) -> tuple[list[dict], dict[int, str]] 
         value = _embedded_value(payload, "cinemaRooms")
         if isinstance(value, list):
             rooms.update({item["id"]: item["name"] for item in value if isinstance(item, dict) and isinstance(item.get("id"), int) and isinstance(item.get("name"), str)})
-    return (showings, rooms) if showings is not None else None
+        for key in ("allContents", "initialContents", "contents"):
+            value = _embedded_value(payload, key)
+            entries = value.values() if isinstance(value, dict) else value
+            if isinstance(entries, list) or hasattr(entries, "__iter__"):
+                for item in entries:
+                    if isinstance(item, dict) and isinstance(item.get("id"), int):
+                        contents[item["id"]] = item
+    return (showings, rooms, contents) if showings is not None else None
+
+
+def _movie_metadata(raw: dict, contents: dict[int, dict]) -> tuple[int | None, int | None, tuple[str, ...], str | None]:
+    """Use explicit Cineamo content fields only; incomplete sources remain unknown."""
+    content = contents.get(raw.get("contentId") or raw.get("movieId"), {})
+    def year(value: object) -> int | None:
+        match = re.search(r"\b(\d{4})\b", str(value)) if value is not None else None
+        return int(match.group(1)) if match and 1888 <= int(match.group(1)) <= 2100 else None
+    def runtime(value: object) -> int | None:
+        if isinstance(value, int) and 1 <= value <= 600:
+            return value
+        match = re.search(r"\b(\d{1,3})\s*(?:min(?:uten)?|minutes?)\b", str(value), re.I) if value is not None else None
+        return int(match.group(1)) if match and 1 <= int(match.group(1)) <= 600 else None
+    names = content.get("directorNames") or content.get("directors") or ()
+    if isinstance(names, str):
+        names = re.split(r"\s*(?:,|/|\bund\b)\s*", names)
+    directors = tuple(dict.fromkeys(name.strip() for name in names if isinstance(name, str) and name.strip())) if isinstance(names, (list, tuple)) else ()
+    return year(content.get("releaseYear") or content.get("releaseDate")), runtime(content.get("runtimeMinutes") or content.get("runtime") or content.get("duration")), directors, content.get("originalTitle") if isinstance(content.get("originalTitle"), str) else None
 
 
 def _screening_urls(soup: BeautifulSoup) -> dict[int, str]:
@@ -136,7 +163,7 @@ def _parse_embedded_program(soup: BeautifulSoup, *, today: date, days: int) -> t
     data = _embedded_program(soup)
     if data is None:
         return None
-    showings, rooms = data
+    showings, rooms, contents = data
     if not showings:
         return [], 0
     movie_urls, screening_urls = _movie_urls(soup), _screening_urls(soup)
@@ -169,10 +196,12 @@ def _parse_embedded_program(soup: BeautifulSoup, *, today: date, days: int) -> t
         technology = "D-BOX" if raw.get("isDbox") else "Dolby Atmos" if raw.get("isDolbyAtmos") else None
         dimension = "3D" if raw.get("isThreeDimensional") else "2D"
         showing_id = raw.get("id")
+        release_year, runtime_minutes, directors, original_title = _movie_metadata(raw, contents)
         seen.add(Screening("universum", "Universum City Kinos Karlsruhe", local_start.date(), local_start.time().replace(tzinfo=None), title,
                            format_label, original, subtitle, rooms.get(raw.get("cinemaRoomId")), movie_urls.get(title),
                            _safe_url(raw.get("onlineTicketUrl") or raw.get("bookingUrlExternal")), dimension, technology,
-                           screening_urls.get(showing_id) if isinstance(showing_id, int) else None))
+                           screening_urls.get(showing_id) if isinstance(showing_id, int) else None, release_year, runtime_minutes,
+                           directors, original_title))
     if parsed == 0:
         raise UniversumError("Universum program contains no usable screening entries; the website may have changed.")
     return sorted(seen, key=lambda item: (item.date, item.time, item.movie_title.casefold(), item.auditorium or "")), parsed
@@ -241,7 +270,44 @@ class UniversumSource(CinemaSource):
     cinema_id = "universum"
     cinema_name = "Universum City Kinos Karlsruhe"
 
+    @staticmethod
+    def _detail_metadata(screenings: list[Screening]) -> tuple[dict[str, tuple[tuple[str, ...], str | None, int | None]], int]:
+        """Read only explicit JSON-LD Movie fields, once per Universum movie."""
+        selected = {}
+        for item in screenings:
+            if item.screening_url and (item.movie_url or item.movie_title) not in selected and (not item.director_names or not item.original_title):
+                selected[item.movie_url or item.movie_title] = item.screening_url
+        session, metadata = requests.Session(), {}
+        session.headers["User-Agent"] = USER_AGENT
+        for key, url in selected.items():
+            try:
+                response = session.get(url, timeout=20)
+                response.raise_for_status()
+                soup = BeautifulSoup(response.text, "html.parser")
+                movie = None
+                for script in soup.select('script[type="application/ld+json"]'):
+                    payload = json.loads(script.string or "{}")
+                    if isinstance(payload, dict):
+                        movie = next((entry for entry in payload.get("@graph", []) if isinstance(entry, dict) and entry.get("@type") == "Movie"), None)
+                    if movie:
+                        break
+                if not movie:
+                    continue
+                directors = tuple(dict.fromkeys(item.get("name", "").strip() for item in movie.get("director", []) if isinstance(item, dict) and isinstance(item.get("name"), str) and item["name"].strip()))
+                duration = movie.get("duration", "")
+                match = re.fullmatch(r"PT(?:(\d+)H)?(?:(\d+)M)?", duration) if isinstance(duration, str) else None
+                runtime = int(match.group(1) or 0) * 60 + int(match.group(2) or 0) if match else None
+                metadata[key] = (directors, movie.get("alternateName") if isinstance(movie.get("alternateName"), str) else None, runtime if runtime and runtime <= 600 else None)
+            except (requests.RequestException, json.JSONDecodeError, TypeError, AttributeError) as exc:
+                logging.getLogger(__name__).debug("Could not load Universum movie metadata for %s: %s", url, exc)
+        return metadata, len(selected)
+
     def fetch(self, *, days: int, today: date, use_cache: bool) -> list[Screening]:
         screenings, parsed = parse_program(fetch_program_html(use_cache=use_cache), today=today, days=days)
-        logging.getLogger(__name__).debug("Universum overview requests: 1; detail requests: 0; parsed %d, retained %d", parsed, len(screenings))
-        return screenings
+        details, detail_requests = self._detail_metadata(screenings)
+        enriched = []
+        for item in screenings:
+            directors, original_title, runtime = details.get(item.movie_url or item.movie_title, ((), None, None))
+            enriched.append(replace(item, director_names=item.director_names or directors, original_title=item.original_title or original_title, runtime_minutes=item.runtime_minutes or runtime))
+        logging.getLogger(__name__).debug("Universum overview requests: 1; detail requests: %d; parsed %d, retained %d", detail_requests, parsed, len(screenings))
+        return enriched

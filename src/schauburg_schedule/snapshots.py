@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 
 from .models import CinemaResult, Screening
 
-SNAPSHOT_SCHEMA_VERSION = 3
+SNAPSHOT_SCHEMA_VERSION = 4
 APPLICATION_VERSION = "0.1.0"
 MAX_SNAPSHOT_BYTES = 2 * 1024 * 1024
 
@@ -36,6 +36,9 @@ def serialize_snapshot(result: CinemaResult, *, start_date: date | None = None, 
                 "original_language": item.original_language, "subtitle_language": item.subtitle_language,
                 "auditorium": item.auditorium, "movie_url": item.movie_url, "booking_url": item.booking_url,
                 "dimension": item.dimension, "technology": item.technology, "screening_url": item.screening_url,
+                "release_year": item.release_year, "runtime_minutes": item.runtime_minutes,
+                "director_names": list(item.director_names), "original_title": item.original_title,
+                "alternate_titles": list(item.alternate_titles), "production_countries": list(item.production_countries),
             }
             for item in sorted(result.screenings, key=lambda item: (item.date, item.time, item.movie_title.casefold()))
         ],
@@ -46,7 +49,7 @@ def serialize_snapshot(result: CinemaResult, *, start_date: date | None = None, 
 def deserialize_snapshot(text: str) -> CinemaResult:
     try:
         data = json.loads(text)
-        if not isinstance(data, dict) or data.get("schema_version") not in (1, 2, SNAPSHOT_SCHEMA_VERSION):
+        if not isinstance(data, dict) or data.get("schema_version") not in (1, 2, 3, SNAPSHOT_SCHEMA_VERSION):
             raise SnapshotError("Unsupported snapshot schema.")
         cinema = data["cinema"]
         if not isinstance(cinema, dict) or not all(isinstance(cinema.get(key), str) and cinema[key] for key in ("id", "name")):
@@ -56,7 +59,7 @@ def deserialize_snapshot(text: str) -> CinemaResult:
         if data.get("error") is not None and not isinstance(data["error"], str):
             raise SnapshotError("Snapshot error is invalid.")
         retrieved_at = datetime.fromisoformat(data["retrieved_at"])
-        if data.get("schema_version") == SNAPSHOT_SCHEMA_VERSION:
+        if data.get("schema_version") in (3, SNAPSHOT_SCHEMA_VERSION):
             request_range = data.get("requested_date_range")
             if not isinstance(data.get("application_version"), str) or not isinstance(request_range, dict) or set(request_range) != {"start", "end"}:
                 raise SnapshotError("Snapshot date range is invalid.")
@@ -87,8 +90,18 @@ def _screening_from_data(data: object) -> Screening:
     for key in ("movie_url", "booking_url", "screening_url"):
         if (value := data.get(key)) is not None and urlparse(value).scheme not in {"http", "https"}:
             raise SnapshotError("Snapshot URL is invalid.")
+    release_year, runtime_minutes = data.get("release_year"), data.get("runtime_minutes")
+    if release_year is not None and (not isinstance(release_year, int) or not 1888 <= release_year <= 2100):
+        raise SnapshotError("Snapshot release year is invalid.")
+    if runtime_minutes is not None and (not isinstance(runtime_minutes, int) or not 1 <= runtime_minutes <= 600):
+        raise SnapshotError("Snapshot runtime is invalid.")
+    tuple_fields = ("director_names", "alternate_titles", "production_countries")
+    if any(not isinstance(data.get(key, []), list) or not all(isinstance(value, str) and value for value in data.get(key, [])) for key in tuple_fields):
+        raise SnapshotError("Snapshot movie metadata is invalid.")
+    if data.get("original_title") is not None and not isinstance(data["original_title"], str):
+        raise SnapshotError("Snapshot original title is invalid.")
     try:
-        return Screening(data["cinema_id"], data["cinema_name"], date.fromisoformat(data["date"]), time.fromisoformat(data["time"]), data["movie_title"], *(data.get(key) for key in optional))
+        return Screening(data["cinema_id"], data["cinema_name"], date.fromisoformat(data["date"]), time.fromisoformat(data["time"]), data["movie_title"], *(data.get(key) for key in optional), release_year, runtime_minutes, tuple(data.get("director_names", [])), data.get("original_title"), tuple(data.get("alternate_titles", [])), tuple(data.get("production_countries", [])))
     except (KeyError, TypeError, ValueError) as exc:
         raise SnapshotError(f"Malformed snapshot screening: {exc}") from exc
 

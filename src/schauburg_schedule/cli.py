@@ -8,6 +8,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from .coordinator import collect_screenings, persist_and_restore_snapshots, successful_screenings
+from .enrichment import resolve_imdb_matches
 from .formatter import format_html, format_json, format_text
 from .sources import select_sources
 
@@ -25,6 +26,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--site-title", default="Karlsruhe Originalfassungen", metavar="TEXT", help="HTML page title")
     parser.add_argument("--snapshot-dir", type=Path, default=Path("snapshots"), metavar="PATH", help="directory for per-cinema snapshots")
     parser.add_argument("--no-snapshot-fallback", action="store_true", help="do not restore failed sources from snapshots")
+    parser.add_argument("--refresh-imdb", action="store_true", help="revalidate cached automatic IMDb matches")
     return parser
 
 
@@ -56,7 +58,8 @@ def main(argv: list[str] | None = None) -> int:
     screenings = successful_screenings(results)
     screenings = [item for item in screenings if today <= item.date <= last_date]
     if args.html:
-        output = format_html(results, start_date=today, end_date=last_date, updated_at=datetime.now(ZoneInfo("Europe/Berlin")), site_title=args.site_title)
+        imdb_matches = resolve_imdb_matches(screenings, **({"refresh": True} if args.refresh_imdb else {}))
+        output = format_html(results, start_date=today, end_date=last_date, updated_at=datetime.now(ZoneInfo("Europe/Berlin")), site_title=args.site_title, imdb_matches=imdb_matches)
     else:
         output = format_json(screenings) if args.json else format_text(screenings) + "\n"
     try:

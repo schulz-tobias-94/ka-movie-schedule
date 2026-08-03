@@ -18,6 +18,13 @@ class Screening:
     dimension: str | None = None
     technology: str | None = None
     screening_url: str | None = None
+    # Explicit movie metadata used only as optional IMDb matching evidence.
+    release_year: int | None = None
+    runtime_minutes: int | None = None
+    director_names: tuple[str, ...] = ()
+    original_title: str | None = None
+    alternate_titles: tuple[str, ...] = ()
+    production_countries: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)

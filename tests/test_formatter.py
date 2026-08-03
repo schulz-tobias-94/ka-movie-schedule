@@ -3,6 +3,8 @@ import json
 from bs4 import BeautifulSoup
 
 from schauburg_schedule.formatter import format_html, format_json, format_text
+from schauburg_schedule.enrichment.imdb import ImdbMatch
+from schauburg_schedule.enrichment.title_normalization import movie_key
 from schauburg_schedule.models import CinemaResult, Screening
 
 
@@ -53,7 +55,8 @@ def test_html_tabs_grouping_links_and_escaping():
         assert tab["aria-controls"] == panel["id"] and panel["aria-labelledby"] == tab["id"]
     assert soup.select_one("#tab-schauburg")["aria-selected"] == "true"
     assert "Mädchen &lt; &amp; &quot;Film&quot;" in output
-    assert "https://example.test/a?x=1&amp;y=2" in output
+    assert "https://example.test/a?x=1&amp;y=2" not in output
+    assert "https://www.imdb.com/find/?q=M%C3%A4dchen+%3C+%26+%22Film%22&amp;s=tt&amp;ttype=ft" in output
     assert output.count('<article class="movie">') == 1
     assert "16:30" in output and "19:00" in output
     assert 'class="format-badge">OmU</span>' in output
@@ -89,6 +92,24 @@ def test_html_two_failed_sources_keeps_the_successful_panel():
     assert "Film" in output and 'class="format-badge">OmU</span>' in output and "Spanisch · Deutsche Untertitel" in output
 
 
+def test_html_uses_imdb_for_titles_and_details_for_cinema_movie_urls():
+    movie = Screening("schauburg", "Schauburg Karlsruhe", date(2026, 7, 31), time(20), "Film", "OV", movie_url="https://cinema.example/film")
+    match = ImdbMatch(movie_key("Film"), "Film", "tt1234567", "exact")
+    output = html([cinema_result("schauburg", "Schauburg Karlsruhe", [movie])], imdb_matches={match.key: match})
+    assert 'href="https://www.imdb.com/title/tt1234567/"' in output
+    assert 'aria-label="Open Film on IMDb"' in output
+    assert 'class="movie-action" href="https://cinema.example/film">Details</a>' in output
+
+
+def test_html_uses_aliases_for_title_only_and_year_specific_screenings():
+    title_only = Screening("schauburg", "Schauburg Karlsruhe", date(2026, 7, 31), time(20), "Die Odyssee", "OmU")
+    dated = Screening("universum", "Universum City Kinos Karlsruhe", date(2026, 7, 31), time(21), "Die Odyssee", "OmU", release_year=2026)
+    base = ImdbMatch("die odyssee", "Die Odyssee", "tt33764258", "confident")
+    rich = ImdbMatch("die odyssee|2026", "Die Odyssee", "tt33764258", "confident", resolved_via="die odyssee|2026")
+    output = html([cinema_result("schauburg", "Schauburg Karlsruhe", [title_only]), cinema_result("universum", "Universum City Kinos Karlsruhe", [dated])], imdb_matches={base.key: base, rich.key: rich})
+    assert output.count('href="https://www.imdb.com/title/tt33764258/"') == 2
+
+
 def test_html_cinema_themes_are_progressive_and_accessible():
     output = html([])
     soup = BeautifulSoup(output, "html.parser")
@@ -107,3 +128,23 @@ def test_html_cinema_themes_are_progressive_and_accessible():
         assert f'body[data-active-cinema="{cinema_id}"] {{ --accent: {accent}; --accent-dark: {strong};' in css
         assert f'.cinema-panel[data-cinema="{cinema_id}"] {{ --panel-accent: {accent}; --panel-dark: {strong};' in css
     assert "http" not in script and "Film" not in script
+
+
+def test_html_includes_visible_tmdb_footer_attribution():
+    output = html([])
+    soup = BeautifulSoup(output, "html.parser")
+    footer = soup.footer
+    credits = footer.select_one("section.credits")
+    logo_link = credits.select_one('a.tmdb-link[href="https://www.themoviedb.org/"]')
+
+    assert "This product uses the TMDB API but is not endorsed or certified by TMDB." in footer.get_text()
+    assert "TMDb wird zur Zuordnung von Kinotiteln zu IMDb-Einträgen verwendet." in footer.get_text()
+    assert "nicht mit Schauburg, Filmpalast, Universum, IMDb oder TMDb verbunden" in footer.get_text()
+    assert logo_link["aria-label"] == "TMDb öffnen"
+    assert logo_link.select_one("svg.tmdb-logo[aria-hidden=true]") is not None
+
+    css = soup.style.string
+    logo_rule = css.split(".tmdb-logo {", 1)[1].split("}", 1)[0]
+    assert "--accent" not in logo_rule
+    assert "@media (prefers-color-scheme: dark)" in css and ".credits" in css
+    assert "TMDB API" not in soup.script.string

@@ -3,9 +3,9 @@ from pathlib import Path
 
 import pytest
 
-from schauburg_schedule.models import CinemaResult
+from schauburg_schedule.models import CinemaResult, Screening
 from schauburg_schedule.snapshots import deserialize_snapshot, serialize_snapshot
-from schauburg_schedule.sources.universum import UniversumError, _title, parse_program
+from schauburg_schedule.sources.universum import UniversumError, UniversumSource, _title, parse_program
 
 FIXTURE = Path(__file__).parent / "fixtures" / "universum-program.html"
 
@@ -32,6 +32,27 @@ def test_days_trim_empty_and_changed_pages():
 
 def test_title_prefix_cleanup_keeps_the_explicit_metadata_authoritative():
     assert _title("(2D engl.OV) Spider-Man (auch in D-BOX)") == ("Spider-Man", "OV")
+
+
+def test_embedded_program_uses_explicit_movie_metadata():
+    content = FIXTURE.read_text().replace('\\"id\\":101,', '\\"id\\":101,\\"contentId\\":9,') + '<script>self.__next_f.push([1,"{\\"allContents\\":[{\\"id\\":9,\\"releaseYear\\":2026,\\"runtimeMinutes\\":107,\\"directorNames\\":[\\"Jane Doe\\",\\"John Doe\\"],\\"originalTitle\\":\\"Film One Original\\"}]} "])</script>'
+    item = parse_program(content, today=date(2026, 12, 30), days=2)[0][0]
+    assert (item.release_year, item.runtime_minutes, item.director_names, item.original_title) == (2026, 107, ("Jane Doe", "John Doe"), "Film One Original")
+
+
+def test_universum_fetches_one_detail_page_per_movie_for_jsonld_director(monkeypatch):
+    class Response:
+        text = '<script type="application/ld+json">{"@graph":[{"@type":"Movie","alternateName":"Original Film","duration":"PT1H47M","director":[{"name":"Jane Doe"}]}]}</script>'
+        def raise_for_status(self): pass
+    calls = []
+    class Session:
+        headers = {}
+        def get(self, url, **kwargs): calls.append(url); return Response()
+    monkeypatch.setattr("schauburg_schedule.sources.universum.requests.Session", Session)
+    item = Screening("universum", "Universum City Kinos Karlsruhe", date(2026, 12, 30), datetime.min.time(), "Film", "OV", movie_url="https://example/movie", screening_url="https://example/showing")
+    metadata, count = UniversumSource._detail_metadata([item, item])
+    assert count == len(calls) == 1
+    assert metadata["https://example/movie"] == (("Jane Doe",), "Original Film", 107)
 
 
 def test_universum_snapshot_retains_extended_metadata():
