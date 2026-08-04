@@ -7,58 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-10",
-    "start": "2026-08-03"
+    "end": "2026-08-11",
+    "start": "2026-08-04"
   },
-  "retrieved_at": "2026-08-03T14:59:15.019256+02:00",
+  "retrieved_at": "2026-08-04T09:26:29.492879+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12408",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-03",
-      "dimension": "2D",
-      "director_names": [
-        "Andrew Stanton"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Toy Story 5",
-      "movie_url": "https://www.universum-city.de/de/programm/1503921",
-      "original_language": "English",
-      "original_title": "Toy Story 5",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 102,
-      "screening_url": "https://www.universum-city.de/de/programm/1503921/44768681",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "18:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12218",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-03",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OV",
-      "movie_title": "OV Sneak Preview",
-      "movie_url": null,
-      "original_language": null,
-      "original_title": "$undefined",
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 120,
-      "screening_url": "https://www.universum-city.de/de/programm/1941729/44834651",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 2",
@@ -67,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -76,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 150,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1684845/44778356",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:15:00"
@@ -89,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Christopher Nolan"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Odyssee 3.W.",
       "movie_url": null,
@@ -98,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 172,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1518574/44778350",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "19:30:00"
@@ -111,7 +69,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OV",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -120,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 150,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1684845/44755534",
       "subtitle_language": null,
       "technology": null,
       "time": "20:30:00"
@@ -133,9 +93,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-05",
       "dimension": "2D",
-      "director_names": [
-        "Andrew Stanton"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Toy Story 5",
       "movie_url": "https://www.universum-city.de/de/programm/1503921",
@@ -157,7 +115,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-05",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Christopher Nolan"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Odyssee 3.W.",
       "movie_url": null,
@@ -201,7 +161,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-05",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -223,7 +185,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-06",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Christopher Nolan"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Odyssee 3.W.",
       "movie_url": null,
@@ -245,7 +209,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-06",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -289,7 +255,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-07",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -311,7 +279,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-07",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Christopher Nolan"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Odyssee 3.W.",
       "movie_url": null,
@@ -333,7 +303,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-07",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OV",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -377,7 +349,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-08",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -399,7 +373,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-08",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Christopher Nolan"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Odyssee 3.W.",
       "movie_url": null,
@@ -421,7 +397,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-08",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -470,10 +448,10 @@
       "movie_title": "Spider-Man: Brand New Day (Ukrainische Sprachfassung)",
       "movie_url": null,
       "original_language": "Ukrainian",
-      "original_title": "Spider-Man: Brand New Day",
+      "original_title": "$undefined",
       "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 150,
+      "release_year": null,
+      "runtime_minutes": null,
       "screening_url": null,
       "subtitle_language": null,
       "technology": null,
@@ -487,7 +465,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-09",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OV",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -509,7 +489,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-10",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -531,7 +513,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-10",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Christopher Nolan"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Odyssee 3.W.",
       "movie_url": null,
@@ -544,6 +528,52 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "19:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12339",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-10",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OV",
+      "movie_title": "OV Sneak Preview",
+      "movie_url": null,
+      "original_language": null,
+      "original_title": "$undefined",
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 120,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12569",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-11",
+      "dimension": "2D",
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
+      "format_label": "OV",
+      "movie_title": "Spider-Man: Brand New Day",
+      "movie_url": "https://www.universum-city.de/de/programm/1684845",
+      "original_language": "English",
+      "original_title": "Spider-Man: Brand New Day",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 150,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": "D-BOX",
+      "time": "19:45:00"
     }
   ],
   "success": true
