@@ -282,6 +282,28 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.881519+00:00"
   },
+  "katseye wild hearts": {
+    "authoritative_titles": [
+      "KATSEYE: WILD HEARTS",
+      "KATSEYE: WILD HEARTS",
+      "KATSEYE: WILD HEARTS",
+      ""
+    ],
+    "imdb_id": "tt43657324",
+    "key": "katseye wild hearts",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "KATSEYE: WILD HEARTS",
+    "matched_year": 2026,
+    "query_title": "KATSEYE: WILD HEARTS",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-08-05T08:50:42.379745+00:00"
+  },
   "obsession": {
     "authoritative_titles": [],
     "imdb_id": null,
