@@ -7,108 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-12",
-    "start": "2026-08-05"
+    "end": "2026-08-13",
+    "start": "2026-08-06"
   },
-  "retrieved_at": "2026-08-05T10:50:32.829094+02:00",
+  "retrieved_at": "2026-08-06T10:51:38.923521+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12439",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-05",
-      "dimension": "2D",
-      "director_names": [
-        "Andrew Stanton"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Toy Story 5",
-      "movie_url": "https://www.universum-city.de/de/programm/1503921",
-      "original_language": "English",
-      "original_title": "Toy Story 5",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 102,
-      "screening_url": "https://www.universum-city.de/de/programm/1503921/44778341",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "18:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12429",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-05",
-      "dimension": "2D",
-      "director_names": [
-        "Christopher Nolan"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Die Odyssee 3.W.",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "The Odyssey",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 172,
-      "screening_url": "https://www.universum-city.de/de/programm/1518574/44778334",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12440",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-05",
-      "dimension": "2D",
-      "director_names": [
-        "Curry Barker"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Obsession - Du sollst mich lieben",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Obsession",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 109,
-      "screening_url": "https://www.universum-city.de/de/programm/1692879/44778355",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/11982",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-05",
-      "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Spider-Man: Brand New Day",
-      "movie_url": "https://www.universum-city.de/de/programm/1684845",
-      "original_language": "English",
-      "original_title": "Spider-Man: Brand New Day",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 150,
-      "screening_url": "https://www.universum-city.de/de/programm/1684845/44548742",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 2",
@@ -121,14 +25,14 @@
         "Christopher Nolan"
       ],
       "format_label": "OmU",
-      "movie_title": "Die Odyssee 3.W.",
+      "movie_title": "Die Odyssee 4.W.",
       "movie_url": null,
       "original_language": "English",
       "original_title": "The Odyssey",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 172,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1518574/44870965",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:00:00"
@@ -152,9 +56,9 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 150,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1684845/44870970",
       "subtitle_language": "German",
-      "technology": null,
+      "technology": "D-BOX",
       "time": "20:15:00"
     },
     {
@@ -176,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 109,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1692879/44873152",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:45:00"
@@ -217,7 +121,7 @@
         "Christopher Nolan"
       ],
       "format_label": "OmU",
-      "movie_title": "Die Odyssee 3.W.",
+      "movie_title": "Die Odyssee 4.W.",
       "movie_url": null,
       "original_language": "English",
       "original_title": "The Odyssey",
@@ -313,7 +217,7 @@
         "Christopher Nolan"
       ],
       "format_label": "OmU",
-      "movie_title": "Die Odyssee 3.W.",
+      "movie_title": "Die Odyssee 4.W.",
       "movie_url": null,
       "original_language": "English",
       "original_title": "The Odyssey",
@@ -346,7 +250,7 @@
       "runtime_minutes": 150,
       "screening_url": null,
       "subtitle_language": "German",
-      "technology": null,
+      "technology": "D-BOX",
       "time": "20:30:00"
     },
     {
@@ -383,7 +287,7 @@
       "dimension": "2D",
       "director_names": [],
       "format_label": null,
-      "movie_title": "Spider-Man: Brand New Day (Ukrainische Sprachfassung)",
+      "movie_title": "(UkrainVers.) Spider-Man: Brand New Day",
       "movie_url": null,
       "original_language": "Ukrainian",
       "original_title": "$undefined",
@@ -440,7 +344,7 @@
       "runtime_minutes": 150,
       "screening_url": null,
       "subtitle_language": "German",
-      "technology": null,
+      "technology": "D-BOX",
       "time": "19:15:00"
     },
     {
@@ -455,7 +359,7 @@
         "Christopher Nolan"
       ],
       "format_label": "OmU",
-      "movie_title": "Die Odyssee 3.W.",
+      "movie_title": "Die Odyssee 4.W.",
       "movie_url": null,
       "original_language": "English",
       "original_title": "The Odyssey",
@@ -485,7 +389,7 @@
       "release_year": null,
       "runtime_minutes": 120,
       "screening_url": null,
-      "subtitle_language": "German",
+      "subtitle_language": null,
       "technology": null,
       "time": "20:30:00"
     },
@@ -525,7 +429,7 @@
         "Christopher Nolan"
       ],
       "format_label": "OmU",
-      "movie_title": "Die Odyssee 3.W.",
+      "movie_title": "Die Odyssee 4.W.",
       "movie_url": null,
       "original_language": "English",
       "original_title": "The Odyssey",
@@ -558,7 +462,7 @@
       "runtime_minutes": 150,
       "screening_url": null,
       "subtitle_language": "German",
-      "technology": null,
+      "technology": "D-BOX",
       "time": "20:15:00"
     },
     {
@@ -584,6 +488,76 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "20:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12660",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-13",
+      "dimension": "2D",
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Spider-Man: Brand New Day",
+      "movie_url": "https://www.universum-city.de/de/programm/1684845",
+      "original_language": "English",
+      "original_title": "Spider-Man: Brand New Day",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 150,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "16:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 3",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12685",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-13",
+      "dimension": "2D",
+      "director_names": [
+        "Christopher Nolan"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Die Odyssee 4.W.",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Odyssey",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 172,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "19:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12253",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-13",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OV",
+      "movie_title": "The End of Oak Street",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The End of Oak Street",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 99,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": "D-BOX",
+      "time": "20:30:00"
     }
   ],
   "success": true
