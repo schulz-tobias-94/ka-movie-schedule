@@ -102,9 +102,9 @@ def _de_date(value: date, today: date) -> str:
 def _render_screening(item: Screening) -> str:
     links = []
     if (url := _safe_url(item.booking_url)):
-        links.append(f'<a href="{escape(url, quote=True)}">Tickets</a>')
+        links.append(f'<a href="{escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">Tickets</a>')
     elif (url := _safe_url(item.screening_url)):
-        links.append(f'<a href="{escape(url, quote=True)}">Details</a>')
+        links.append(f'<a href="{escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">Details</a>')
     label = _html_label(item)
     details = label.removeprefix(item.format_label or "").removeprefix(" · ")
     badge = f' <span class="format-badge">{escape(item.format_label)}</span>' if item.format_label else ""
@@ -123,9 +123,9 @@ def _render_schedule(items: list[Screening], *, today: date, imdb_matches: Mappi
             imdb_url = _safe_url(getattr(imdb_matches.get(movie_key(title, showings[0].release_year)), "url", None)) or imdb_search_url(title)
             heading = escape(title)
             if imdb_url:
-                heading = f'<a href="{escape(imdb_url, quote=True)}" aria-label="Open {escape(title, quote=True)} on IMDb">{heading}</a>'
+                heading = f'<a href="{escape(imdb_url, quote=True)}" target="_blank" rel="noopener noreferrer" aria-label="Open {escape(title, quote=True)} on IMDb">{heading}</a>'
             has_screening_actions = any(_safe_url(item.booking_url) or _safe_url(item.screening_url) for item in showings)
-            details = f'<a class="movie-action" href="{escape(movie_url, quote=True)}">Details</a>' if movie_url and not has_screening_actions else ""
+            details = f'<a class="movie-action" href="{escape(movie_url, quote=True)}" target="_blank" rel="noopener noreferrer">Details</a>' if movie_url and not has_screening_actions else ""
             cards.append(f'<article class="movie"><div class="movie-header"><h3>{heading}</h3>{details}</div><ul>{"".join(_render_screening(item) for item in showings)}</ul></article>')
         sections.append(f'<section class="date"><h2><time datetime="{screening_date.isoformat()}">{_de_date(screening_date, today)}</time></h2>{"".join(cards)}</section>')
     return "".join(sections)

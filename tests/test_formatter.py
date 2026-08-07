@@ -62,6 +62,7 @@ def test_html_tabs_grouping_links_and_escaping():
     assert 'class="format-badge">OmU</span>' in output
     assert "Englisch · Deutsche Untertitel · Saal 4" in output
     assert ">Tickets<" in output
+    assert 'href="https://tickets.example/a" target="_blank" rel="noopener noreferrer">Tickets</a>' in output
     assert "Schauburg Karlsruhe: Mädchen" not in output
     assert "location.hash" in output and "localStorage" in output
 
@@ -97,8 +98,9 @@ def test_html_uses_imdb_for_titles_and_details_for_cinema_movie_urls():
     match = ImdbMatch(movie_key("Film"), "Film", "tt1234567", "exact")
     output = html([cinema_result("schauburg", "Schauburg Karlsruhe", [movie])], imdb_matches={match.key: match})
     assert 'href="https://www.imdb.com/title/tt1234567/"' in output
+    assert 'target="_blank" rel="noopener noreferrer"' in output
     assert 'aria-label="Open Film on IMDb"' in output
-    assert 'class="movie-action" href="https://cinema.example/film">Details</a>' in output
+    assert 'class="movie-action" href="https://cinema.example/film" target="_blank" rel="noopener noreferrer">Details</a>' in output
 
 
 def test_html_uses_aliases_for_title_only_and_year_specific_screenings():
