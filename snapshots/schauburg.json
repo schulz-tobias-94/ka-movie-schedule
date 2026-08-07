@@ -7,108 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-13",
-    "start": "2026-08-06"
+    "end": "2026-08-14",
+    "start": "2026-08-07"
   },
-  "retrieved_at": "2026-08-06T10:51:06.348759+02:00",
+  "retrieved_at": "2026-08-07T09:38:48.865141+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-06",
-      "dimension": null,
-      "director_names": [
-        "Isao Takahata"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Tränen der Erinnerung - Only Yesterday",
-      "movie_url": "https://www.schauburg.de/film/traenen-der-erinnerung-only-yesterday",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 118,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-06",
-      "dimension": null,
-      "director_names": [
-        "Christopher Nolan"
-      ],
-      "format_label": "OV",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 180,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-06",
-      "dimension": null,
-      "director_names": [
-        "Olivia Wilde"
-      ],
-      "format_label": "OV",
-      "movie_title": "The Invite",
-      "movie_url": "https://www.schauburg.de/film/the-invite",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 107,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-06",
-      "dimension": null,
-      "director_names": [
-        "Emerald Fennell"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wuthering Heights - Sturmhöhe",
-      "movie_url": "https://www.schauburg.de/film/wuthering-heights-sturmhoeheomu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 136,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
