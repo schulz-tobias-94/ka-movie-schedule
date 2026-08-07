@@ -10,7 +10,7 @@
     "end": "2026-08-14",
     "start": "2026-08-07"
   },
-  "retrieved_at": "2026-08-07T09:39:20.949124+02:00",
+  "retrieved_at": "2026-08-07T15:28:29.277879+02:00",
   "schema_version": 4,
   "screenings": [
     {
@@ -549,7 +549,7 @@
       "original_title": "விஸ்வநாத் & சன்ஸ்",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": null,
+      "runtime_minutes": 161,
       "screening_url": null,
       "subtitle_language": null,
       "technology": null,
