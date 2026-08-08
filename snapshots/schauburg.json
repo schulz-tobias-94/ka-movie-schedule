@@ -7,108 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-14",
-    "start": "2026-08-07"
+    "end": "2026-08-15",
+    "start": "2026-08-08"
   },
-  "retrieved_at": "2026-08-07T15:28:00.527154+02:00",
+  "retrieved_at": "2026-08-08T09:11:33.143228+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-07",
-      "dimension": null,
-      "director_names": [
-        "Christopher Nolan"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 180,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-07",
-      "dimension": null,
-      "director_names": [
-        "Mamoru Oshii"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Ghost in the Shell",
-      "movie_url": "https://www.schauburg.de/film/ghost-in-the-shell-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 83,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-07",
-      "dimension": null,
-      "director_names": [
-        "Pedro Almodóvar"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Bitteres Fest",
-      "movie_url": "https://www.schauburg.de/film/bitteres-fest",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-07",
-      "dimension": null,
-      "director_names": [
-        "Olivia Wilde"
-      ],
-      "format_label": "OmU",
-      "movie_title": "The Invite",
-      "movie_url": "https://www.schauburg.de/film/the-invite",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 107,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -450,6 +354,30 @@
       "cinema_id": "schauburg",
       "cinema_name": "Schauburg Karlsruhe",
       "date": "2026-08-14",
+      "dimension": null,
+      "director_names": [
+        "Genki Kawamura"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Exit 8",
+      "movie_url": "https://www.schauburg.de/film/exit-8",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 94,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-08-16",
       "dimension": null,
       "director_names": [
         "Genki Kawamura"
