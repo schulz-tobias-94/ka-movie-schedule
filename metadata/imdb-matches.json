@@ -240,6 +240,20 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:36.843372+00:00"
   },
+  "el gawahergy": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "el gawahergy",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "El Gawahergy",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-08-09T07:13:22.400063+00:00"
+  },
   "exit 8": {
     "authoritative_titles": [
       "Exit 8",
@@ -312,6 +326,102 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.881519+00:00"
+  },
+  "hindi engl omu awarapan 2": {
+    "authoritative_titles": [
+      "Awarapan 2",
+      "Awarapan 2",
+      "आवारापन २"
+    ],
+    "imdb_id": "tt36300841",
+    "key": "hindi engl omu awarapan 2",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Awarapan 2",
+    "matched_year": 2026,
+    "query_title": "(hindi engl.OmU) Awarapan 2",
+    "reason": null,
+    "resolved_via": "hindi engl omu awarapan 2|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-09T07:13:20.850614+00:00"
+  },
+  "hindi engl omu awarapan 2|2026": {
+    "authoritative_titles": [
+      "Awarapan 2",
+      "Awarapan 2",
+      "आवारापन २"
+    ],
+    "imdb_id": "tt36300841",
+    "key": "hindi engl omu awarapan 2|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Awarapan 2",
+    "matched_year": 2026,
+    "query_title": "(hindi engl.OmU) Awarapan 2",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-09T07:13:20.850614+00:00"
+  },
+  "hindi engl omu batwara 1947": {
+    "authoritative_titles": [
+      "Batwara 1947",
+      "Batwara 1947",
+      "बटवारा १९४७",
+      "Production no. 27",
+      "Lahore 1947"
+    ],
+    "imdb_id": "tt29330744",
+    "key": "hindi engl omu batwara 1947",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Batwara 1947",
+    "matched_year": 2026,
+    "query_title": "(hindi engl.OmU) Batwara 1947",
+    "reason": null,
+    "resolved_via": "hindi engl omu batwara 1947|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-09T07:13:21.258501+00:00"
+  },
+  "hindi engl omu batwara 1947|2026": {
+    "authoritative_titles": [
+      "Batwara 1947",
+      "Batwara 1947",
+      "बटवारा १९४७",
+      "Production no. 27",
+      "Lahore 1947"
+    ],
+    "imdb_id": "tt29330744",
+    "key": "hindi engl omu batwara 1947|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Batwara 1947",
+    "matched_year": 2026,
+    "query_title": "(hindi engl.OmU) Batwara 1947",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-09T07:13:21.258501+00:00"
   },
   "katseye wild hearts": {
     "authoritative_titles": [
@@ -694,19 +804,16 @@
     "imdb_id": "tt27165187",
     "key": "the end of oak street",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "The End of Oak Street",
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": "the end of oak street|2026",
-    "score": 94,
+    "resolved_via": "ukrain ver the end of oak street|2026",
+    "score": 88,
     "status": "confident",
-    "verified_at": "2026-08-06T08:51:50.362212+00:00"
+    "verified_at": "2026-08-09T07:13:21.613361+00:00"
   },
   "the end of oak street|2026": {
     "authoritative_titles": [
@@ -727,19 +834,16 @@
     "imdb_id": "tt27165187",
     "key": "the end of oak street|2026",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "The End of Oak Street",
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": null,
-    "score": 94,
+    "resolved_via": "ukrain ver the end of oak street|2026",
+    "score": 88,
     "status": "confident",
-    "verified_at": "2026-08-06T08:51:50.362212+00:00"
+    "verified_at": "2026-08-09T07:13:21.613361+00:00"
   },
   "the invite": {
     "authoritative_titles": [
@@ -937,6 +1041,70 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.252663+00:00"
+  },
+  "ukrain ver the end of oak street": {
+    "authoritative_titles": [
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "",
+      "Flowervale Street",
+      "플라워베일 스트리트",
+      "橡樹街末日",
+      "Конец Оук-стрит",
+      "Konec Oak Street",
+      "มหาภัยสุดถนนโอ๊ค",
+      "O Fim da Rua",
+      "Улица Флауэрвейл",
+      "Вулиця Флауервейл"
+    ],
+    "imdb_id": "tt27165187",
+    "key": "ukrain ver the end of oak street",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "The End of Oak Street",
+    "matched_year": 2026,
+    "query_title": "(Ukrain.Ver.) The End of Oak Street",
+    "reason": null,
+    "resolved_via": "ukrain ver the end of oak street|2026",
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-09T07:13:21.613361+00:00"
+  },
+  "ukrain ver the end of oak street|2026": {
+    "authoritative_titles": [
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "",
+      "Flowervale Street",
+      "플라워베일 스트리트",
+      "橡樹街末日",
+      "Конец Оук-стрит",
+      "Konec Oak Street",
+      "มหาภัยสุดถนนโอ๊ค",
+      "O Fim da Rua",
+      "Улица Флауэрвейл",
+      "Вулиця Флауервейл"
+    ],
+    "imdb_id": "tt27165187",
+    "key": "ukrain ver the end of oak street|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "The End of Oak Street",
+    "matched_year": 2026,
+    "query_title": "(Ukrain.Ver.) The End of Oak Street",
+    "reason": null,
+    "resolved_via": null,
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-09T07:13:21.613361+00:00"
   },
   "ukrainvers spider man brand new day": {
     "authoritative_titles": [],
