@@ -4,7 +4,9 @@ import argparse
 import logging
 import sys
 from datetime import date, datetime, timedelta
+from importlib.resources import as_file, files
 from pathlib import Path
+from shutil import copyfile
 from zoneinfo import ZoneInfo
 
 from .coordinator import collect_screenings, persist_and_restore_snapshots, successful_screenings
@@ -23,7 +25,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--debug", action="store_true", help="enable diagnostic logging")
     parser.add_argument("--no-cache", action="store_true", help="do not use or update the local cache")
     parser.add_argument("--cinema", action="append", metavar="CINEMA_ID", help="include a cinema (repeatable)")
-    parser.add_argument("--site-title", default="Karlsruhe Originalfassungen", metavar="TEXT", help="HTML page title")
+    parser.add_argument("--site-title", default="KA OV Schedule", metavar="TEXT", help="HTML page title")
     parser.add_argument("--snapshot-dir", type=Path, default=Path("snapshots"), metavar="PATH", help="directory for per-cinema snapshots")
     parser.add_argument("--no-snapshot-fallback", action="store_true", help="do not restore failed sources from snapshots")
     parser.add_argument("--refresh-imdb", action="store_true", help="revalidate cached automatic IMDb matches")
@@ -32,6 +34,13 @@ def build_parser() -> argparse.ArgumentParser:
 
 def today_in_berlin() -> date:
     return datetime.now(ZoneInfo("Europe/Berlin")).date()
+
+
+def _copy_favicon(output: Path) -> None:
+    target = output.parent / "assets" / "cinema-32x32.ico"
+    target.parent.mkdir(parents=True, exist_ok=True)
+    with as_file(files("schauburg_schedule").joinpath("assets/cinema-32x32.ico")) as source:
+        copyfile(source, target)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -67,6 +76,8 @@ def main(argv: list[str] | None = None) -> int:
             if args.html:
                 args.output.parent.mkdir(parents=True, exist_ok=True)
             args.output.write_text(output, encoding="utf-8")
+            if args.html:
+                _copy_favicon(args.output)
         else:
             sys.stdout.write(output)
     except OSError as exc:

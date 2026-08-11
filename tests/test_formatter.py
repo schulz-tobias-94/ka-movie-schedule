@@ -48,6 +48,7 @@ def test_html_tabs_grouping_links_and_escaping():
     soup = BeautifulSoup(output, "html.parser")
     assert output.startswith("<!doctype html>")
     assert '<meta charset="utf-8">' in output
+    assert '<link rel="icon" href="assets/cinema-32x32.ico" sizes="32x32" type="image/x-icon">' in output
     assert soup.html["lang"] == "de"
     assert len(soup.select('[role="tab"]')) == 3
     for cinema_id in ("schauburg", "filmpalast", "universum"):

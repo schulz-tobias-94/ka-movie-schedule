@@ -52,6 +52,7 @@ def test_html_creates_output_directory_and_uses_berlin_today(monkeypatch, tmp_pa
     assert calls[-1]["today"] == requested_today
     output = target.read_text(encoding="utf-8")
     assert "Heute" in output and "Past" not in output
+    assert (target.parent / "assets" / "cinema-32x32.ico").is_file()
 
 
 def test_today_in_berlin_uses_the_berlin_timezone(monkeypatch):

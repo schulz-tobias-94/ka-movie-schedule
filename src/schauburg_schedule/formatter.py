@@ -152,7 +152,7 @@ def _render_panel(result: CinemaResult, *, cinema_id: str, cinema_name: str, off
     return f'<section id="panel-{cinema_id}" class="cinema-panel" data-cinema="{cinema_id}" role="tabpanel" aria-labelledby="tab-{cinema_id}">{heading}{content}</section>'
 
 
-def format_html(results: Iterable[CinemaResult], *, start_date: date, end_date: date, updated_at: datetime, site_title: str = "Karlsruhe Originalfassungen", imdb_matches: Mapping[str, object] | None = None) -> str:
+def format_html(results: Iterable[CinemaResult], *, start_date: date, end_date: date, updated_at: datetime, site_title: str = "KA OV Schedule", imdb_matches: Mapping[str, object] | None = None) -> str:
     """Render all configured cinema results as a standalone progressively enhanced page."""
     by_id, imdb_matches = {result.cinema_id: result for result in results}, imdb_matches or {}
     panels, tabs = [], []
@@ -167,6 +167,7 @@ def format_html(results: Iterable[CinemaResult], *, start_date: date, end_date: 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="OV-, OmU- und fremdsprachige Kinovorstellungen in Karlsruhe">
+  <link rel="icon" href="assets/cinema-32x32.ico" sizes="32x32" type="image/x-icon">
   <title>{escape(site_title)}</title>
   <style>
     :root {{ --accent: #0f766e; --accent-dark: #115e59; --accent-light: #ccfbf1; --accent-soft: #f0fdfa; --accent-border: #99f6e4; --page: #f7f6f1; --surface: #ffffff; --ink: #1d2424; --muted: #53605c; --focus: #ea580c; --positive: #166534; --warning: #a16207; --danger: #b91c1c; font-family: system-ui, sans-serif; color: var(--ink); background: var(--page); }}
