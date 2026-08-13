@@ -501,6 +501,78 @@
     "status": "confident",
     "verified_at": "2026-08-09T07:13:21.258501+00:00"
   },
+  "insidious out of the further": {
+    "authoritative_titles": [
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "",
+      "Insidious 6",
+      "인시디어스 6",
+      "Insidious: The Bleeding World",
+      "Insidieux: hors du plus loin",
+      "Insidious: Jsou mezi námi",
+      "Sobrenatural: Agora Entre Nós",
+      "Insidious - Fuori dall'altrove",
+      "La noche del demonio: Están entre nosotros",
+      "Insidious: Fuera del Más Allá",
+      "Astralna Podmuklost: Izvan Daljine",
+      "Sobrenatural 6",
+      "วิญญาณตามติด หลุดจากนรก"
+    ],
+    "imdb_id": "tt32393988",
+    "key": "insidious out of the further",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Insidious: Out of the Further",
+    "matched_year": 2026,
+    "query_title": "Insidious: Out of the Further",
+    "reason": null,
+    "resolved_via": "insidious out of the further|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-13T07:50:29.754610+00:00"
+  },
+  "insidious out of the further|2026": {
+    "authoritative_titles": [
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "",
+      "Insidious 6",
+      "인시디어스 6",
+      "Insidious: The Bleeding World",
+      "Insidieux: hors du plus loin",
+      "Insidious: Jsou mezi námi",
+      "Sobrenatural: Agora Entre Nós",
+      "Insidious - Fuori dall'altrove",
+      "La noche del demonio: Están entre nosotros",
+      "Insidious: Fuera del Más Allá",
+      "Astralna Podmuklost: Izvan Daljine",
+      "Sobrenatural 6",
+      "วิญญาณตามติด หลุดจากนรก"
+    ],
+    "imdb_id": "tt32393988",
+    "key": "insidious out of the further|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Insidious: Out of the Further",
+    "matched_year": 2026,
+    "query_title": "Insidious: Out of the Further",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-13T07:50:29.754610+00:00"
+  },
   "jap dt omu chihiros reise ins zauberland|2003": {
     "authoritative_titles": [],
     "imdb_id": null,
