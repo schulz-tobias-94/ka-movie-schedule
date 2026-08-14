@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-20",
-    "start": "2026-08-13"
+    "end": "2026-08-21",
+    "start": "2026-08-14"
   },
-  "retrieved_at": "2026-08-13T09:49:51.677758+02:00",
+  "retrieved_at": "2026-08-14T09:47:12.853029+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-13",
-      "dimension": null,
-      "director_names": [
-        "Hayao Miyazaki"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Prinzessin Mononoke",
-      "movie_url": "https://www.schauburg.de/film/prinzessin-mononoke-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 134,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-13",
-      "dimension": null,
-      "director_names": [
-        "Pedro Almodóvar"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Bitteres Fest",
-      "movie_url": "https://www.schauburg.de/film/bitteres-fest",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-13",
-      "dimension": null,
-      "director_names": [
-        "Olivia Wilde"
-      ],
-      "format_label": "OV",
-      "movie_title": "The Invite",
-      "movie_url": "https://www.schauburg.de/film/the-invite",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 107,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -466,6 +394,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "18:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-08-22",
+      "dimension": null,
+      "director_names": [
+        "Dmitriy Avdeev"
+      ],
+      "format_label": "OmeU",
+      "movie_title": "Office Of Magical Forces (Ukrainisches OmeU)",
+      "movie_url": "https://www.schauburg.de/film/office-of-magical-forces-ukrainische-sprachfassung",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 91,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "13:00:00"
     }
   ],
   "success": true
