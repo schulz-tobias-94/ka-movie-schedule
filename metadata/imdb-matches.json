@@ -707,6 +707,20 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.054496+00:00"
   },
+  "office of magical forces ukrainisches": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "office of magical forces ukrainisches",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Office Of Magical Forces (Ukrainisches",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-08-15T06:56:03.323030+00:00"
+  },
   "ov sneak preview": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -974,7 +988,7 @@
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": "ukrain ver the end of oak street|2026",
+    "resolved_via": "ukrain ver the end of oak street",
     "score": 88,
     "status": "confident",
     "verified_at": "2026-08-09T07:13:21.613361+00:00"
@@ -1004,7 +1018,7 @@
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": "ukrain ver the end of oak street|2026",
+    "resolved_via": "ukrain ver the end of oak street",
     "score": 88,
     "status": "confident",
     "verified_at": "2026-08-09T07:13:21.613361+00:00"
@@ -1261,7 +1275,7 @@
     "matched_year": 2026,
     "query_title": "(Ukrain.Ver.) The End of Oak Street",
     "reason": null,
-    "resolved_via": "ukrain ver the end of oak street|2026",
+    "resolved_via": null,
     "score": 88,
     "status": "confident",
     "verified_at": "2026-08-09T07:13:21.613361+00:00"
