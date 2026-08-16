@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-22",
-    "start": "2026-08-15"
+    "end": "2026-08-23",
+    "start": "2026-08-16"
   },
-  "retrieved_at": "2026-08-15T08:55:32.905158+02:00",
+  "retrieved_at": "2026-08-16T08:56:19.577915+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-15",
-      "dimension": null,
-      "director_names": [
-        "Christopher Nolan"
-      ],
-      "format_label": "OV",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 180,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,

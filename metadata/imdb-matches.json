@@ -73,6 +73,26 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:37.908176+00:00"
   },
+  "bethlehem kudumba unit": {
+    "authoritative_titles": [
+      "Bethlehem Kudumba Unit",
+      "Bethlehem Kudumba Unit",
+      "ബത്‌ലഹേം കുടുംബ യൂണിറ്റ്"
+    ],
+    "imdb_id": "tt37535100",
+    "key": "bethlehem kudumba unit",
+    "matched_by": [
+      "German localized title"
+    ],
+    "matched_title": "Bethlehem Kudumba Unit",
+    "matched_year": 2026,
+    "query_title": "Bethlehem Kudumba Unit",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-08-16T06:56:55.746095+00:00"
+  },
   "bitteres fest": {
     "authoritative_titles": [
       "Bitteres Fest",
@@ -265,7 +285,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "die odyssee|2026",
+    "resolved_via": "the odyssey",
     "score": 124,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:36.843372+00:00"
@@ -313,7 +333,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "the odyssey",
     "score": 124,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:36.843372+00:00"
