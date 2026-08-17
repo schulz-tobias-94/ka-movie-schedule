@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-23",
-    "start": "2026-08-16"
+    "end": "2026-08-24",
+    "start": "2026-08-17"
   },
-  "retrieved_at": "2026-08-16T08:56:19.577915+02:00",
+  "retrieved_at": "2026-08-17T09:13:36.988735+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-16",
-      "dimension": null,
-      "director_names": [
-        "Christopher Nolan"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 180,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-16",
-      "dimension": null,
-      "director_names": [
-        "Genki Kawamura"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Exit 8",
-      "movie_url": "https://www.schauburg.de/film/exit-8",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 94,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-16",
-      "dimension": null,
-      "director_names": [
-        "Olivia Wilde"
-      ],
-      "format_label": "OmU",
-      "movie_title": "The Invite",
-      "movie_url": "https://www.schauburg.de/film/the-invite",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 107,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -346,6 +274,35 @@
       "subtitle_language": null,
       "technology": null,
       "time": "13:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-08-25",
+      "dimension": null,
+      "director_names": [
+        "Florence Miailhe",
+        "Nathan Engelhardt",
+        "Chris Lavis",
+        "Maciek Szczerbowski",
+        "Timur Kognov",
+        "John Kelly"
+      ],
+      "format_label": "OmU",
+      "movie_title": "OSCAR SHORTS ANIMATION",
+      "movie_url": "https://www.schauburg.de/film/oscar-shorts-animation",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 70,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "19:00:00"
     }
   ],
   "success": true

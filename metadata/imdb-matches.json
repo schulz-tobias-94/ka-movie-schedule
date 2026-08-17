@@ -822,6 +822,50 @@
     "status": "confident",
     "verified_at": "2026-08-06T08:51:49.658218+00:00"
   },
+  "red rue express": {
+    "authoritative_titles": [
+      "Red Rue Express",
+      "Red Rue Express",
+      "Потяг «Червона Рута»"
+    ],
+    "imdb_id": "tt37595822",
+    "key": "red rue express",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Red Rue Express",
+    "matched_year": 2026,
+    "query_title": "Red Rue Express",
+    "reason": null,
+    "resolved_via": "red rue express|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-17T07:14:08.457618+00:00"
+  },
+  "red rue express|2026": {
+    "authoritative_titles": [
+      "Red Rue Express",
+      "Red Rue Express",
+      "Потяг «Червона Рута»"
+    ],
+    "imdb_id": "tt37595822",
+    "key": "red rue express|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Red Rue Express",
+    "matched_year": 2026,
+    "query_title": "Red Rue Express",
+    "reason": null,
+    "resolved_via": null,
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-17T07:14:08.457618+00:00"
+  },
   "sneak": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -1008,7 +1052,7 @@
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": "ukrain ver the end of oak street",
+    "resolved_via": "the end of oak street|2026",
     "score": 88,
     "status": "confident",
     "verified_at": "2026-08-09T07:13:21.613361+00:00"
@@ -1038,7 +1082,7 @@
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": "ukrain ver the end of oak street",
+    "resolved_via": null,
     "score": 88,
     "status": "confident",
     "verified_at": "2026-08-09T07:13:21.613361+00:00"
