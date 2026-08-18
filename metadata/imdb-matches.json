@@ -1,4 +1,27 @@
 {
+  "a sad and beautiful world": {
+    "authoritative_titles": [
+      "A Sad and Beautiful World",
+      "A Sad and Beautiful World",
+      "نجوم الأمل و الألم",
+      "Un monde fragile et merveilleux"
+    ],
+    "imdb_id": "tt32622406",
+    "key": "a sad and beautiful world",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "A Sad and Beautiful World",
+    "matched_year": 2025,
+    "query_title": "A Sad and Beautiful World",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-08-18T07:01:51.120961+00:00"
+  },
   "ateez light the way in cinemas": {
     "authoritative_titles": [
       "ATEEZ: LIGHT THE WAY IN CINEMAS",
@@ -241,6 +264,64 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-04T07:26:35.385853+00:00"
+  },
+  "detective conan film 29 der gefallene engel des highways": {
+    "authoritative_titles": [
+      "Detektiv Conan Film 29: Der gefallene Engel des Highways",
+      "Detective Conan: Fallen Angel of the Highway",
+      "名探偵コナン ハイウェイの堕天使",
+      "Meitantei Conan: Highway no Datenshi",
+      "Meitantei Conan: Highway no Tenshi",
+      "名侦探柯南͏：高速公路的堕天使",
+      "Thám Tử Lừng Danh Conan: Thiên Thần Sa Ngã Trên Xa Lộ",
+      "Thám Tử Lừng Danh Conan 29: Thiên Thần Sa Ngã Trên Xa Lộ",
+      "Detective Conan: Fallen Angel of the Highway"
+    ],
+    "imdb_id": "tt39123115",
+    "key": "detective conan film 29 der gefallene engel des highways",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Detective Conan: Fallen Angel of the Highway",
+    "matched_year": 2026,
+    "query_title": "Detective Conan Film 29: Der gefallene Engel des Highways",
+    "reason": null,
+    "resolved_via": "detective conan film 29 der gefallene engel des highways|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-18T07:01:49.602957+00:00"
+  },
+  "detective conan film 29 der gefallene engel des highways|2026": {
+    "authoritative_titles": [
+      "Detektiv Conan Film 29: Der gefallene Engel des Highways",
+      "Detective Conan: Fallen Angel of the Highway",
+      "名探偵コナン ハイウェイの堕天使",
+      "Meitantei Conan: Highway no Datenshi",
+      "Meitantei Conan: Highway no Tenshi",
+      "名侦探柯南͏：高速公路的堕天使",
+      "Thám Tử Lừng Danh Conan: Thiên Thần Sa Ngã Trên Xa Lộ",
+      "Thám Tử Lừng Danh Conan 29: Thiên Thần Sa Ngã Trên Xa Lộ",
+      "Detective Conan: Fallen Angel of the Highway"
+    ],
+    "imdb_id": "tt39123115",
+    "key": "detective conan film 29 der gefallene engel des highways|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Detective Conan: Fallen Angel of the Highway",
+    "matched_year": 2026,
+    "query_title": "Detective Conan Film 29: Der gefallene Engel des Highways",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-18T07:01:49.602957+00:00"
   },
   "die odyssee": {
     "authoritative_titles": [
@@ -741,6 +822,34 @@
     "status": "search_fallback",
     "verified_at": "2026-08-15T06:56:03.323030+00:00"
   },
+  "office of magical forces ukrainisches original mit englischen untertiteln": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "office of magical forces ukrainisches original mit englischen untertiteln",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Office Of Magical Forces (Ukrainisches Original mit englischen Untertiteln))",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-08-18T07:01:48.827456+00:00"
+  },
+  "oscar shorts animation": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "oscar shorts animation",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "OSCAR SHORTS ANIMATION",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-08-18T07:01:50.608256+00:00"
+  },
   "ov sneak preview": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -1026,6 +1135,32 @@
     "score": 50,
     "status": "search_fallback",
     "verified_at": "2026-08-04T07:26:34.588557+00:00"
+  },
+  "teenage sex and death at camp miasma": {
+    "authoritative_titles": [
+      "Teenage Sex and Death at Camp Miasma",
+      "Teenage Sex and Death at Camp Miasma",
+      "Teenage Sex and Death at Camp Miasma",
+      "",
+      "A Bad Day at Camp Tivoli",
+      "Sex a smrt v kempu Miasma",
+      "Sexe et mort chez les ados au Camp Miasma"
+    ],
+    "imdb_id": "tt35298123",
+    "key": "teenage sex and death at camp miasma",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Teenage Sex and Death at Camp Miasma",
+    "matched_year": 2026,
+    "query_title": "Teenage Sex and Death at Camp Miasma",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-08-18T07:01:48.641438+00:00"
   },
   "the end of oak street": {
     "authoritative_titles": [
