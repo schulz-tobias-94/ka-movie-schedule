@@ -464,6 +464,26 @@
     "status": "confident",
     "verified_at": "2026-08-07T07:39:30.192278+00:00"
   },
+  "ghost 2 big to rig": {
+    "authoritative_titles": [
+      "GHOST: 2 Big To Rig",
+      "2 Big to Rig",
+      "2 Big to Rig"
+    ],
+    "imdb_id": "tt43683692",
+    "key": "ghost 2 big to rig",
+    "matched_by": [
+      "German localized title"
+    ],
+    "matched_title": "2 Big to Rig",
+    "matched_year": 2026,
+    "query_title": "GHOST: 2 Big To Rig",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-08-19T07:02:38.007528+00:00"
+  },
   "ghost in the shell": {
     "authoritative_titles": [
       "Ghost in The Shell",
@@ -1136,6 +1156,28 @@
     "status": "search_fallback",
     "verified_at": "2026-08-04T07:26:34.588557+00:00"
   },
+  "strange river": {
+    "authoritative_titles": [
+      "Strange River",
+      "Strange River",
+      "Estrany riu"
+    ],
+    "imdb_id": "tt33023305",
+    "key": "strange river",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Strange River",
+    "matched_year": 2025,
+    "query_title": "Strange River",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-08-19T07:02:37.735526+00:00"
+  },
   "teenage sex and death at camp miasma": {
     "authoritative_titles": [
       "Teenage Sex and Death at Camp Miasma",
@@ -1326,6 +1368,70 @@
     "score": 56,
     "status": "search_fallback",
     "verified_at": "2026-08-11T07:33:29.651338+00:00"
+  },
+  "toxic": {
+    "authoritative_titles": [
+      "Toxic",
+      "Toxic: A Fairy Tale for Grown-ups",
+      "ಟಾಕ್ಸಿಕ್",
+      "টক্সিক: আ ফেয়ারি টেল ফর গ্রোন-আপস",
+      "Toxický: Pohádka pro dospělé",
+      "टॉक्सिकः ए फेयरी टेल फॉर ग्रोन-अप्स",
+      "ടോക്സിക്ക്ഃ എ ഫെയറി ടെയിൽ ഫോർ ഗ്രോവ്സ്",
+      "Toksyczny: Bajka dla dorosłych",
+      "Toxický: Rozprávka pre dospelých",
+      "Toxic",
+      "Tóxico",
+      "《毒药：成人童话》",
+      "Сказка для взрослых"
+    ],
+    "imdb_id": "tt27530512",
+    "key": "toxic",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Toxic: A Fairy Tale for Grown-ups",
+    "matched_year": 2026,
+    "query_title": "Toxic",
+    "reason": null,
+    "resolved_via": "toxic|2026",
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-19T07:02:37.134803+00:00"
+  },
+  "toxic|2026": {
+    "authoritative_titles": [
+      "Toxic",
+      "Toxic: A Fairy Tale for Grown-ups",
+      "ಟಾಕ್ಸಿಕ್",
+      "টক্সিক: আ ফেয়ারি টেল ফর গ্রোন-আপস",
+      "Toxický: Pohádka pro dospělé",
+      "टॉक्सिकः ए फेयरी टेल फॉर ग्रोन-अप्स",
+      "ടോക്സിക്ക്ഃ എ ഫെയറി ടെയിൽ ഫോർ ഗ്രോവ്സ്",
+      "Toksyczny: Bajka dla dorosłych",
+      "Toxický: Rozprávka pre dospelých",
+      "Toxic",
+      "Tóxico",
+      "《毒药：成人童话》",
+      "Сказка для взрослых"
+    ],
+    "imdb_id": "tt27530512",
+    "key": "toxic|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Toxic: A Fairy Tale for Grown-ups",
+    "matched_year": 2026,
+    "query_title": "Toxic",
+    "reason": null,
+    "resolved_via": null,
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-19T07:02:37.134803+00:00"
   },
   "toy story 5": {
     "authoritative_titles": [
