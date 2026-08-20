@@ -243,6 +243,95 @@
     "status": "confident",
     "verified_at": "2026-08-11T07:33:33.008067+00:00"
   },
+  "das ende der sterne engl": {
+    "authoritative_titles": [
+      "Das Ende der Sterne",
+      "The Dog Stars",
+      "The Dog Stars",
+      "Vzhlížet ke hvězdám",
+      "La Constellation du chien",
+      "La guerra de los últimos",
+      "Собачьи звёзды",
+      "Созвездие Большого Пса",
+      "Köpek ve Yıldızlar",
+      "เดอะ ด็อก สตาร์",
+      "Na Companhia das Estrelas"
+    ],
+    "imdb_id": "tt21285562",
+    "key": "das ende der sterne engl",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "The Dog Stars",
+    "matched_year": 2026,
+    "query_title": "Das Ende der Sterne (engl",
+    "reason": null,
+    "resolved_via": "das ende der sterne engl|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-20T07:03:21.977689+00:00"
+  },
+  "das ende der sterne engl|2026": {
+    "authoritative_titles": [
+      "Das Ende der Sterne",
+      "The Dog Stars",
+      "The Dog Stars",
+      "Vzhlížet ke hvězdám",
+      "La Constellation du chien",
+      "La guerra de los últimos",
+      "Собачьи звёзды",
+      "Созвездие Большого Пса",
+      "Köpek ve Yıldızlar",
+      "เดอะ ด็อก สตาร์",
+      "Na Companhia das Estrelas"
+    ],
+    "imdb_id": "tt21285562",
+    "key": "das ende der sterne engl|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "The Dog Stars",
+    "matched_year": 2026,
+    "query_title": "Das Ende der Sterne (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-20T07:03:21.977689+00:00"
+  },
+  "das schloss im himmel": {
+    "authoritative_titles": [
+      "Das Schloss im Himmel",
+      "Castle in the Sky",
+      "天空の城ラピュタ",
+      "Laputa: Castle in the Sky",
+      "לפוטה טירת הרקיע",
+      "הטירה המרחפת",
+      "Laputa - slottet i himlen",
+      "Laputa: Pils debesīs",
+      "Taevane kindlus",
+      "Göydəki Qala"
+    ],
+    "imdb_id": "tt0092067",
+    "key": "das schloss im himmel",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Castle in the Sky",
+    "matched_year": 1986,
+    "query_title": "Das Schloss im Himmel",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-08-20T07:03:22.288389+00:00"
+  },
   "der klang der stradivari": {
     "authoritative_titles": [
       "Der Klang der Stradivari",
@@ -729,6 +818,58 @@
     "score": 56,
     "status": "confident",
     "verified_at": "2026-08-05T08:50:42.379745+00:00"
+  },
+  "mutiny": {
+    "authoritative_titles": [
+      "Mutiny",
+      "Mutiny",
+      "Mutiny",
+      "",
+      "Código: Venganza",
+      "คนระห่ำห้ามรอด"
+    ],
+    "imdb_id": "tt32338669",
+    "key": "mutiny",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Mutiny",
+    "matched_year": 2026,
+    "query_title": "Mutiny",
+    "reason": null,
+    "resolved_via": "mutiny|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-20T07:03:22.794310+00:00"
+  },
+  "mutiny|2026": {
+    "authoritative_titles": [
+      "Mutiny",
+      "Mutiny",
+      "Mutiny",
+      "",
+      "Código: Venganza",
+      "คนระห่ำห้ามรอด"
+    ],
+    "imdb_id": "tt32338669",
+    "key": "mutiny|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Mutiny",
+    "matched_year": 2026,
+    "query_title": "Mutiny",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-20T07:03:22.794310+00:00"
   },
   "obsession": {
     "authoritative_titles": [],
