@@ -1542,6 +1542,70 @@
     "status": "confident",
     "verified_at": "2026-08-19T07:02:37.134803+00:00"
   },
+  "toxic tamil": {
+    "authoritative_titles": [
+      "Toxic",
+      "Toxic: A Fairy Tale for Grown-ups",
+      "ಟಾಕ್ಸಿಕ್",
+      "টক্সিক: আ ফেয়ারি টেল ফর গ্রোন-আপস",
+      "Toxický: Pohádka pro dospělé",
+      "टॉक्सिकः ए फेयरी टेल फॉर ग्रोन-अप्स",
+      "ടോക്സിക്ക്ഃ എ ഫെയറി ടെയിൽ ഫോർ ഗ്രോവ്സ്",
+      "Toksyczny: Bajka dla dorosłych",
+      "Toxický: Rozprávka pre dospelých",
+      "Toxic",
+      "Tóxico",
+      "《毒药：成人童话》",
+      "Сказка для взрослых"
+    ],
+    "imdb_id": "tt27530512",
+    "key": "toxic tamil",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Toxic: A Fairy Tale for Grown-ups",
+    "matched_year": 2026,
+    "query_title": "Toxic (Tamil",
+    "reason": null,
+    "resolved_via": "toxic tamil|2026",
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-21T07:05:08.821807+00:00"
+  },
+  "toxic tamil|2026": {
+    "authoritative_titles": [
+      "Toxic",
+      "Toxic: A Fairy Tale for Grown-ups",
+      "ಟಾಕ್ಸಿಕ್",
+      "টক্সিক: আ ফেয়ারি টেল ফর গ্রোন-আপস",
+      "Toxický: Pohádka pro dospělé",
+      "टॉक्सिकः ए फेयरी टेल फॉर ग्रोन-अप्स",
+      "ടോക്സിക്ക്ഃ എ ഫെയറി ടെയിൽ ഫോർ ഗ്രോവ്സ്",
+      "Toksyczny: Bajka dla dorosłych",
+      "Toxický: Rozprávka pre dospelých",
+      "Toxic",
+      "Tóxico",
+      "《毒药：成人童话》",
+      "Сказка для взрослых"
+    ],
+    "imdb_id": "tt27530512",
+    "key": "toxic tamil|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Toxic: A Fairy Tale for Grown-ups",
+    "matched_year": 2026,
+    "query_title": "Toxic (Tamil",
+    "reason": null,
+    "resolved_via": null,
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-21T07:05:08.821807+00:00"
+  },
   "toxic|2026": {
     "authoritative_titles": [
       "Toxic",

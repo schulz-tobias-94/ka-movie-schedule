@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-27",
-    "start": "2026-08-20"
+    "end": "2026-08-28",
+    "start": "2026-08-21"
   },
-  "retrieved_at": "2026-08-20T09:03:14.335336+02:00",
+  "retrieved_at": "2026-08-21T09:05:01.229855+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12831",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-20",
-      "dimension": "2D",
-      "director_names": [
-        "David Robert Mitchell"
-      ],
-      "format_label": "OV",
-      "movie_title": "The End of Oak Street",
-      "movie_url": "https://www.universum-city.de/de/programm/1153528",
-      "original_language": "English",
-      "original_title": "The End of Oak Street",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 99,
-      "screening_url": "https://www.universum-city.de/de/programm/1153528/45087876",
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12830",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-20",
-      "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Spider-Man: Brand New Day",
-      "movie_url": "https://www.universum-city.de/de/programm/1684845",
-      "original_language": "English",
-      "original_title": "Spider-Man: Brand New Day",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 150,
-      "screening_url": "https://www.universum-city.de/de/programm/1684845/45087813",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12351",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-20",
-      "dimension": "2D",
-      "director_names": [
-        "Jacob Chase"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Insidious: Out of the Further",
-      "movie_url": "https://www.universum-city.de/de/programm/1512152",
-      "original_language": "English",
-      "original_title": "Insidious: Out of the Further",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 106,
-      "screening_url": "https://www.universum-city.de/de/programm/1512152/44756618",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 2",
@@ -104,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 106,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1512152/44756624",
       "subtitle_language": "German",
       "technology": null,
       "time": "18:15:00"
@@ -139,9 +67,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-22",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -187,9 +113,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-23",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -257,9 +181,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-24",
       "dimension": "2D",
-      "director_names": [
-        "David Robert Mitchell"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "The End of Oak Street",
       "movie_url": "https://www.universum-city.de/de/programm/1153528",
@@ -281,9 +203,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-24",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -373,9 +293,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-25",
       "dimension": "2D",
-      "director_names": [
-        "David Robert Mitchell"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "The End of Oak Street",
       "movie_url": "https://www.universum-city.de/de/programm/1153528",
@@ -441,9 +359,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-26",
       "dimension": "2D",
-      "director_names": [
-        "David Robert Mitchell"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "The End of Oak Street",
       "movie_url": "https://www.universum-city.de/de/programm/1153528",
@@ -487,9 +403,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-26",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -570,6 +484,72 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12943",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-28",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Das Ende der Sterne (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Dog Stars",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": null,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 3",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12249",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-28",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Mutiny",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Mutiny",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 95,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 2",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13089",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-28",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "Omu",
+      "movie_title": "Toxic (Tamil Omu)",
+      "movie_url": null,
+      "original_language": "Tamil",
+      "original_title": "ಟಾಕ್ಸಿಕ್",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 195,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "22:15:00"
     }
   ],
   "success": true
