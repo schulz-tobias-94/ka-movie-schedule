@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-28",
-    "start": "2026-08-21"
+    "end": "2026-08-29",
+    "start": "2026-08-22"
   },
-  "retrieved_at": "2026-08-21T09:05:01.229855+02:00",
+  "retrieved_at": "2026-08-22T08:57:10.941458+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12352",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-21",
-      "dimension": "2D",
-      "director_names": [
-        "Jacob Chase"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Insidious: Out of the Further",
-      "movie_url": "https://www.universum-city.de/de/programm/1512152",
-      "original_language": "English",
-      "original_title": "Insidious: Out of the Further",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 106,
-      "screening_url": "https://www.universum-city.de/de/programm/1512152/44756624",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "18:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 3",
@@ -67,7 +43,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-22",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -76,7 +54,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 150,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1684845/45087786",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:30:00"
@@ -100,7 +78,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 106,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1512152/45086522",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:45:00"
@@ -113,7 +91,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-23",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -203,7 +183,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OV",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -403,7 +385,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OV",
       "movie_title": "Spider-Man: Brand New Day",
       "movie_url": "https://www.universum-city.de/de/programm/1684845",
@@ -457,7 +441,7 @@
       "original_title": "The Dog Stars",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": null,
+      "runtime_minutes": 119,
       "screening_url": null,
       "subtitle_language": "German",
       "technology": "D-BOX",
@@ -501,7 +485,7 @@
       "original_title": "The Dog Stars",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": null,
+      "runtime_minutes": 119,
       "screening_url": null,
       "subtitle_language": "German",
       "technology": "D-BOX",
@@ -550,6 +534,50 @@
       "subtitle_language": null,
       "technology": null,
       "time": "22:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12962",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-29",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Das Ende der Sterne (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Dog Stars",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 119,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "18:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13077",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-29",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Terminator 2: Tag der Abrechnung 35th Anniversary",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Terminator 2: Judgment Day",
+      "production_countries": [],
+      "release_year": 1991,
+      "runtime_minutes": 137,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:15:00"
     }
   ],
   "success": true
