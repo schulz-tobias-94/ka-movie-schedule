@@ -1025,6 +1025,56 @@
     "status": "search_fallback",
     "verified_at": "2026-08-03T12:37:37.411290+00:00"
   },
+  "paw patrol der dino film engl": {
+    "authoritative_titles": [
+      "PAW Patrol: Der Dino Film",
+      "PAW Patrol: The Dino Movie",
+      "PAW Patrol: The Dino Movie",
+      "Paw Patrol: Der Dino Film",
+      "Patrulha Canina: Um Filme Dinossáurico"
+    ],
+    "imdb_id": "tt29356163",
+    "key": "paw patrol der dino film engl",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "PAW Patrol: The Dino Movie",
+    "matched_year": 2026,
+    "query_title": "Paw Patrol: Der Dino Film (engl",
+    "reason": null,
+    "resolved_via": "paw patrol der dino film engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-23T06:58:46.706767+00:00"
+  },
+  "paw patrol der dino film engl|2026": {
+    "authoritative_titles": [
+      "PAW Patrol: Der Dino Film",
+      "PAW Patrol: The Dino Movie",
+      "PAW Patrol: The Dino Movie",
+      "Paw Patrol: Der Dino Film",
+      "Patrulha Canina: Um Filme Dinossáurico"
+    ],
+    "imdb_id": "tt29356163",
+    "key": "paw patrol der dino film engl|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "PAW Patrol: The Dino Movie",
+    "matched_year": 2026,
+    "query_title": "Paw Patrol: Der Dino Film (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-23T06:58:46.706767+00:00"
+  },
   "prinzessin mononoke": {
     "authoritative_titles": [
       "Prinzessin Mononoke",
@@ -1182,6 +1232,90 @@
     "score": 88,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:36.731884+00:00"
+  },
+  "spider man brand new day engl": {
+    "authoritative_titles": [
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "",
+      "Spider-Man 4",
+      "스파이더맨 4",
+      "Homem-Aranha 4",
+      "ספיידרמן 4",
+      "Человек-паук 4",
+      "មនុស្សពីងពាង: ថ្ងៃថ្មីសន្លាង",
+      "Marvel Studios' Spider-Man: Brand New Day",
+      "蜘蛛侠4",
+      "ສະໄປເດີ-ແມນ: ແບນ ນິວ ເດ",
+      "Hörümçək Adam: Tamamilə Yeni Gün",
+      "স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে",
+      "სპაიდერმენი: ახალი დღე",
+      "Örümcek Adam 4",
+      "El Hombre-Araña: Un Nuevo Día",
+      "Spider-Man: Καινούργια Μέρα",
+      "ספיידרמן:יום חדש דנדש",
+      "Marvel Studios' Örümcek Adam: Yepyeni Bir Gün",
+      "Человек-паук КВМ 4"
+    ],
+    "imdb_id": "tt22084616",
+    "key": "spider man brand new day engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spider-Man: Brand New Day",
+    "matched_year": 2026,
+    "query_title": "Spider-Man: Brand New Day (engl",
+    "reason": null,
+    "resolved_via": "spider man brand new day engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-23T06:58:47.483596+00:00"
+  },
+  "spider man brand new day engl|2026": {
+    "authoritative_titles": [
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "",
+      "Spider-Man 4",
+      "스파이더맨 4",
+      "Homem-Aranha 4",
+      "ספיידרמן 4",
+      "Человек-паук 4",
+      "មនុស្សពីងពាង: ថ្ងៃថ្មីសន្លាង",
+      "Marvel Studios' Spider-Man: Brand New Day",
+      "蜘蛛侠4",
+      "ສະໄປເດີ-ແມນ: ແບນ ນິວ ເດ",
+      "Hörümçək Adam: Tamamilə Yeni Gün",
+      "স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে",
+      "სპაიდერმენი: ახალი დღე",
+      "Örümcek Adam 4",
+      "El Hombre-Araña: Un Nuevo Día",
+      "Spider-Man: Καινούργια Μέρα",
+      "ספיידרמן:יום חדש דנדש",
+      "Marvel Studios' Örümcek Adam: Yepyeni Bir Gün",
+      "Человек-паук КВМ 4"
+    ],
+    "imdb_id": "tt22084616",
+    "key": "spider man brand new day engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spider-Man: Brand New Day",
+    "matched_year": 2026,
+    "query_title": "Spider-Man: Brand New Day (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-23T06:58:47.483596+00:00"
   },
   "spider man brand new day|2026": {
     "authoritative_titles": [
