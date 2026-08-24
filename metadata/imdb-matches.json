@@ -1215,23 +1215,29 @@
       "Marvel Studios' Spider-Man: Brand New Day",
       "蜘蛛侠4",
       "ສະໄປເດີ-ແມນ: ແບນ ນິວ ເດ",
-      "Hörümçək Adam: Tamamilə Yeni Gün"
+      "Hörümçək Adam: Tamamilə Yeni Gün",
+      "স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে",
+      "სპაიდერმენი: ახალი დღე",
+      "Örümcek Adam 4",
+      "El Hombre-Araña: Un Nuevo Día",
+      "Spider-Man: Καινούργια Μέρα",
+      "ספיידרמן:יום חדש דנדש",
+      "Marvel Studios' Örümcek Adam: Yepyeni Bir Gün",
+      "Человек-паук КВМ 4"
     ],
     "imdb_id": "tt22084616",
     "key": "spider man brand new day",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Spider-Man: Brand New Day",
     "matched_year": 2026,
     "query_title": "Spider-Man: Brand New Day",
     "reason": null,
-    "resolved_via": "spider man brand new day|2026",
-    "score": 88,
+    "resolved_via": "spider man brand new day engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-03T12:37:36.731884+00:00"
+    "verified_at": "2026-08-23T06:58:47.483596+00:00"
   },
   "spider man brand new day engl": {
     "authoritative_titles": [
@@ -1332,23 +1338,29 @@
       "Marvel Studios' Spider-Man: Brand New Day",
       "蜘蛛侠4",
       "ສະໄປເດີ-ແມນ: ແບນ ນິວ ເດ",
-      "Hörümçək Adam: Tamamilə Yeni Gün"
+      "Hörümçək Adam: Tamamilə Yeni Gün",
+      "স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে",
+      "სპაიდერმენი: ახალი დღე",
+      "Örümcek Adam 4",
+      "El Hombre-Araña: Un Nuevo Día",
+      "Spider-Man: Καινούργια Μέρα",
+      "ספיידרמן:יום חדש דנדש",
+      "Marvel Studios' Örümcek Adam: Yepyeni Bir Gün",
+      "Человек-паук КВМ 4"
     ],
     "imdb_id": "tt22084616",
     "key": "spider man brand new day|2026",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Spider-Man: Brand New Day",
     "matched_year": 2026,
     "query_title": "Spider-Man: Brand New Day",
     "reason": null,
-    "resolved_via": null,
-    "score": 88,
+    "resolved_via": "spider man brand new day engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-03T12:37:36.731884+00:00"
+    "verified_at": "2026-08-23T06:58:47.483596+00:00"
   },
   "spider man brand new day|source:filmpalast:https://filmpalast.net/programmuebersicht/movie/spider-man-brand-new-day-ov": {
     "authoritative_titles": [

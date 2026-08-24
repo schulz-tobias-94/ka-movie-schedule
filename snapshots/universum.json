@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-08-30",
-    "start": "2026-08-23"
+    "end": "2026-08-31",
+    "start": "2026-08-24"
   },
-  "retrieved_at": "2026-08-23T08:58:41.881241+02:00",
+  "retrieved_at": "2026-08-24T09:17:44.674521+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12833",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-23",
-      "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Spider-Man: Brand New Day",
-      "movie_url": "https://www.universum-city.de/de/programm/1684845",
-      "original_language": "English",
-      "original_title": "Spider-Man: Brand New Day",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 150,
-      "screening_url": "https://www.universum-city.de/de/programm/1684845/45087812",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/12835",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-08-23",
-      "dimension": "2D",
-      "director_names": [
-        "Jacob Chase"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Insidious: Out of the Further",
-      "movie_url": "https://www.universum-city.de/de/programm/1512152",
-      "original_language": "English",
-      "original_title": "Insidious: Out of the Further",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 106,
-      "screening_url": "https://www.universum-city.de/de/programm/1512152/45086531",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 4",
@@ -69,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Oleksii Yesakov"
+      ],
       "format_label": null,
       "movie_title": "Red Rue Express (Ukrainische Sprachfassung)",
       "movie_url": null,
@@ -78,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": null,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1979120/45087901",
       "subtitle_language": null,
       "technology": null,
       "time": "16:00:00"
@@ -91,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Robert Mitchell"
+      ],
       "format_label": "OV",
       "movie_title": "The End of Oak Street",
       "movie_url": "https://www.universum-city.de/de/programm/1153528",
@@ -100,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 99,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1153528/45087896",
       "subtitle_language": null,
       "technology": null,
       "time": "18:30:00"
@@ -124,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 150,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1684845/45087871",
       "subtitle_language": null,
       "technology": "D-BOX",
       "time": "20:00:00"
@@ -146,7 +102,7 @@
       "production_countries": [],
       "release_year": null,
       "runtime_minutes": 120,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1941729/45175439",
       "subtitle_language": null,
       "technology": null,
       "time": "20:30:00"
@@ -170,7 +126,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 106,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1512152/45086528",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:45:00"
@@ -183,7 +139,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Oleksii Yesakov"
+      ],
       "format_label": null,
       "movie_title": "Red Rue Express (Ukrainische Sprachfassung)",
       "movie_url": null,
@@ -205,7 +163,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Robert Mitchell"
+      ],
       "format_label": "OV",
       "movie_title": "The End of Oak Street",
       "movie_url": "https://www.universum-city.de/de/programm/1153528",
@@ -271,7 +231,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Robert Mitchell"
+      ],
       "format_label": "OV",
       "movie_title": "The End of Oak Street",
       "movie_url": "https://www.universum-city.de/de/programm/1153528",
@@ -679,7 +641,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-08-30",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Oleksii Yesakov"
+      ],
       "format_label": null,
       "movie_title": "Red Rue Express (Ukrainische Sprachfassung)",
       "movie_url": null,
@@ -760,6 +724,74 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13003",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-31",
+      "dimension": "2D",
+      "director_names": [
+        "Jacob Chase"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Insidious: Out of the Further",
+      "movie_url": "https://www.universum-city.de/de/programm/1512152",
+      "original_language": "English",
+      "original_title": "Insidious: Out of the Further",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 106,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "17:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13004",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-31",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Das Ende der Sterne (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Dog Stars",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 119,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "18:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 3",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13001",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-08-31",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Mutiny",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Mutiny",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 95,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "21:00:00"
     }
   ],
   "success": true
