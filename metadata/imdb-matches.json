@@ -243,6 +243,34 @@
     "status": "confident",
     "verified_at": "2026-08-11T07:33:33.008067+00:00"
   },
+  "das ende der sterne": {
+    "authoritative_titles": [
+      "Das Ende der Sterne",
+      "The Dog Stars",
+      "The Dog Stars",
+      "Vzhlížet ke hvězdám",
+      "La Constellation du chien",
+      "La guerra de los últimos",
+      "Собачьи звёзды",
+      "Созвездие Большого Пса",
+      "Köpek ve Yıldızlar",
+      "เดอะ ด็อก สตาร์",
+      "Na Companhia das Estrelas"
+    ],
+    "imdb_id": "tt21285562",
+    "key": "das ende der sterne",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "The Dog Stars",
+    "matched_year": 2026,
+    "query_title": "Das Ende der Sterne",
+    "reason": null,
+    "resolved_via": "das ende der sterne engl|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-20T07:03:21.977689+00:00"
+  },
   "das ende der sterne engl": {
     "authoritative_titles": [
       "Das Ende der Sterne",
@@ -353,6 +381,50 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-04T07:26:35.385853+00:00"
+  },
+  "der regenmeister schwedisch mit dt ut": {
+    "authoritative_titles": [
+      "Der Regenmeister",
+      "Let It Rain",
+      "Regnmannen"
+    ],
+    "imdb_id": "tt34250056",
+    "key": "der regenmeister schwedisch mit dt ut",
+    "matched_by": [
+      "original title",
+      "year within one",
+      "runtime within five"
+    ],
+    "matched_title": "Let It Rain",
+    "matched_year": 2025,
+    "query_title": "Der Regenmeister (schwedisch mit dt.UT)",
+    "reason": null,
+    "resolved_via": "der regenmeister schwedisch mit dt ut|2026",
+    "score": 73,
+    "status": "confident",
+    "verified_at": "2026-08-25T07:06:11.192179+00:00"
+  },
+  "der regenmeister schwedisch mit dt ut|2026": {
+    "authoritative_titles": [
+      "Der Regenmeister",
+      "Let It Rain",
+      "Regnmannen"
+    ],
+    "imdb_id": "tt34250056",
+    "key": "der regenmeister schwedisch mit dt ut|2026",
+    "matched_by": [
+      "original title",
+      "year within one",
+      "runtime within five"
+    ],
+    "matched_title": "Let It Rain",
+    "matched_year": 2025,
+    "query_title": "Der Regenmeister (schwedisch mit dt.UT)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 73,
+    "status": "confident",
+    "verified_at": "2026-08-25T07:06:11.192179+00:00"
   },
   "detective conan film 29 der gefallene engel des highways": {
     "authoritative_titles": [
@@ -728,10 +800,45 @@
       "Insidious: Fuera del Más Allá",
       "Astralna Podmuklost: Izvan Daljine",
       "Sobrenatural 6",
-      "วิญญาณตามติด หลุดจากนรก"
+      "วิญญาณตามติด หลุดจากนรก",
+      "Naznaczony: Wyjście z mrocznego wymiaru"
     ],
     "imdb_id": "tt32393988",
     "key": "insidious out of the further",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Insidious: Out of the Further",
+    "matched_year": 2026,
+    "query_title": "Insidious: Out of the Further",
+    "reason": null,
+    "resolved_via": "insidious out of the further engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-25T07:06:10.916273+00:00"
+  },
+  "insidious out of the further engl": {
+    "authoritative_titles": [
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "",
+      "Insidious 6",
+      "인시디어스 6",
+      "Insidious: The Bleeding World",
+      "Insidieux: hors du plus loin",
+      "Insidious: Jsou mezi námi",
+      "Sobrenatural: Agora Entre Nós",
+      "Insidious - Fuori dall'altrove",
+      "La noche del demonio: Están entre nosotros",
+      "Insidious: Fuera del Más Allá",
+      "Astralna Podmuklost: Izvan Daljine",
+      "Sobrenatural 6",
+      "วิญญาณตามติด หลุดจากนรก",
+      "Naznaczony: Wyjście z mrocznego wymiaru"
+    ],
+    "imdb_id": "tt32393988",
+    "key": "insidious out of the further engl",
     "matched_by": [
       "German localized title",
       "exact year",
@@ -740,12 +847,49 @@
     ],
     "matched_title": "Insidious: Out of the Further",
     "matched_year": 2026,
-    "query_title": "Insidious: Out of the Further",
+    "query_title": "Insidious: Out of the Further (engl",
     "reason": null,
-    "resolved_via": "insidious out of the further|2026",
+    "resolved_via": "insidious out of the further engl|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-13T07:50:29.754610+00:00"
+    "verified_at": "2026-08-25T07:06:10.916273+00:00"
+  },
+  "insidious out of the further engl|2026": {
+    "authoritative_titles": [
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "Insidious: Out of the Further",
+      "",
+      "Insidious 6",
+      "인시디어스 6",
+      "Insidious: The Bleeding World",
+      "Insidieux: hors du plus loin",
+      "Insidious: Jsou mezi námi",
+      "Sobrenatural: Agora Entre Nós",
+      "Insidious - Fuori dall'altrove",
+      "La noche del demonio: Están entre nosotros",
+      "Insidious: Fuera del Más Allá",
+      "Astralna Podmuklost: Izvan Daljine",
+      "Sobrenatural 6",
+      "วิญญาณตามติด หลุดจากนรก",
+      "Naznaczony: Wyjście z mrocznego wymiaru"
+    ],
+    "imdb_id": "tt32393988",
+    "key": "insidious out of the further engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Insidious: Out of the Further",
+    "matched_year": 2026,
+    "query_title": "Insidious: Out of the Further (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-25T07:06:10.916273+00:00"
   },
   "insidious out of the further|2026": {
     "authoritative_titles": [
@@ -764,24 +908,22 @@
       "Insidious: Fuera del Más Allá",
       "Astralna Podmuklost: Izvan Daljine",
       "Sobrenatural 6",
-      "วิญญาณตามติด หลุดจากนรก"
+      "วิญญาณตามติด หลุดจากนรก",
+      "Naznaczony: Wyjście z mrocznego wymiaru"
     ],
     "imdb_id": "tt32393988",
     "key": "insidious out of the further|2026",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Insidious: Out of the Further",
     "matched_year": 2026,
     "query_title": "Insidious: Out of the Further",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "insidious out of the further engl|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-13T07:50:29.754610+00:00"
+    "verified_at": "2026-08-25T07:06:10.916273+00:00"
   },
   "jap dt omu chihiros reise ins zauberland|2003": {
     "authoritative_titles": [],
@@ -1628,10 +1770,76 @@
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": "the end of oak street|2026",
-    "score": 88,
+    "resolved_via": "the end of oak street engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-09T07:13:21.613361+00:00"
+    "verified_at": "2026-08-25T07:06:11.334494+00:00"
+  },
+  "the end of oak street engl": {
+    "authoritative_titles": [
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "",
+      "Flowervale Street",
+      "플라워베일 스트리트",
+      "橡樹街末日",
+      "Конец Оук-стрит",
+      "Konec Oak Street",
+      "มหาภัยสุดถนนโอ๊ค",
+      "O Fim da Rua",
+      "Улица Флауэрвейл",
+      "Вулиця Флауервейл"
+    ],
+    "imdb_id": "tt27165187",
+    "key": "the end of oak street engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The End of Oak Street",
+    "matched_year": 2026,
+    "query_title": "The End of Oak Street (engl",
+    "reason": null,
+    "resolved_via": "the end of oak street engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-25T07:06:11.334494+00:00"
+  },
+  "the end of oak street engl|2026": {
+    "authoritative_titles": [
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "The End of Oak Street",
+      "",
+      "Flowervale Street",
+      "플라워베일 스트리트",
+      "橡樹街末日",
+      "Конец Оук-стрит",
+      "Konec Oak Street",
+      "มหาภัยสุดถนนโอ๊ค",
+      "O Fim da Rua",
+      "Улица Флауэрвейл",
+      "Вулиця Флауервейл"
+    ],
+    "imdb_id": "tt27165187",
+    "key": "the end of oak street engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The End of Oak Street",
+    "matched_year": 2026,
+    "query_title": "The End of Oak Street (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-25T07:06:11.334494+00:00"
   },
   "the end of oak street|2026": {
     "authoritative_titles": [
@@ -1658,10 +1866,10 @@
     "matched_year": 2026,
     "query_title": "The End of Oak Street",
     "reason": null,
-    "resolved_via": null,
-    "score": 88,
+    "resolved_via": "the end of oak street engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-09T07:13:21.613361+00:00"
+    "verified_at": "2026-08-25T07:06:11.334494+00:00"
   },
   "the invite": {
     "authoritative_titles": [
