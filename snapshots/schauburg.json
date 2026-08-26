@@ -7,113 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-01",
-    "start": "2026-08-25"
+    "end": "2026-09-02",
+    "start": "2026-08-26"
   },
-  "retrieved_at": "2026-08-25T09:05:34.299598+02:00",
+  "retrieved_at": "2026-08-26T09:05:47.766929+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-25",
-      "dimension": null,
-      "director_names": [
-        "Florence Miailhe",
-        "Nathan Engelhardt",
-        "Chris Lavis",
-        "Maciek Szczerbowski",
-        "Timur Kognov",
-        "John Kelly"
-      ],
-      "format_label": "OmU",
-      "movie_title": "OSCAR SHORTS ANIMATION",
-      "movie_url": "https://www.schauburg.de/film/oscar-shorts-animation",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 70,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-25",
-      "dimension": null,
-      "director_names": [
-        "Christopher Nolan"
-      ],
-      "format_label": "OV",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 180,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-25",
-      "dimension": null,
-      "director_names": [
-        "Cyril Aris"
-      ],
-      "format_label": "OmU",
-      "movie_title": "A Sad and Beautiful World",
-      "movie_url": "https://www.schauburg.de/film/a-sad-and-beautiful-world",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-25",
-      "dimension": null,
-      "director_names": [
-        "Jane Schoenbrun"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Teenage Sex and Death at Camp Miasma",
-      "movie_url": "https://www.schauburg.de/film/teenage-sex-and-death-at-camp-miasma",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 111,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -517,6 +416,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-09-03",
+      "dimension": null,
+      "director_names": [
+        "Josh Safdie"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Marty Supreme",
+      "movie_url": "https://www.schauburg.de/film/marty-supreme-omu",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 144,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "20:30:00"
     }
   ],
   "success": true

@@ -516,7 +516,8 @@
       "오디세이",
       "オデュッセイア",
       "Адысея",
-      "Odisseya"
+      "Odisseya",
+      "Bir Christopher Nolan Filmi: Odyssey"
     ],
     "imdb_id": "tt33764258",
     "key": "die odyssee",
@@ -527,10 +528,114 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "the odyssey",
-    "score": 124,
+    "resolved_via": "die odyssee engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-03T12:37:36.843372+00:00"
+    "verified_at": "2026-08-26T07:06:27.601850+00:00"
+  },
+  "die odyssee engl": {
+    "authoritative_titles": [
+      "Die Odyssee",
+      "The Odyssey",
+      "The Odyssey",
+      "האודיסיאה",
+      "มหากาพย์โอดิสซี",
+      "Одиссея",
+      "Odysseen",
+      "اودیسه",
+      "奧德賽",
+      "L'odissea",
+      "Odyssea",
+      "Odiseja",
+      "Odissea",
+      "Odyseja",
+      "A Odisseia",
+      "Odiseea",
+      "Odyssey",
+      "Οδύσσεια",
+      "Одисея",
+      "Одисеја",
+      "Одіссея",
+      "دی اوڈیسی",
+      "ادیسه",
+      "द ओडिसी",
+      "দ্য অডিচি",
+      "দ্য ওডিসি",
+      "ది ఒడిస్సీ",
+      "오디세이",
+      "オデュッセイア",
+      "Адысея",
+      "Odisseya",
+      "Bir Christopher Nolan Filmi: Odyssey"
+    ],
+    "imdb_id": "tt33764258",
+    "key": "die odyssee engl",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Odyssey",
+    "matched_year": 2026,
+    "query_title": "Die Odyssee (engl",
+    "reason": null,
+    "resolved_via": "die odyssee engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-26T07:06:27.601850+00:00"
+  },
+  "die odyssee engl|2026": {
+    "authoritative_titles": [
+      "Die Odyssee",
+      "The Odyssey",
+      "The Odyssey",
+      "האודיסיאה",
+      "มหากาพย์โอดิสซี",
+      "Одиссея",
+      "Odysseen",
+      "اودیسه",
+      "奧德賽",
+      "L'odissea",
+      "Odyssea",
+      "Odiseja",
+      "Odissea",
+      "Odyseja",
+      "A Odisseia",
+      "Odiseea",
+      "Odyssey",
+      "Οδύσσεια",
+      "Одисея",
+      "Одисеја",
+      "Одіссея",
+      "دی اوڈیسی",
+      "ادیسه",
+      "द ओडिसी",
+      "দ্য অডিচি",
+      "দ্য ওডিসি",
+      "ది ఒడిస్సీ",
+      "오디세이",
+      "オデュッセイア",
+      "Адысея",
+      "Odisseya",
+      "Bir Christopher Nolan Filmi: Odyssey"
+    ],
+    "imdb_id": "tt33764258",
+    "key": "die odyssee engl|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Odyssey",
+    "matched_year": 2026,
+    "query_title": "Die Odyssee (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-26T07:06:27.601850+00:00"
   },
   "die odyssee|2026": {
     "authoritative_titles": [
@@ -564,7 +669,8 @@
       "오디세이",
       "オデュッセイア",
       "Адысея",
-      "Odisseya"
+      "Odisseya",
+      "Bir Christopher Nolan Filmi: Odyssey"
     ],
     "imdb_id": "tt33764258",
     "key": "die odyssee|2026",
@@ -575,10 +681,10 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "the odyssey",
-    "score": 124,
+    "resolved_via": "die odyssee engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-03T12:37:36.843372+00:00"
+    "verified_at": "2026-08-26T07:06:27.601850+00:00"
   },
   "el gawahergy": {
     "authoritative_titles": [],
@@ -960,6 +1066,27 @@
     "score": 56,
     "status": "confident",
     "verified_at": "2026-08-05T08:50:42.379745+00:00"
+  },
+  "katy perry the lifetimes tour live from paris": {
+    "authoritative_titles": [
+      "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "The Lifetimes Tour Movie"
+    ],
+    "imdb_id": "tt38882652",
+    "key": "katy perry the lifetimes tour live from paris",
+    "matched_by": [
+      "German localized title"
+    ],
+    "matched_title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+    "matched_year": 2026,
+    "query_title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-08-26T07:06:28.777480+00:00"
   },
   "mutiny": {
     "authoritative_titles": [
@@ -1499,7 +1626,7 @@
     "matched_year": 2026,
     "query_title": "Spider-Man: Brand New Day",
     "reason": null,
-    "resolved_via": "spider man brand new day engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-23T06:58:47.483596+00:00"
@@ -1606,6 +1733,20 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-19T07:02:37.735526+00:00"
+  },
+  "tad stones und die wunderlampe ukr": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "tad stones und die wunderlampe ukr",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Tad Stones und die Wunderlampe ukr",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-08-26T07:06:26.835154+00:00"
   },
   "teenage sex and death at camp miasma": {
     "authoritative_titles": [
@@ -1932,7 +2073,8 @@
       "오디세이",
       "オデュッセイア",
       "Адысея",
-      "Odisseya"
+      "Odisseya",
+      "Bir Christopher Nolan Filmi: Odyssey"
     ],
     "imdb_id": "tt33764258",
     "key": "the odyssey",
@@ -1943,10 +2085,10 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": "die odyssee|2026",
-    "score": 124,
+    "resolved_via": "die odyssee engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-08-03T12:37:36.843372+00:00"
+    "verified_at": "2026-08-26T07:06:27.601850+00:00"
   },
   "the odyssey|source:filmpalast:https://filmpalast.net/programmuebersicht/movie/the-odyssey": {
     "authoritative_titles": [],
@@ -2007,6 +2149,20 @@
     "score": 88,
     "status": "confident",
     "verified_at": "2026-08-19T07:02:37.134803+00:00"
+  },
+  "toxic a fairy tale for grown ups hindi": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "toxic a fairy tale for grown ups hindi",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Toxic: A Fairy Tale for Grown-Ups hindi",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-08-26T07:06:26.947360+00:00"
   },
   "toxic tamil": {
     "authoritative_titles": [
