@@ -1088,6 +1088,38 @@
     "status": "confident",
     "verified_at": "2026-08-26T07:06:28.777480+00:00"
   },
+  "marty supreme": {
+    "authoritative_titles": [
+      "Marty Supreme",
+      "Marty Supreme",
+      "Marty Supreme",
+      "",
+      "Marty Tối Thượng",
+      "Marty Cao Cấp",
+      "Marty Siêu Việt",
+      "Möhtəşəm Marti",
+      "Muhteşem Marty",
+      "Wielki Marty",
+      "مارتي العظيم",
+      "Marty Supremo",
+      "Marty Supreme ★ ★ ★ Made in America"
+    ],
+    "imdb_id": "tt32916440",
+    "key": "marty supreme",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within fifteen"
+    ],
+    "matched_title": "Marty Supreme",
+    "matched_year": 2025,
+    "query_title": "Marty Supreme",
+    "reason": null,
+    "resolved_via": null,
+    "score": 85,
+    "status": "confident",
+    "verified_at": "2026-08-27T17:36:32.918428+00:00"
+  },
   "mutiny": {
     "authoritative_titles": [
       "Mutiny",
