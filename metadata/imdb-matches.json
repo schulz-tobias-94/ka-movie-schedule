@@ -140,6 +140,78 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:37.468152+00:00"
   },
+  "cars engl": {
+    "authoritative_titles": [
+      "Cars",
+      "Cars",
+      "Cars",
+      "",
+      "反斗车王",
+      "كارز",
+      "Bílar",
+      "Mashinha",
+      "Cars: Una aventura sobre ruedas",
+      "Көліктер",
+      "Maşınlar",
+      "Cars - Motori Ruggenti",
+      "Bilar",
+      "Auti",
+      "カーズ",
+      "Automobili"
+    ],
+    "imdb_id": "tt0317219",
+    "key": "cars engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Cars",
+    "matched_year": 2006,
+    "query_title": "Cars (engl",
+    "reason": null,
+    "resolved_via": "cars engl|2006",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-29T12:39:49.757513+00:00"
+  },
+  "cars engl|2006": {
+    "authoritative_titles": [
+      "Cars",
+      "Cars",
+      "Cars",
+      "",
+      "反斗车王",
+      "كارز",
+      "Bílar",
+      "Mashinha",
+      "Cars: Una aventura sobre ruedas",
+      "Көліктер",
+      "Maşınlar",
+      "Cars - Motori Ruggenti",
+      "Bilar",
+      "Auti",
+      "カーズ",
+      "Automobili"
+    ],
+    "imdb_id": "tt0317219",
+    "key": "cars engl|2006",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Cars",
+    "matched_year": 2006,
+    "query_title": "Cars (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-29T12:39:49.757513+00:00"
+  },
   "chihiros reise ins zauberland": {
     "authoritative_titles": [
       "Chihiros Reise ins Zauberland",
@@ -2411,6 +2483,20 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.252663+00:00"
+  },
+  "twin peaks series": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "twin peaks series",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Twin Peaks - Series",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 80,
+    "status": "search_fallback",
+    "verified_at": "2026-08-29T12:39:48.058987+00:00"
   },
   "ukrain ver the end of oak street": {
     "authoritative_titles": [

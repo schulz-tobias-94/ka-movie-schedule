@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-04",
-    "start": "2026-08-28"
+    "end": "2026-09-05",
+    "start": "2026-08-29"
   },
-  "retrieved_at": "2026-08-28T20:36:58.574303+02:00",
+  "retrieved_at": "2026-08-29T14:39:10.543775+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-08-28",
-      "dimension": null,
-      "director_names": [
-        "Ridley Scott"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Das Ende der Sterne",
-      "movie_url": "https://www.schauburg.de/film/das-ende-der-sterne-wie-big-hig-sie-kannte",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 119,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -306,6 +282,30 @@
       "cinema_id": "schauburg",
       "cinema_name": "Schauburg Karlsruhe",
       "date": "2026-09-05",
+      "dimension": null,
+      "director_names": [
+        "David Lynch"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Twin Peaks - Series",
+      "movie_url": "https://www.schauburg.de/film/twin-peaks-season-1",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": null,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "10:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-09-06",
       "dimension": null,
       "director_names": [
         "David Lynch"
