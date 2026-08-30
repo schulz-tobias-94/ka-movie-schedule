@@ -403,6 +403,34 @@
     "status": "confident",
     "verified_at": "2026-08-20T07:03:21.977689+00:00"
   },
+  "das ende der sterne|2026": {
+    "authoritative_titles": [
+      "Das Ende der Sterne",
+      "The Dog Stars",
+      "The Dog Stars",
+      "Vzhlížet ke hvězdám",
+      "La Constellation du chien",
+      "La guerra de los últimos",
+      "Собачьи звёзды",
+      "Созвездие Большого Пса",
+      "Köpek ve Yıldızlar",
+      "เดอะ ด็อก สตาร์",
+      "Na Companhia das Estrelas"
+    ],
+    "imdb_id": "tt21285562",
+    "key": "das ende der sterne|2026",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "The Dog Stars",
+    "matched_year": 2026,
+    "query_title": "Das Ende der Sterne",
+    "reason": null,
+    "resolved_via": "das ende der sterne engl|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-20T07:03:21.977689+00:00"
+  },
   "das schloss im himmel": {
     "authoritative_titles": [
       "Das Schloss im Himmel",
@@ -961,6 +989,20 @@
     "status": "confident",
     "verified_at": "2026-08-09T07:13:21.258501+00:00"
   },
+  "i m game": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "i m game",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "I'm Game",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 50,
+    "status": "search_fallback",
+    "verified_at": "2026-08-30T11:51:10.971521+00:00"
+  },
   "insidious out of the further": {
     "authoritative_titles": [
       "Insidious: Out of the Further",
@@ -1192,6 +1234,56 @@
     "status": "confident",
     "verified_at": "2026-08-27T17:36:32.918428+00:00"
   },
+  "mirzapur the movie": {
+    "authoritative_titles": [
+      "Mirzapur: The Movie",
+      "Mirzapur: The Movie",
+      "मिर्ज़ापुर - द मूवी",
+      "Mirzapur",
+      "মির্জাপুর"
+    ],
+    "imdb_id": "tt34339725",
+    "key": "mirzapur the movie",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Mirzapur: The Movie",
+    "matched_year": 2026,
+    "query_title": "Mirzapur: The Movie",
+    "reason": null,
+    "resolved_via": "mirzapur the movie|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-30T11:51:11.738963+00:00"
+  },
+  "mirzapur the movie|2026": {
+    "authoritative_titles": [
+      "Mirzapur: The Movie",
+      "Mirzapur: The Movie",
+      "मिर्ज़ापुर - द मूवी",
+      "Mirzapur",
+      "মির্জাপুর"
+    ],
+    "imdb_id": "tt34339725",
+    "key": "mirzapur the movie|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Mirzapur: The Movie",
+    "matched_year": 2026,
+    "query_title": "Mirzapur: The Movie",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-30T11:51:11.738963+00:00"
+  },
   "mutiny": {
     "authoritative_titles": [
       "Mutiny",
@@ -1369,6 +1461,54 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-08-18T07:01:48.827456+00:00"
+  },
+  "onslaught engl": {
+    "authoritative_titles": [
+      "Onslaught",
+      "Onslaught",
+      "Onslaught",
+      ""
+    ],
+    "imdb_id": "tt32268691",
+    "key": "onslaught engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Onslaught",
+    "matched_year": 2026,
+    "query_title": "Onslaught (engl",
+    "reason": null,
+    "resolved_via": "onslaught engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-30T11:51:09.061397+00:00"
+  },
+  "onslaught engl|2026": {
+    "authoritative_titles": [
+      "Onslaught",
+      "Onslaught",
+      "Onslaught",
+      ""
+    ],
+    "imdb_id": "tt32268691",
+    "key": "onslaught engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Onslaught",
+    "matched_year": 2026,
+    "query_title": "Onslaught (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-30T11:51:09.061397+00:00"
   },
   "oscar shorts animation": {
     "authoritative_titles": [],
@@ -1730,7 +1870,7 @@
     "matched_year": 2026,
     "query_title": "Spider-Man: Brand New Day",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "spider man brand new day engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-23T06:58:47.483596+00:00"
@@ -1838,6 +1978,29 @@
     "status": "confident",
     "verified_at": "2026-08-19T07:02:37.735526+00:00"
   },
+  "tad stones und die wunderlampe": {
+    "authoritative_titles": [
+      "Tad Stones und die Wunderlampe",
+      "Tad and The Magic Lamp",
+      "Tadeo Jones y La Lámpara Maravillosa",
+      "As Aventuras de Tadeo e a Tábua de Esmeralda"
+    ],
+    "imdb_id": "tt36164852",
+    "key": "tad stones und die wunderlampe",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Tad and The Magic Lamp",
+    "matched_year": 2026,
+    "query_title": "Tad Stones und die Wunderlampe",
+    "reason": null,
+    "resolved_via": "tad stones und die wunderlampe|2026",
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-30T11:51:09.877083+00:00"
+  },
   "tad stones und die wunderlampe ukr": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -1851,6 +2014,29 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-08-26T07:06:26.835154+00:00"
+  },
+  "tad stones und die wunderlampe|2026": {
+    "authoritative_titles": [
+      "Tad Stones und die Wunderlampe",
+      "Tad and The Magic Lamp",
+      "Tadeo Jones y La Lámpara Maravillosa",
+      "As Aventuras de Tadeo e a Tábua de Esmeralda"
+    ],
+    "imdb_id": "tt36164852",
+    "key": "tad stones und die wunderlampe|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Tad and The Magic Lamp",
+    "matched_year": 2026,
+    "query_title": "Tad Stones und die Wunderlampe",
+    "reason": null,
+    "resolved_via": null,
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-08-30T11:51:09.877083+00:00"
   },
   "teenage sex and death at camp miasma": {
     "authoritative_titles": [
