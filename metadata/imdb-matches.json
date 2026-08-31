@@ -1462,6 +1462,30 @@
     "status": "search_fallback",
     "verified_at": "2026-08-18T07:01:48.827456+00:00"
   },
+  "onslaught": {
+    "authoritative_titles": [
+      "Onslaught",
+      "Onslaught",
+      "Onslaught",
+      ""
+    ],
+    "imdb_id": "tt32268691",
+    "key": "onslaught",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Onslaught",
+    "matched_year": 2026,
+    "query_title": "Onslaught",
+    "reason": null,
+    "resolved_via": "onslaught|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-31T13:39:14.509235+00:00"
+  },
   "onslaught engl": {
     "authoritative_titles": [
       "Onslaught",
@@ -1509,6 +1533,30 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-30T11:51:09.061397+00:00"
+  },
+  "onslaught|2026": {
+    "authoritative_titles": [
+      "Onslaught",
+      "Onslaught",
+      "Onslaught",
+      ""
+    ],
+    "imdb_id": "tt32268691",
+    "key": "onslaught|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Onslaught",
+    "matched_year": 2026,
+    "query_title": "Onslaught",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-08-31T13:39:14.509235+00:00"
   },
   "oscar shorts animation": {
     "authoritative_titles": [],
@@ -1664,18 +1712,60 @@
     "imdb_id": "tt37595822",
     "key": "red rue express",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Red Rue Express",
     "matched_year": 2026,
     "query_title": "Red Rue Express",
     "reason": null,
-    "resolved_via": "red rue express|2026",
+    "resolved_via": "red rue express ukrain mit dt ut|2026",
     "score": 81,
     "status": "confident",
-    "verified_at": "2026-08-17T07:14:08.457618+00:00"
+    "verified_at": "2026-08-31T13:39:14.726415+00:00"
+  },
+  "red rue express ukrain mit dt ut": {
+    "authoritative_titles": [
+      "Red Rue Express",
+      "Red Rue Express",
+      "Потяг «Червона Рута»"
+    ],
+    "imdb_id": "tt37595822",
+    "key": "red rue express ukrain mit dt ut",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Red Rue Express",
+    "matched_year": 2026,
+    "query_title": "Red Rue Express (Ukrain mit dt.UT)",
+    "reason": null,
+    "resolved_via": "red rue express ukrain mit dt ut|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-31T13:39:14.726415+00:00"
+  },
+  "red rue express ukrain mit dt ut|2026": {
+    "authoritative_titles": [
+      "Red Rue Express",
+      "Red Rue Express",
+      "Потяг «Червона Рута»"
+    ],
+    "imdb_id": "tt37595822",
+    "key": "red rue express ukrain mit dt ut|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Red Rue Express",
+    "matched_year": 2026,
+    "query_title": "Red Rue Express (Ukrain mit dt.UT)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-08-31T13:39:14.726415+00:00"
   },
   "red rue express|2026": {
     "authoritative_titles": [
@@ -1870,7 +1960,7 @@
     "matched_year": 2026,
     "query_title": "Spider-Man: Brand New Day",
     "reason": null,
-    "resolved_via": "spider man brand new day engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-23T06:58:47.483596+00:00"
