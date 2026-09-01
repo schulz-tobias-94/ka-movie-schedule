@@ -2266,6 +2266,28 @@
     "status": "confident",
     "verified_at": "2026-08-22T06:57:15.567889+00:00"
   },
+  "that s why the lady is a champ": {
+    "authoritative_titles": [
+      "That's Why The Lady Is A Champ",
+      "Christy",
+      "Christy"
+    ],
+    "imdb_id": "tt32323252",
+    "key": "that s why the lady is a champ",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Christy",
+    "matched_year": 2025,
+    "query_title": "That's Why the Lady Is a Champ",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-09-01T11:35:22.620327+00:00"
+  },
   "the end of oak street": {
     "authoritative_titles": [
       "The End of Oak Street",
@@ -2465,7 +2487,7 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": "die odyssee engl|2026",
+    "resolved_via": "die odyssee",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
