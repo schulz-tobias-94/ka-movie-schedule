@@ -628,7 +628,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "die odyssee engl|2026",
+    "resolved_via": "the odyssey",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -1335,6 +1335,28 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-20T07:03:22.794310+00:00"
+  },
+  "oasis don t look back in anger": {
+    "authoritative_titles": [
+      "Oasis: Don't Look Back in Anger",
+      "Oasis: Don't Look Back in Anger",
+      "Oasis: Don't Look Back in Anger",
+      "",
+      "Don't Look Back in Anger"
+    ],
+    "imdb_id": "tt36152310",
+    "key": "oasis don t look back in anger",
+    "matched_by": [
+      "German localized title"
+    ],
+    "matched_title": "Oasis: Don't Look Back in Anger",
+    "matched_year": 2026,
+    "query_title": "Oasis: Don't Look Back in Anger",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-09-02T11:13:01.772940+00:00"
   },
   "obsession": {
     "authoritative_titles": [],
