@@ -338,7 +338,7 @@
     "matched_year": 2026,
     "query_title": "Das Ende der Sterne",
     "reason": null,
-    "resolved_via": "das ende der sterne engl|2026",
+    "resolved_via": "das ende der sterne|2026",
     "score": 81,
     "status": "confident",
     "verified_at": "2026-08-20T07:03:21.977689+00:00"
@@ -426,7 +426,7 @@
     "matched_year": 2026,
     "query_title": "Das Ende der Sterne",
     "reason": null,
-    "resolved_via": "das ende der sterne engl|2026",
+    "resolved_via": null,
     "score": 81,
     "status": "confident",
     "verified_at": "2026-08-20T07:03:21.977689+00:00"
@@ -1032,7 +1032,7 @@
     "matched_year": 2026,
     "query_title": "Insidious: Out of the Further",
     "reason": null,
-    "resolved_via": "insidious out of the further engl|2026",
+    "resolved_via": "insidious out of the further|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-25T07:06:10.916273+00:00"
@@ -1140,7 +1140,7 @@
     "matched_year": 2026,
     "query_title": "Insidious: Out of the Further",
     "reason": null,
-    "resolved_via": "insidious out of the further engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-25T07:06:10.916273+00:00"
@@ -1657,6 +1657,66 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-23T06:58:46.706767+00:00"
+  },
+  "practical magic 2 zauberhafte schwestern": {
+    "authoritative_titles": [
+      "Zauberhafte Schwestern 2",
+      "Practical Magic 2",
+      "Practical Magic 2",
+      "Practical Magic 2 - Zauberhafte Schwestern",
+      "프랙티컬 매직 2",
+      "Magická posedlost 2",
+      "Amour et magie 2",
+      "Les ensorceleuses 2",
+      "สองสาวพลังรัก เมจิกมนตราเสน่หา",
+      "Da Magia à Sedução 2"
+    ],
+    "imdb_id": "tt32588798",
+    "key": "practical magic 2 zauberhafte schwestern",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Practical Magic 2",
+    "matched_year": 2026,
+    "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
+    "reason": null,
+    "resolved_via": "practical magic 2 zauberhafte schwestern|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-03T11:09:01.257649+00:00"
+  },
+  "practical magic 2 zauberhafte schwestern|2026": {
+    "authoritative_titles": [
+      "Zauberhafte Schwestern 2",
+      "Practical Magic 2",
+      "Practical Magic 2",
+      "Practical Magic 2 - Zauberhafte Schwestern",
+      "프랙티컬 매직 2",
+      "Magická posedlost 2",
+      "Amour et magie 2",
+      "Les ensorceleuses 2",
+      "สองสาวพลังรัก เมจิกมนตราเสน่หา",
+      "Da Magia à Sedução 2"
+    ],
+    "imdb_id": "tt32588798",
+    "key": "practical magic 2 zauberhafte schwestern|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Practical Magic 2",
+    "matched_year": 2026,
+    "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-03T11:09:01.257649+00:00"
   },
   "prinzessin mononoke": {
     "authoritative_titles": [
