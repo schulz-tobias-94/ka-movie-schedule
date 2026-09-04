@@ -7,10 +7,10 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-10",
-    "start": "2026-09-03"
+    "end": "2026-09-11",
+    "start": "2026-09-04"
   },
-  "retrieved_at": "2026-09-03T13:08:51.929586+02:00",
+  "retrieved_at": "2026-09-04T13:12:54.232907+02:00",
   "schema_version": 4,
   "screenings": [
     {
@@ -264,7 +264,7 @@
       "date": "2026-09-06",
       "dimension": null,
       "director_names": [],
-      "format_label": "OmeU · malayalam mit englischen Untertiteln",
+      "format_label": "malayalam mit englischen Untertiteln · OmeU",
       "movie_title": "I'm Game",
       "movie_url": "https://filmpalast.net/programmuebersicht/movie/im-game",
       "original_language": "English",
@@ -430,6 +430,28 @@
       "subtitle_language": null,
       "technology": null,
       "time": "17:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Kino 1",
+      "booking_url": null,
+      "cinema_id": "filmpalast",
+      "cinema_name": "Filmpalast am ZKM",
+      "date": "2026-09-11",
+      "dimension": null,
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Oasis: Don't Look Back in Anger",
+      "movie_url": "https://filmpalast.net/programmuebersicht/movie/oasis-dont-look-back-in-anger",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": null,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "22:45:00"
     }
   ],
   "success": true

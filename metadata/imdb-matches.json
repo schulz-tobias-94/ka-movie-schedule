@@ -628,7 +628,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "the odyssey",
+    "resolved_via": "die odyssee engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -1201,6 +1201,100 @@
     "score": 50,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:28.777480+00:00"
+  },
+  "lifehack": {
+    "authoritative_titles": [
+      "LifeHack",
+      "LifeHack",
+      "LifeHack",
+      "",
+      "Life Hack"
+    ],
+    "imdb_id": "tt32135632",
+    "key": "lifehack",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "LifeHack",
+    "matched_year": 2026,
+    "query_title": "LifeHack",
+    "reason": null,
+    "resolved_via": "lifehack|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-04T11:13:01.560480+00:00"
+  },
+  "lifehack|2026": {
+    "authoritative_titles": [
+      "LifeHack",
+      "LifeHack",
+      "LifeHack",
+      "",
+      "Life Hack"
+    ],
+    "imdb_id": "tt32135632",
+    "key": "lifehack|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "LifeHack",
+    "matched_year": 2026,
+    "query_title": "LifeHack",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-04T11:13:01.560480+00:00"
+  },
+  "mandaadi tamil": {
+    "authoritative_titles": [
+      "Mandaadi",
+      "Mandaadi",
+      "மண்டாடி"
+    ],
+    "imdb_id": "tt36596965",
+    "key": "mandaadi tamil",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Mandaadi",
+    "matched_year": 2026,
+    "query_title": "MANDAADI (Tamil",
+    "reason": null,
+    "resolved_via": "mandaadi tamil|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-09-04T11:13:02.152066+00:00"
+  },
+  "mandaadi tamil|2026": {
+    "authoritative_titles": [
+      "Mandaadi",
+      "Mandaadi",
+      "மண்டாடி"
+    ],
+    "imdb_id": "tt36596965",
+    "key": "mandaadi tamil|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Mandaadi",
+    "matched_year": 2026,
+    "query_title": "MANDAADI (Tamil",
+    "reason": null,
+    "resolved_via": null,
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-09-04T11:13:02.152066+00:00"
   },
   "marty supreme": {
     "authoritative_titles": [

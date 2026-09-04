@@ -7,108 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-10",
-    "start": "2026-09-03"
+    "end": "2026-09-11",
+    "start": "2026-09-04"
   },
-  "retrieved_at": "2026-09-03T13:08:28.175417+02:00",
+  "retrieved_at": "2026-09-04T13:12:30.643693+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-03",
-      "dimension": null,
-      "director_names": [
-        "Josh Safdie"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Marty Supreme",
-      "movie_url": "https://www.schauburg.de/film/marty-supreme-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 144,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-03",
-      "dimension": null,
-      "director_names": [
-        "Ridley Scott"
-      ],
-      "format_label": "OV",
-      "movie_title": "Das Ende der Sterne",
-      "movie_url": "https://www.schauburg.de/film/das-ende-der-sterne-wie-big-hig-sie-kannte",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 119,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-03",
-      "dimension": null,
-      "director_names": [
-        "David Michôd"
-      ],
-      "format_label": "OmU",
-      "movie_title": "That's Why the Lady Is a Champ",
-      "movie_url": "https://www.schauburg.de/film/that-s-why-the-lady-is-a-champ",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 136,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-03",
-      "dimension": null,
-      "director_names": [
-        "Jane Schoenbrun"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Teenage Sex and Death at Camp Miasma",
-      "movie_url": "https://www.schauburg.de/film/teenage-sex-and-death-at-camp-miasma",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 111,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -370,6 +274,31 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-09-12",
+      "dimension": null,
+      "director_names": [
+        "Will Lovelacem",
+        "Dylan Southern"
+      ],
+      "format_label": "OmU",
+      "movie_title": "OASIS: Don't Look Back In Anger",
+      "movie_url": "https://www.schauburg.de/film/oasis-don-t-look-back-in-anger",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 122,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "19:00:00"
     }
   ],
   "success": true
