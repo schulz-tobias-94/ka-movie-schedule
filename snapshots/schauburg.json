@@ -7,10 +7,10 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-11",
-    "start": "2026-09-04"
+    "end": "2026-09-12",
+    "start": "2026-09-05"
   },
-  "retrieved_at": "2026-09-04T13:12:30.643693+02:00",
+  "retrieved_at": "2026-09-05T12:30:10.824497+02:00",
   "schema_version": 4,
   "screenings": [
     {
@@ -299,6 +299,55 @@
       "subtitle_language": null,
       "technology": null,
       "time": "19:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-09-13",
+      "dimension": null,
+      "director_names": [
+        "Will Lovelacem",
+        "Dylan Southern"
+      ],
+      "format_label": "OmU",
+      "movie_title": "OASIS: Don't Look Back In Anger",
+      "movie_url": "https://www.schauburg.de/film/oasis-don-t-look-back-in-anger",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 122,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "17:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-09-13",
+      "dimension": null,
+      "director_names": [
+        "Jim Sharman"
+      ],
+      "format_label": "OV",
+      "movie_title": "The Rocky Horror Picture Show",
+      "movie_url": "https://www.schauburg.de/film/the-rocky-horror-picture-show-ov",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 94,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "20:30:00"
     }
   ],
   "success": true
