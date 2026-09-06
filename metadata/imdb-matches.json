@@ -372,7 +372,7 @@
     "matched_year": 2026,
     "query_title": "Das Ende der Sterne",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "das ende der sterne|2026",
     "score": 81,
     "status": "confident",
     "verified_at": "2026-08-20T07:03:21.977689+00:00"
@@ -662,7 +662,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "the odyssey",
+    "resolved_via": "die odyssee engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -2170,7 +2170,7 @@
     "matched_year": 2026,
     "query_title": "Spider-Man: Brand New Day",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "spider man brand new day engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-23T06:58:47.483596+00:00"
@@ -2697,7 +2697,7 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": "die odyssee",
+    "resolved_via": "die odyssee|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -2729,6 +2729,38 @@
     "score": 56,
     "status": "search_fallback",
     "verified_at": "2026-08-11T07:33:29.651338+00:00"
+  },
+  "the rocky horror picture show": {
+    "authoritative_titles": [
+      "The Rocky Horror Picture Show",
+      "The Rocky Horror Picture Show",
+      "The Rocky Horror Picture Show",
+      "",
+      "基恐怖舞会",
+      "洛奇恐怖晚会",
+      "RHPS",
+      "El Show de terror de Rocky",
+      "Orgía de Terror y Locura",
+      "Die Rocky Horror Picture Show",
+      "록키 호러 픽쳐 쇼",
+      "록키 호러 픽쳐쇼",
+      "Rocky Horror"
+    ],
+    "imdb_id": "tt0073629",
+    "key": "the rocky horror picture show",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "The Rocky Horror Picture Show",
+    "matched_year": 1975,
+    "query_title": "The Rocky Horror Picture Show",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-09-06T10:51:07.071934+00:00"
   },
   "toxic": {
     "authoritative_titles": [
