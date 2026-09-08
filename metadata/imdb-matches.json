@@ -96,6 +96,30 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:37.908176+00:00"
   },
+  "bad apples": {
+    "authoritative_titles": [
+      "Bad Apples",
+      "Bad Apples",
+      "Bad Apples",
+      "",
+      "Pis Almalar"
+    ],
+    "imdb_id": "tt29714073",
+    "key": "bad apples",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Bad Apples",
+    "matched_year": 2026,
+    "query_title": "Bad Apples",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-09-08T11:12:23.648381+00:00"
+  },
   "bethlehem kudumba unit": {
     "authoritative_titles": [
       "Bethlehem Kudumba Unit",
@@ -815,10 +839,42 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "die odyssee engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
+  },
+  "die odyssee|director:christopher nolan": {
+    "authoritative_titles": [
+      "Die Odyssee",
+      "The Odyssey",
+      "The Odyssey",
+      "האודיסיאה",
+      "Odysseen",
+      "奧德賽",
+      "Οδύσσεια",
+      "دی اوڈیسی",
+      "ادیسه",
+      "দ্য অডিচি",
+      "দ্য ওডিসি",
+      "Адысея",
+      "Odisseya"
+    ],
+    "imdb_id": "tt33764258",
+    "key": "die odyssee|director:christopher nolan",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "The Odyssey",
+    "matched_year": 2026,
+    "query_title": "Die Odyssee",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-09-08T11:12:22.757431+00:00"
   },
   "el gawahergy": {
     "authoritative_titles": [],
@@ -864,6 +920,30 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-07T07:39:30.192278+00:00"
+  },
+  "frühstück bei audrey": {
+    "authoritative_titles": [
+      "Frühstück bei Audrey",
+      "The Doll",
+      "La Poupée",
+      "La Poupee",
+      "The Doll",
+      "Frühstück bei Audrey"
+    ],
+    "imdb_id": "tt36749000",
+    "key": "frühstück bei audrey",
+    "matched_by": [
+      "German localized title",
+      "director match"
+    ],
+    "matched_title": "The Doll",
+    "matched_year": 2026,
+    "query_title": "Frühstück bei Audrey",
+    "reason": null,
+    "resolved_via": null,
+    "score": 80,
+    "status": "confident",
+    "verified_at": "2026-09-08T11:12:23.881774+00:00"
   },
   "ghost 2 big to rig": {
     "authoritative_titles": [
@@ -1786,6 +1866,33 @@
     "status": "confident",
     "verified_at": "2026-08-23T06:58:46.706767+00:00"
   },
+  "practical magic 2": {
+    "authoritative_titles": [
+      "Zauberhafte Schwestern 2",
+      "Practical Magic 2",
+      "Practical Magic 2",
+      "Practical Magic 2 - Zauberhafte Schwestern",
+      "프랙티컬 매직 2",
+      "Magická posedlost 2",
+      "Amour et magie 2",
+      "Les ensorceleuses 2",
+      "สองสาวพลังรัก เมจิกมนตราเสน่หา",
+      "Da Magia à Sedução 2"
+    ],
+    "imdb_id": "tt32588798",
+    "key": "practical magic 2",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Practical Magic 2",
+    "matched_year": 2026,
+    "query_title": "Practical Magic 2",
+    "reason": null,
+    "resolved_via": "practical magic 2 zauberhafte schwestern|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-03T11:09:01.257649+00:00"
+  },
   "practical magic 2 zauberhafte schwestern": {
     "authoritative_titles": [
       "Zauberhafte Schwestern 2",
@@ -1802,16 +1909,13 @@
     "imdb_id": "tt32588798",
     "key": "practical magic 2 zauberhafte schwestern",
     "matched_by": [
-      "English title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Practical Magic 2",
     "matched_year": 2026,
     "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
     "reason": null,
-    "resolved_via": "practical magic 2 zauberhafte schwestern|2026",
+    "resolved_via": "practical magic 2",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-03T11:09:01.257649+00:00"
@@ -1832,16 +1936,13 @@
     "imdb_id": "tt32588798",
     "key": "practical magic 2 zauberhafte schwestern|2026",
     "matched_by": [
-      "English title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Practical Magic 2",
     "matched_year": 2026,
     "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "practical magic 2",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-03T11:09:01.257649+00:00"
@@ -2051,6 +2152,88 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-23T06:58:47.483596+00:00"
+  },
+  "spider man brand new day auch in d box engl": {
+    "authoritative_titles": [
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "",
+      "Spider-Man 4",
+      "스파이더맨 4",
+      "Homem-Aranha 4",
+      "ספיידרמן 4",
+      "Человек-паук 4",
+      "មនុស្សពីងពាង: ថ្ងៃថ្មីសន្លាង",
+      "Marvel Studios' Spider-Man: Brand New Day",
+      "蜘蛛侠4",
+      "ສະໄປເດີ-ແມນ: ແບນ ນິວ ເດ",
+      "Hörümçək Adam: Tamamilə Yeni Gün",
+      "স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে",
+      "Örümcek Adam 4",
+      "ספיידרמן:יום חדש דנדש",
+      "Marvel Studios' Örümcek Adam: Yepyeni Bir Gün",
+      "Человек-паук КВМ 4",
+      "مرد عنکبوتی : روز کاملاً جدید",
+      "اسپایدر من : روز کاملاً جدید"
+    ],
+    "imdb_id": "tt22084616",
+    "key": "spider man brand new day auch in d box engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spider-Man: Brand New Day",
+    "matched_year": 2026,
+    "query_title": "Spider-Man: Brand New Day (auch in D-BOX) (engl",
+    "reason": null,
+    "resolved_via": "spider man brand new day auch in d box engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-08T11:12:22.240264+00:00"
+  },
+  "spider man brand new day auch in d box engl|2026": {
+    "authoritative_titles": [
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "Spider-Man: Brand New Day",
+      "",
+      "Spider-Man 4",
+      "스파이더맨 4",
+      "Homem-Aranha 4",
+      "ספיידרמן 4",
+      "Человек-паук 4",
+      "មនុស្សពីងពាង: ថ្ងៃថ្មីសន្លាង",
+      "Marvel Studios' Spider-Man: Brand New Day",
+      "蜘蛛侠4",
+      "ສະໄປເດີ-ແມນ: ແບນ ນິວ ເດ",
+      "Hörümçək Adam: Tamamilə Yeni Gün",
+      "স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে",
+      "Örümcek Adam 4",
+      "ספיידרמן:יום חדש דנדש",
+      "Marvel Studios' Örümcek Adam: Yepyeni Bir Gün",
+      "Человек-паук КВМ 4",
+      "مرد عنکبوتی : روز کاملاً جدید",
+      "اسپایدر من : روز کاملاً جدید"
+    ],
+    "imdb_id": "tt22084616",
+    "key": "spider man brand new day auch in d box engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spider-Man: Brand New Day",
+    "matched_year": 2026,
+    "query_title": "Spider-Man: Brand New Day (auch in D-BOX) (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-08T11:12:22.240264+00:00"
   },
   "spider man brand new day engl": {
     "authoritative_titles": [
@@ -2659,34 +2842,15 @@
       "The Odyssey",
       "The Odyssey",
       "האודיסיאה",
-      "มหากาพย์โอดิสซี",
-      "Одиссея",
       "Odysseen",
-      "اودیسه",
       "奧德賽",
-      "L'odissea",
-      "Odyssea",
-      "Odiseja",
-      "Odissea",
-      "Odyseja",
-      "A Odisseia",
-      "Odiseea",
-      "Odyssey",
       "Οδύσσεια",
-      "Одисея",
-      "Одисеја",
-      "Одіссея",
       "دی اوڈیسی",
       "ادیسه",
-      "द ओडिसी",
       "দ্য অডিচি",
       "দ্য ওডিসি",
-      "ది ఒడిస్సీ",
-      "오디세이",
-      "オデュッセイア",
       "Адысея",
-      "Odisseya",
-      "Bir Christopher Nolan Filmi: Odyssey"
+      "Odisseya"
     ],
     "imdb_id": "tt33764258",
     "key": "the odyssey",
@@ -2697,10 +2861,10 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": "die odyssee|2026",
-    "score": 94,
+    "resolved_via": "die odyssee|director:christopher nolan",
+    "score": 93,
     "status": "confident",
-    "verified_at": "2026-08-26T07:06:27.601850+00:00"
+    "verified_at": "2026-09-08T11:12:22.757431+00:00"
   },
   "the odyssey|source:filmpalast:https://filmpalast.net/programmuebersicht/movie/the-odyssey": {
     "authoritative_titles": [],
