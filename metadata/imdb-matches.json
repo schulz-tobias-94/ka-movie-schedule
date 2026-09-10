@@ -330,6 +330,44 @@
     "key": "coyote vs acme",
     "matched_by": [
       "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Coyote vs. Acme",
+    "matched_year": 2026,
+    "query_title": "Coyote vs. Acme",
+    "reason": null,
+    "resolved_via": "coyote vs acme|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-10T11:13:24.465460+00:00"
+  },
+  "coyote vs acme|2026": {
+    "authoritative_titles": [
+      "Coyote vs. ACME",
+      "Coyote vs. Acme",
+      "Coyote vs. Acme",
+      "Ptica trkačica: Kojot protiv sustava",
+      "Pera Kojot protiv sistema",
+      "Kojot proti sistemu",
+      "Kojotas prieš Akmę",
+      "Koijots pret Acme",
+      "Coyote vs Acme",
+      "Kojot vrací úder",
+      "Койот против АКМЕ",
+      "Којотот против системот",
+      "Struś Pędziwiatr i zemsta Kojota",
+      "Койот проти Акме",
+      "كايوتي ضد أكمي",
+      "โคโยตี้ ปะทะ แอคมี่"
+    ],
+    "imdb_id": "tt1756855",
+    "key": "coyote vs acme|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
       "original language"
     ],
     "matched_title": "Coyote vs. Acme",
@@ -337,9 +375,9 @@
     "query_title": "Coyote vs. Acme",
     "reason": null,
     "resolved_via": null,
-    "score": 56,
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-05T10:30:38.983434+00:00"
+    "verified_at": "2026-09-10T11:13:24.465460+00:00"
   },
   "das drama noch einmal auf anfang": {
     "authoritative_titles": [
