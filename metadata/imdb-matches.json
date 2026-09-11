@@ -2138,6 +2138,58 @@
     "status": "confident",
     "verified_at": "2026-08-17T07:14:08.457618+00:00"
   },
+  "runner engl": {
+    "authoritative_titles": [
+      "Runner",
+      "Runner",
+      "Runner",
+      "",
+      "Entrega Al Límite",
+      "Ātrā piegāde"
+    ],
+    "imdb_id": "tt31349844",
+    "key": "runner engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Runner",
+    "matched_year": 2026,
+    "query_title": "Runner (engl",
+    "reason": null,
+    "resolved_via": "runner engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-11T11:14:41.993186+00:00"
+  },
+  "runner engl|2026": {
+    "authoritative_titles": [
+      "Runner",
+      "Runner",
+      "Runner",
+      "",
+      "Entrega Al Límite",
+      "Ātrā piegāde"
+    ],
+    "imdb_id": "tt31349844",
+    "key": "runner engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Runner",
+    "matched_year": 2026,
+    "query_title": "Runner (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-11T11:14:41.993186+00:00"
+  },
   "sneak": {
     "authoritative_titles": [],
     "imdb_id": null,
