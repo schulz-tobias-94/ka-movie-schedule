@@ -434,7 +434,7 @@
     "matched_year": 2026,
     "query_title": "Das Ende der Sterne",
     "reason": null,
-    "resolved_via": "das ende der sterne|2026",
+    "resolved_via": null,
     "score": 81,
     "status": "confident",
     "verified_at": "2026-08-20T07:03:21.977689+00:00"
@@ -724,7 +724,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": "die odyssee engl|2026",
+    "resolved_via": "the odyssey",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -877,7 +877,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "the odyssey",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -1479,6 +1479,20 @@
     "score": 85,
     "status": "confident",
     "verified_at": "2026-08-27T17:36:32.918428+00:00"
+  },
+  "met opera 2026 27 geburtstagsgala 20 jahre met live im kino": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "met opera 2026 27 geburtstagsgala 20 jahre met live im kino",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Met Opera 2026/27: GEBURTSTAGSGALA - 20 Jahre Met live im Kino",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-09-12T10:41:04.334422+00:00"
   },
   "mirzapur the movie": {
     "authoritative_titles": [
@@ -2932,15 +2946,34 @@
       "The Odyssey",
       "The Odyssey",
       "האודיסיאה",
+      "มหากาพย์โอดิสซี",
+      "Одиссея",
       "Odysseen",
+      "اودیسه",
       "奧德賽",
+      "L'odissea",
+      "Odyssea",
+      "Odiseja",
+      "Odissea",
+      "Odyseja",
+      "A Odisseia",
+      "Odiseea",
+      "Odyssey",
       "Οδύσσεια",
+      "Одисея",
+      "Одисеја",
+      "Одіссея",
       "دی اوڈیسی",
       "ادیسه",
+      "द ओडिसी",
       "দ্য অডিচি",
       "দ্য ওডিসি",
+      "ది ఒడిస్సీ",
+      "오디세이",
+      "オデュッセイア",
       "Адысея",
-      "Odisseya"
+      "Odisseya",
+      "Bir Christopher Nolan Filmi: Odyssey"
     ],
     "imdb_id": "tt33764258",
     "key": "the odyssey",
@@ -2951,10 +2984,10 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": "die odyssee|director:christopher nolan",
-    "score": 93,
+    "resolved_via": "die odyssee|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-08T11:12:22.757431+00:00"
+    "verified_at": "2026-08-26T07:06:27.601850+00:00"
   },
   "the odyssey|source:filmpalast:https://filmpalast.net/programmuebersicht/movie/the-odyssey": {
     "authoritative_titles": [],
