@@ -22,6 +22,50 @@
     "status": "confident",
     "verified_at": "2026-08-18T07:01:51.120961+00:00"
   },
+  "america america 2 kannada engl": {
+    "authoritative_titles": [
+      "America America 2",
+      "America America 2",
+      "ಅಮೆರಿಕಾ ಅಮೆರಿಕಾ 2"
+    ],
+    "imdb_id": "tt36987453",
+    "key": "america america 2 kannada engl",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "America America 2",
+    "matched_year": 2026,
+    "query_title": "America America 2 (Kannada engl",
+    "reason": null,
+    "resolved_via": "america america 2 kannada engl|2026",
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-09-13T11:45:06.224556+00:00"
+  },
+  "america america 2 kannada engl|2026": {
+    "authoritative_titles": [
+      "America America 2",
+      "America America 2",
+      "ಅಮೆರಿಕಾ ಅಮೆರಿಕಾ 2"
+    ],
+    "imdb_id": "tt36987453",
+    "key": "america america 2 kannada engl|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "America America 2",
+    "matched_year": 2026,
+    "query_title": "America America 2 (Kannada engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-09-13T11:45:06.224556+00:00"
+  },
   "ateez light the way in cinemas": {
     "authoritative_titles": [
       "ATEEZ: LIGHT THE WAY IN CINEMAS",
@@ -139,6 +183,52 @@
     "score": 50,
     "status": "confident",
     "verified_at": "2026-08-16T06:56:55.746095+00:00"
+  },
+  "bethlehem kudumba unit malayalam": {
+    "authoritative_titles": [
+      "Bethlehem Kudumba Unit",
+      "Bethlehem Kudumba Unit",
+      "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "BKU"
+    ],
+    "imdb_id": "tt37535100",
+    "key": "bethlehem kudumba unit malayalam",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Bethlehem Kudumba Unit",
+    "matched_year": 2026,
+    "query_title": "Bethlehem Kudumba Unit (Malayalam",
+    "reason": null,
+    "resolved_via": "bethlehem kudumba unit malayalam|2026",
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-09-13T11:45:06.413605+00:00"
+  },
+  "bethlehem kudumba unit malayalam|2026": {
+    "authoritative_titles": [
+      "Bethlehem Kudumba Unit",
+      "Bethlehem Kudumba Unit",
+      "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "BKU"
+    ],
+    "imdb_id": "tt37535100",
+    "key": "bethlehem kudumba unit malayalam|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five"
+    ],
+    "matched_title": "Bethlehem Kudumba Unit",
+    "matched_year": 2026,
+    "query_title": "Bethlehem Kudumba Unit (Malayalam",
+    "reason": null,
+    "resolved_via": null,
+    "score": 88,
+    "status": "confident",
+    "verified_at": "2026-09-13T11:45:06.413605+00:00"
   },
   "bitteres fest": {
     "authoritative_titles": [
@@ -378,6 +468,54 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-10T11:13:24.465460+00:00"
+  },
+  "daayra hindi engl": {
+    "authoritative_titles": [
+      "Daayra",
+      "Daayra",
+      "दायरा",
+      "Dayra"
+    ],
+    "imdb_id": "tt32634611",
+    "key": "daayra hindi engl",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Daayra",
+    "matched_year": 2026,
+    "query_title": "Daayra (Hindi engl",
+    "reason": null,
+    "resolved_via": "daayra hindi engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-13T11:45:06.995735+00:00"
+  },
+  "daayra hindi engl|2026": {
+    "authoritative_titles": [
+      "Daayra",
+      "Daayra",
+      "दायरा",
+      "Dayra"
+    ],
+    "imdb_id": "tt32634611",
+    "key": "daayra hindi engl|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Daayra",
+    "matched_year": 2026,
+    "query_title": "Daayra (Hindi engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-13T11:45:06.995735+00:00"
   },
   "das drama noch einmal auf anfang": {
     "authoritative_titles": [

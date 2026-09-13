@@ -7,37 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-19",
-    "start": "2026-09-12"
+    "end": "2026-09-20",
+    "start": "2026-09-13"
   },
-  "retrieved_at": "2026-09-12T12:40:34.060854+02:00",
+  "retrieved_at": "2026-09-13T13:44:32.837208+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-12",
-      "dimension": null,
-      "director_names": [
-        "Will Lovelacem",
-        "Dylan Southern"
-      ],
-      "format_label": "OmU",
-      "movie_title": "OASIS: Don't Look Back In Anger",
-      "movie_url": "https://www.schauburg.de/film/oasis-don-t-look-back-in-anger",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
