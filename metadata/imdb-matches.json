@@ -2085,16 +2085,18 @@
   },
   "practical magic 2 zauberhafte schwestern": {
     "authoritative_titles": [
-      "Zauberhafte Schwestern 2",
+      "Practical Magic 2 – Zauberhafte Schwestern",
       "Practical Magic 2",
       "Practical Magic 2",
-      "Practical Magic 2 - Zauberhafte Schwestern",
       "프랙티컬 매직 2",
       "Magická posedlost 2",
       "Amour et magie 2",
       "Les ensorceleuses 2",
       "สองสาวพลังรัก เมจิกมนตราเสน่หา",
-      "Da Magia à Sedução 2"
+      "Da Magia à Sedução 2",
+      "Pratical Magic: The Book of Magic",
+      "Hechizo de amor: La magia continúa",
+      "Practical Magic: Magi i Familien"
     ],
     "imdb_id": "tt32588798",
     "key": "practical magic 2 zauberhafte schwestern",
@@ -2105,23 +2107,89 @@
     "matched_year": 2026,
     "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
     "reason": null,
-    "resolved_via": "practical magic 2",
+    "resolved_via": "practical magic 2 zauberhafte schwestern engl|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-03T11:09:01.257649+00:00"
+    "verified_at": "2026-09-14T12:38:29.822629+00:00"
   },
-  "practical magic 2 zauberhafte schwestern|2026": {
+  "practical magic 2 zauberhafte schwestern engl": {
     "authoritative_titles": [
-      "Zauberhafte Schwestern 2",
+      "Practical Magic 2 – Zauberhafte Schwestern",
       "Practical Magic 2",
       "Practical Magic 2",
-      "Practical Magic 2 - Zauberhafte Schwestern",
       "프랙티컬 매직 2",
       "Magická posedlost 2",
       "Amour et magie 2",
       "Les ensorceleuses 2",
       "สองสาวพลังรัก เมจิกมนตราเสน่หา",
-      "Da Magia à Sedução 2"
+      "Da Magia à Sedução 2",
+      "Pratical Magic: The Book of Magic",
+      "Hechizo de amor: La magia continúa",
+      "Practical Magic: Magi i Familien"
+    ],
+    "imdb_id": "tt32588798",
+    "key": "practical magic 2 zauberhafte schwestern engl",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Practical Magic 2",
+    "matched_year": 2026,
+    "query_title": "Practical Magic 2 - Zauberhafte Schwestern (engl",
+    "reason": null,
+    "resolved_via": "practical magic 2 zauberhafte schwestern engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-14T12:38:29.822629+00:00"
+  },
+  "practical magic 2 zauberhafte schwestern engl|2026": {
+    "authoritative_titles": [
+      "Practical Magic 2 – Zauberhafte Schwestern",
+      "Practical Magic 2",
+      "Practical Magic 2",
+      "프랙티컬 매직 2",
+      "Magická posedlost 2",
+      "Amour et magie 2",
+      "Les ensorceleuses 2",
+      "สองสาวพลังรัก เมจิกมนตราเสน่หา",
+      "Da Magia à Sedução 2",
+      "Pratical Magic: The Book of Magic",
+      "Hechizo de amor: La magia continúa",
+      "Practical Magic: Magi i Familien"
+    ],
+    "imdb_id": "tt32588798",
+    "key": "practical magic 2 zauberhafte schwestern engl|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Practical Magic 2",
+    "matched_year": 2026,
+    "query_title": "Practical Magic 2 - Zauberhafte Schwestern (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-14T12:38:29.822629+00:00"
+  },
+  "practical magic 2 zauberhafte schwestern|2026": {
+    "authoritative_titles": [
+      "Practical Magic 2 – Zauberhafte Schwestern",
+      "Practical Magic 2",
+      "Practical Magic 2",
+      "프랙티컬 매직 2",
+      "Magická posedlost 2",
+      "Amour et magie 2",
+      "Les ensorceleuses 2",
+      "สองสาวพลังรัก เมจิกมนตราเสน่หา",
+      "Da Magia à Sedução 2",
+      "Pratical Magic: The Book of Magic",
+      "Hechizo de amor: La magia continúa",
+      "Practical Magic: Magi i Familien"
     ],
     "imdb_id": "tt32588798",
     "key": "practical magic 2 zauberhafte schwestern|2026",
@@ -2132,10 +2200,10 @@
     "matched_year": 2026,
     "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
     "reason": null,
-    "resolved_via": "practical magic 2",
+    "resolved_via": "practical magic 2 zauberhafte schwestern engl|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-03T11:09:01.257649+00:00"
+    "verified_at": "2026-09-14T12:38:29.822629+00:00"
   },
   "prinzessin mononoke": {
     "authoritative_titles": [
