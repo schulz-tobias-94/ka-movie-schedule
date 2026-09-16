@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-22",
-    "start": "2026-09-15"
+    "end": "2026-09-23",
+    "start": "2026-09-16"
   },
-  "retrieved_at": "2026-09-15T13:38:45.233295+02:00",
+  "retrieved_at": "2026-09-16T13:25:55.037108+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-15",
-      "dimension": null,
-      "director_names": [
-        "Sophie Beaulieu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Frühstück bei Audrey",
-      "movie_url": "https://www.schauburg.de/film/fruehstueck-bei-audrey-1",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 80,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
