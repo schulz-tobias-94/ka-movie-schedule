@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-23",
-    "start": "2026-09-16"
+    "end": "2026-09-24",
+    "start": "2026-09-17"
   },
-  "retrieved_at": "2026-09-16T13:26:22.757846+02:00",
+  "retrieved_at": "2026-09-17T13:35:39.736943+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13127",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-16",
-      "dimension": "2D",
-      "director_names": [
-        "Susanne Bier"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Practical Magic 2 - Zauberhafte Schwestern",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Practical Magic 2",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 130,
-      "screening_url": "https://www.universum-city.de/de/programm/1676017/45215091",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13354",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-16",
-      "dimension": "2D",
-      "director_names": [
-        "Ronan Corrigan"
-      ],
-      "format_label": "OmU",
-      "movie_title": "LifeHack",
-      "movie_url": "https://www.universum-city.de/de/programm/1513277",
-      "original_language": "English",
-      "original_title": "LifeHack",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 96,
-      "screening_url": "https://www.universum-city.de/de/programm/1513277/45422888",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13384",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-16",
-      "dimension": "2D",
-      "director_names": [
-        "Jacob Chase"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Insidious: Out of the Further",
-      "movie_url": "https://www.universum-city.de/de/programm/1512152",
-      "original_language": "English",
-      "original_title": "Insidious: Out of the Further",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 106,
-      "screening_url": "https://www.universum-city.de/de/programm/1512152/45422928",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 5",
@@ -93,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-17",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Susanne Bier"
+      ],
       "format_label": "OmU",
       "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
       "movie_url": null,
@@ -102,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 130,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1676017/45546744",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "17:00:00"
@@ -115,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-17",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -124,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 150,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1684845/45546786",
       "subtitle_language": "German",
       "technology": null,
       "time": "19:45:00"
@@ -137,7 +69,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-17",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -146,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1656026/44971798",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:00:00"
@@ -159,9 +93,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-18",
       "dimension": "2D",
-      "director_names": [
-        "Ronan Corrigan"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "LifeHack",
       "movie_url": "https://www.universum-city.de/de/programm/1513277",
@@ -183,7 +115,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-18",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -205,7 +139,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-18",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Susanne Bier"
+      ],
       "format_label": "OmU",
       "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
       "movie_url": null,
@@ -227,12 +163,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-18",
       "dimension": "2D",
-      "director_names": [
-        "Jacob Chase"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Insidious: Out of the Further",
-      "movie_url": "https://www.universum-city.de/de/programm/1512152",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Insidious: Out of the Further",
       "production_countries": [],
@@ -273,9 +207,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-19",
       "dimension": "2D",
-      "director_names": [
-        "Ronan Corrigan"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "LifeHack",
       "movie_url": "https://www.universum-city.de/de/programm/1513277",
@@ -300,7 +232,7 @@
       "director_names": [],
       "format_label": "OmU",
       "movie_title": "Die Odyssee",
-      "movie_url": "https://www.universum-city.de/de/programm/1518574",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "The Odyssey",
       "production_countries": [],
@@ -341,7 +273,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-19",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -363,7 +297,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-19",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -385,7 +321,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-19",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Susanne Bier"
+      ],
       "format_label": "OmU",
       "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
       "movie_url": null,
@@ -407,12 +345,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-19",
       "dimension": "2D",
-      "director_names": [
-        "Jacob Chase"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Insidious: Out of the Further",
-      "movie_url": "https://www.universum-city.de/de/programm/1512152",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Insidious: Out of the Further",
       "production_countries": [],
@@ -475,7 +411,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-20",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Susanne Bier"
+      ],
       "format_label": "OmU",
       "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
       "movie_url": null,
@@ -519,7 +457,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-21",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Susanne Bier"
+      ],
       "format_label": "OmU",
       "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
       "movie_url": null,
@@ -541,9 +481,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-21",
       "dimension": "2D",
-      "director_names": [
-        "Ronan Corrigan"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "LifeHack",
       "movie_url": "https://www.universum-city.de/de/programm/1513277",
@@ -565,7 +503,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-21",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -631,7 +571,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-22",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -653,7 +595,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-22",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Susanne Bier"
+      ],
       "format_label": "OmU",
       "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
       "movie_url": null,
@@ -675,7 +619,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-23",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Susanne Bier"
+      ],
       "format_label": "OmU",
       "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
       "movie_url": null,
@@ -697,9 +643,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-23",
       "dimension": "2D",
-      "director_names": [
-        "Ronan Corrigan"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "LifeHack",
       "movie_url": "https://www.universum-city.de/de/programm/1513277",
@@ -721,7 +665,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-23",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -756,6 +702,28 @@
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13165",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-09-24",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "Ov",
+      "movie_title": "COBAIN: MONTAGE OF HECK (engl.Ov)",
+      "movie_url": null,
+      "original_language": null,
+      "original_title": "$undefined",
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": null,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "20:00:00"
     }
   ],
   "success": true

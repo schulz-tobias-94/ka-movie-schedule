@@ -398,6 +398,20 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:37.708055+00:00"
   },
+  "cobain montage of heck engl": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "cobain montage of heck engl",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "COBAIN: MONTAGE OF HECK (engl",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 50,
+    "status": "search_fallback",
+    "verified_at": "2026-09-17T11:35:47.361902+00:00"
+  },
   "coyote vs acme": {
     "authoritative_titles": [
       "Coyote vs. ACME",
