@@ -478,6 +478,39 @@
     "imdb_id": "tt1756855",
     "key": "coyote vs acme",
     "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Coyote vs. Acme",
+    "matched_year": 2026,
+    "query_title": "Coyote vs. Acme",
+    "reason": null,
+    "resolved_via": "coyote vs acme engl omu auch in d b ox|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-19T10:52:41.758839+00:00"
+  },
+  "coyote vs acme engl omu auch in d b ox": {
+    "authoritative_titles": [
+      "Coyote vs. ACME",
+      "Coyote vs. Acme",
+      "Coyote vs. Acme",
+      "Ptica trkačica: Kojot protiv sustava",
+      "Pera Kojot protiv sistema",
+      "Kojot proti sistemu",
+      "Kojotas prieš Akmę",
+      "Koijots pret Acme",
+      "Coyote vs Acme",
+      "Kojot vrací úder",
+      "Койот против АКМЕ",
+      "Којотот против системот",
+      "Struś Pędziwiatr i zemsta Kojota",
+      "Койот проти Акме",
+      "كايوتي ضد أكمي",
+      "โคโยตี้ ปะทะ แอคมี่"
+    ],
+    "imdb_id": "tt1756855",
+    "key": "coyote vs acme engl omu auch in d b ox",
+    "matched_by": [
       "German localized title",
       "exact year",
       "runtime within five",
@@ -485,12 +518,48 @@
     ],
     "matched_title": "Coyote vs. Acme",
     "matched_year": 2026,
-    "query_title": "Coyote vs. Acme",
+    "query_title": "Coyote vs. Acme (engl.OmU) (Auch in D-B-OX)",
     "reason": null,
-    "resolved_via": "coyote vs acme|2026",
+    "resolved_via": "coyote vs acme engl omu auch in d b ox|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-10T11:13:24.465460+00:00"
+    "verified_at": "2026-09-19T10:52:41.758839+00:00"
+  },
+  "coyote vs acme engl omu auch in d b ox|2026": {
+    "authoritative_titles": [
+      "Coyote vs. ACME",
+      "Coyote vs. Acme",
+      "Coyote vs. Acme",
+      "Ptica trkačica: Kojot protiv sustava",
+      "Pera Kojot protiv sistema",
+      "Kojot proti sistemu",
+      "Kojotas prieš Akmę",
+      "Koijots pret Acme",
+      "Coyote vs Acme",
+      "Kojot vrací úder",
+      "Койот против АКМЕ",
+      "Којотот против системот",
+      "Struś Pędziwiatr i zemsta Kojota",
+      "Койот проти Акме",
+      "كايوتي ضد أكمي",
+      "โคโยตี้ ปะทะ แอคมี่"
+    ],
+    "imdb_id": "tt1756855",
+    "key": "coyote vs acme engl omu auch in d b ox|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Coyote vs. Acme",
+    "matched_year": 2026,
+    "query_title": "Coyote vs. Acme (engl.OmU) (Auch in D-B-OX)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-19T10:52:41.758839+00:00"
   },
   "coyote vs acme|2026": {
     "authoritative_titles": [
@@ -514,19 +583,16 @@
     "imdb_id": "tt1756855",
     "key": "coyote vs acme|2026",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Coyote vs. Acme",
     "matched_year": 2026,
     "query_title": "Coyote vs. Acme",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "coyote vs acme engl omu auch in d b ox|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-10T11:13:24.465460+00:00"
+    "verified_at": "2026-09-19T10:52:41.758839+00:00"
   },
   "daayra hindi engl": {
     "authoritative_titles": [
@@ -2678,6 +2744,56 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-08-03T12:37:38.054652+00:00"
+  },
+  "spa weekend": {
+    "authoritative_titles": [
+      "Spa Weekend",
+      "Spa Weekend",
+      "Spa Weekend",
+      "",
+      "Fin de semaine au spa"
+    ],
+    "imdb_id": "tt33305867",
+    "key": "spa weekend",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spa Weekend",
+    "matched_year": 2026,
+    "query_title": "Spa Weekend",
+    "reason": null,
+    "resolved_via": "spa weekend|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-19T10:52:41.836652+00:00"
+  },
+  "spa weekend|2026": {
+    "authoritative_titles": [
+      "Spa Weekend",
+      "Spa Weekend",
+      "Spa Weekend",
+      "",
+      "Fin de semaine au spa"
+    ],
+    "imdb_id": "tt33305867",
+    "key": "spa weekend|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spa Weekend",
+    "matched_year": 2026,
+    "query_title": "Spa Weekend",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-19T10:52:41.836652+00:00"
   },
   "spider man brand new day": {
     "authoritative_titles": [

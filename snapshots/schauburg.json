@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-25",
-    "start": "2026-09-18"
+    "end": "2026-09-26",
+    "start": "2026-09-19"
   },
-  "retrieved_at": "2026-09-18T13:08:09.207662+02:00",
+  "retrieved_at": "2026-09-19T12:52:14.776503+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-18",
-      "dimension": null,
-      "director_names": [
-        "Anthony Maras"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Pressure",
-      "movie_url": "https://www.schauburg.de/film/pressure",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 100,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
