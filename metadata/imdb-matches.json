@@ -87,6 +87,67 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.102537+00:00"
   },
+  "avengers endgame": {
+    "authoritative_titles": [
+      "Avengers: Endgame",
+      "Avengers: Endgame",
+      "Avengers: Endgame",
+      "",
+      "Avengers: Endgame 3D",
+      "Marvel Studios' Avengers: Endgame",
+      "Vengadores 4",
+      "复仇者联盟4：终局之战",
+      "Avengers 4: Hồi Kết",
+      "어벤져스 4",
+      "Hakmarrësit: Loja e Fundit",
+      "Ha'Nokmim: Sof Ha'Mis'hak",
+      "アベンジャーズ　エンドゲーム",
+      "Keršytojai: Pabaiga",
+      "اوینجرز : اینڈگیم",
+      "Мсціўцы: Фінал",
+      "Одмаздници: Крај на игрите",
+      "Qisasçılar: Final",
+      "Վրիժառուները: Վերջնախաղ",
+      "المنتقمون: نهاية اللعبة",
+      "انتقام‌جویان: پایان بازی",
+      "Кек алушылар: Финал",
+      "Ar alýanlar: soňy Oýun",
+      "एभेन्जर्स: इन्डगेम",
+      "অ্যাভেঞ্জার্স: এন্ডগেম",
+      "அவெஞ்சர்ஸ்: எண்ட்கேம்",
+      "అవెంజర్స్: ఎండ్ గేమ్",
+      "შურისმაძიებლები:  ენდშპილი",
+      "Avengers 4",
+      "Avengers: Infinity War Part II",
+      "אנדגיים",
+      "المنتقمون نهاية اللعبة",
+      "Avengers Endgame: Encore",
+      "Vingadores: Ultimato Encore",
+      "อเวนเจอร์ส เผด็จศึก",
+      "復仇者聯盟4：終局之戰 加碼重映",
+      "הנוקמים: סוף המשחק הדרן",
+      "Vingadores: Endgame Encore",
+      "Avengers Endgame: Extra",
+      "Marvel Studios' Avengers Endgame: Encore",
+      "Avengers Endgame: Bonus",
+      "Vengadores Endgame: Encore",
+      "Osvetnici: Završnica i više"
+    ],
+    "imdb_id": "tt4154796",
+    "key": "avengers endgame",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Avengers: Endgame",
+    "matched_year": 2019,
+    "query_title": "Avengers: Endgame",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-09-20T11:16:59.581702+00:00"
+  },
   "backrooms": {
     "authoritative_titles": [
       "Backrooms",
@@ -2679,6 +2740,32 @@
     "status": "confident",
     "verified_at": "2026-08-17T07:14:08.457618+00:00"
   },
+  "runner": {
+    "authoritative_titles": [
+      "Runner",
+      "Runner",
+      "Runner",
+      "",
+      "Entrega Al Límite",
+      "Ātrā piegāde"
+    ],
+    "imdb_id": "tt31349844",
+    "key": "runner",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Runner",
+    "matched_year": 2026,
+    "query_title": "Runner",
+    "reason": null,
+    "resolved_via": "runner|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-20T11:17:00.463298+00:00"
+  },
   "runner engl": {
     "authoritative_titles": [
       "Runner",
@@ -2730,6 +2817,32 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-11T11:14:41.993186+00:00"
+  },
+  "runner|2026": {
+    "authoritative_titles": [
+      "Runner",
+      "Runner",
+      "Runner",
+      "",
+      "Entrega Al Límite",
+      "Ātrā piegāde"
+    ],
+    "imdb_id": "tt31349844",
+    "key": "runner|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Runner",
+    "matched_year": 2026,
+    "query_title": "Runner",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-20T11:17:00.463298+00:00"
   },
   "sneak": {
     "authoritative_titles": [],
@@ -3561,7 +3674,7 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": "die odyssee|2026",
+    "resolved_via": "die odyssee",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -3683,6 +3796,58 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-09-06T10:51:07.071934+00:00"
+  },
+  "the vvaan hindi engl": {
+    "authoritative_titles": [
+      "The Vvaan",
+      "The Vvaan",
+      "द वन",
+      "Vvan: Force Of The Forrest",
+      "The Vvaan: Force of the Forrest",
+      "Vvan",
+      "Vvan - Force of the Forrest"
+    ],
+    "imdb_id": "tt34498564",
+    "key": "the vvaan hindi engl",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "The Vvaan",
+    "matched_year": 2026,
+    "query_title": "The Vvaan (Hindi engl",
+    "reason": null,
+    "resolved_via": "the vvaan hindi engl|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-09-20T11:16:58.976292+00:00"
+  },
+  "the vvaan hindi engl|2026": {
+    "authoritative_titles": [
+      "The Vvaan",
+      "The Vvaan",
+      "द वन",
+      "Vvan: Force Of The Forrest",
+      "The Vvaan: Force of the Forrest",
+      "Vvan",
+      "Vvan - Force of the Forrest"
+    ],
+    "imdb_id": "tt34498564",
+    "key": "the vvaan hindi engl|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "The Vvaan",
+    "matched_year": 2026,
+    "query_title": "The Vvaan (Hindi engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-09-20T11:16:58.976292+00:00"
   },
   "toxic": {
     "authoritative_titles": [

@@ -7,34 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-26",
-    "start": "2026-09-19"
+    "end": "2026-09-27",
+    "start": "2026-09-20"
   },
-  "retrieved_at": "2026-09-19T12:52:14.776503+02:00",
+  "retrieved_at": "2026-09-20T13:16:30.516887+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-19",
-      "dimension": null,
-      "director_names": [],
-      "format_label": "OmU",
-      "movie_title": "Met Opera 2026/27: GEBURTSTAGSGALA - 20 Jahre Met live im Kino",
-      "movie_url": "https://www.schauburg.de/film/met-opera-2026/27-geburtstagsgala-20-jahre-met-live-im-kino",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 150,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
