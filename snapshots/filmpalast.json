@@ -7,34 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-27",
-    "start": "2026-09-20"
+    "end": "2026-09-28",
+    "start": "2026-09-21"
   },
-  "retrieved_at": "2026-09-20T13:16:50.752163+02:00",
+  "retrieved_at": "2026-09-21T14:42:09.223477+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Kino 6",
-      "booking_url": null,
-      "cinema_id": "filmpalast",
-      "cinema_name": "Filmpalast am ZKM",
-      "date": "2026-09-20",
-      "dimension": null,
-      "director_names": [],
-      "format_label": "englisch · OV",
-      "movie_title": "Spider-Man: Brand New Day",
-      "movie_url": "https://filmpalast.net/programmuebersicht/movie/spider-man-brand-new-day-ov",
-      "original_language": "English",
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "IMAX",
