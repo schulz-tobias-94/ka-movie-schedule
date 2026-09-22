@@ -7,106 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-09-28",
-    "start": "2026-09-21"
+    "end": "2026-09-29",
+    "start": "2026-09-22"
   },
-  "retrieved_at": "2026-09-21T14:42:10.461119+02:00",
+  "retrieved_at": "2026-09-22T13:31:02.078926+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 5",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13580",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-21",
-      "dimension": "2D",
-      "director_names": [
-        "Susanne Bier"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Practical Magic 2 - Zauberhafte Schwestern (engl.OmU) Auch in D-BOX) 2.W",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Practical Magic 2",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 130,
-      "screening_url": "https://www.universum-city.de/de/programm/1676017/45546740",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "17:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13560",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-21",
-      "dimension": "2D",
-      "director_names": [
-        "Ronan Corrigan"
-      ],
-      "format_label": "OmU",
-      "movie_title": "LifeHack",
-      "movie_url": "https://www.universum-city.de/de/programm/1513277",
-      "original_language": "English",
-      "original_title": "LifeHack",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 96,
-      "screening_url": "https://www.universum-city.de/de/programm/1513277/45546768",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13609",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-21",
-      "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Spider-Man: Brand New Day",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 150,
-      "screening_url": "https://www.universum-city.de/de/programm/1684845/45546780",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13143",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-21",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OV",
-      "movie_title": "OV Sneak Preview",
-      "movie_url": null,
-      "original_language": null,
-      "original_title": "$undefined",
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 120,
-      "screening_url": "https://www.universum-city.de/de/programm/1941729/45529975",
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 1",
@@ -115,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-22",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Scott Waugh"
+      ],
       "format_label": "OmU",
       "movie_title": "Runner (engl.OmU)",
       "movie_url": null,
@@ -124,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 97,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1638658/45546737",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "17:45:00"
@@ -137,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-22",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -146,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1656026/45434119",
       "subtitle_language": "German",
       "technology": null,
       "time": "19:45:00"
@@ -170,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 130,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1676017/45546752",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:00:00"
@@ -207,9 +117,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-23",
       "dimension": "2D",
-      "director_names": [
-        "Ronan Corrigan"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "LifeHack",
       "movie_url": "https://www.universum-city.de/de/programm/1513277",
@@ -231,9 +139,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-23",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -255,7 +161,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-23",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Scott Waugh"
+      ],
       "format_label": "OmU",
       "movie_title": "Runner (engl.OmU)",
       "movie_url": null,
@@ -299,9 +207,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-25",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -433,7 +339,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -697,7 +605,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-28",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Scott Waugh"
+      ],
       "format_label": "OmU",
       "movie_title": "Runner (engl.OmU)",
       "movie_url": null,
@@ -710,6 +620,30 @@
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 3",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13694",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-09-29",
+      "dimension": "2D",
+      "director_names": [
+        "Dave Green"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Coyote vs. Acme",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Coyote vs. Acme",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 101,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:15:00"
     }
   ],
   "success": true
