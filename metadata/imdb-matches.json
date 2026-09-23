@@ -1147,7 +1147,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "the odyssey",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -1976,6 +1976,29 @@
     "status": "confident",
     "verified_at": "2026-09-04T11:13:01.560480+00:00"
   },
+  "linkin park unshatter": {
+    "authoritative_titles": [
+      "LINKIN PARK: UNSHATTER",
+      "LINKIN PARK: UNSHATTER",
+      "LINKIN PARK: UNSHATTER",
+      "",
+      "UNSHATTER"
+    ],
+    "imdb_id": "tt43442522",
+    "key": "linkin park unshatter",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "LINKIN PARK: UNSHATTER",
+    "matched_year": 2026,
+    "query_title": "Linkin Park: Unshatter",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-09-23T11:29:01.209058+00:00"
+  },
   "lovebox": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -2065,6 +2088,20 @@
     "score": 85,
     "status": "confident",
     "verified_at": "2026-08-27T17:36:32.918428+00:00"
+  },
+  "maspalomas": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "maspalomas",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Maspalomas",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 33,
+    "status": "search_fallback",
+    "verified_at": "2026-09-23T11:29:00.869239+00:00"
   },
   "met opera 2026 27 geburtstagsgala 20 jahre met live im kino": {
     "authoritative_titles": [],
@@ -3809,7 +3846,7 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "die odyssee",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -4337,6 +4374,20 @@
     "score": 50,
     "status": "search_fallback",
     "verified_at": "2026-08-06T08:51:48.944363+00:00"
+  },
+  "verity": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "verity",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Verity",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-09-23T11:29:01.099060+00:00"
   },
   "vishwanath sons": {
     "authoritative_titles": [
