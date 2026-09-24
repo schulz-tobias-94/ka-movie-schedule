@@ -2606,7 +2606,7 @@
     "matched_year": 2026,
     "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
     "reason": null,
-    "resolved_via": "practical magic 2 zauberhafte schwestern engl|2026",
+    "resolved_via": "practical magic 2 zauberhafte schwestern|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-14T12:38:29.822629+00:00"
@@ -2699,7 +2699,7 @@
     "matched_year": 2026,
     "query_title": "Practical Magic 2 - Zauberhafte Schwestern",
     "reason": null,
-    "resolved_via": "practical magic 2 zauberhafte schwestern engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-14T12:38:29.822629+00:00"
@@ -3054,6 +3054,56 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-19T10:52:41.836652+00:00"
+  },
+  "spa weekend engl": {
+    "authoritative_titles": [
+      "Spa Weekend",
+      "Spa Weekend",
+      "Spa Weekend",
+      "",
+      "Fin de semaine au spa"
+    ],
+    "imdb_id": "tt33305867",
+    "key": "spa weekend engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spa Weekend",
+    "matched_year": 2026,
+    "query_title": "Spa Weekend (engl",
+    "reason": null,
+    "resolved_via": "spa weekend engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-24T11:39:52.635030+00:00"
+  },
+  "spa weekend engl|2026": {
+    "authoritative_titles": [
+      "Spa Weekend",
+      "Spa Weekend",
+      "Spa Weekend",
+      "",
+      "Fin de semaine au spa"
+    ],
+    "imdb_id": "tt33305867",
+    "key": "spa weekend engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Spa Weekend",
+    "matched_year": 2026,
+    "query_title": "Spa Weekend (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-24T11:39:52.635030+00:00"
   },
   "spa weekend|2026": {
     "authoritative_titles": [
@@ -4388,6 +4438,58 @@
     "score": 56,
     "status": "search_fallback",
     "verified_at": "2026-09-23T11:29:01.099060+00:00"
+  },
+  "verity dunkle geheimnisse engl": {
+    "authoritative_titles": [
+      "Verity - Dunkle Geheimnisse",
+      "Verity",
+      "Verity",
+      "Pravda, nebo lež",
+      "Verity: La sombra de un engaño",
+      "เงื่อนวิปลาส"
+    ],
+    "imdb_id": "tt32261958",
+    "key": "verity dunkle geheimnisse engl",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Verity",
+    "matched_year": 2026,
+    "query_title": "Verity - Dunkle Geheimnisse (engl",
+    "reason": null,
+    "resolved_via": "verity dunkle geheimnisse engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-24T11:39:53.066057+00:00"
+  },
+  "verity dunkle geheimnisse engl|2026": {
+    "authoritative_titles": [
+      "Verity - Dunkle Geheimnisse",
+      "Verity",
+      "Verity",
+      "Pravda, nebo lež",
+      "Verity: La sombra de un engaño",
+      "เงื่อนวิปลาส"
+    ],
+    "imdb_id": "tt32261958",
+    "key": "verity dunkle geheimnisse engl|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Verity",
+    "matched_year": 2026,
+    "query_title": "Verity - Dunkle Geheimnisse (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-24T11:39:53.066057+00:00"
   },
   "vishwanath sons": {
     "authoritative_titles": [
