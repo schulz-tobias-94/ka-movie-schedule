@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-01",
-    "start": "2026-09-24"
+    "end": "2026-10-02",
+    "start": "2026-09-25"
   },
-  "retrieved_at": "2026-09-24T13:39:10.679321+02:00",
+  "retrieved_at": "2026-09-25T13:45:04.837477+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-24",
-      "dimension": null,
-      "director_names": [
-        "Sophie Beaulieu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Frühstück bei Audrey",
-      "movie_url": "https://www.schauburg.de/film/fruehstueck-bei-audrey-1",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 80,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-24",
-      "dimension": null,
-      "director_names": [
-        "Anthony Maras"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Pressure",
-      "movie_url": "https://www.schauburg.de/film/pressure",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 100,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-24",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OV",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -516,6 +444,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-03",
+      "dimension": null,
+      "director_names": [
+        "Phelim McDermott"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Met Opera 2026/27: Wolfgang Amadeus Mozart COSÌ FAN TUTTE",
+      "movie_url": "https://www.schauburg.de/film/met-opera-2026/27-wolfgang-amadeus-mozart-cosi-fan-tutte",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 240,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "19:00:00"
     }
   ],
   "success": true

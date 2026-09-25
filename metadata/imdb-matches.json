@@ -1337,6 +1337,60 @@
     "status": "confident",
     "verified_at": "2026-09-08T11:12:22.757431+00:00"
   },
+  "digger engl": {
+    "authoritative_titles": [
+      "Digger",
+      "Digger",
+      "Digger",
+      "",
+      "डिगर",
+      "Judy",
+      "ดิกเกอร์"
+    ],
+    "imdb_id": "tt31450459",
+    "key": "digger engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Digger",
+    "matched_year": 2026,
+    "query_title": "Digger (engl",
+    "reason": null,
+    "resolved_via": "digger engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-25T11:45:52.106525+00:00"
+  },
+  "digger engl|2026": {
+    "authoritative_titles": [
+      "Digger",
+      "Digger",
+      "Digger",
+      "",
+      "डिगर",
+      "Judy",
+      "ดิกเกอร์"
+    ],
+    "imdb_id": "tt31450459",
+    "key": "digger engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Digger",
+    "matched_year": 2026,
+    "query_title": "Digger (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-25T11:45:52.106525+00:00"
+  },
   "ein nobody gegen putin": {
     "authoritative_titles": [],
     "imdb_id": null,

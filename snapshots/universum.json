@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-01",
-    "start": "2026-09-24"
+    "end": "2026-10-02",
+    "start": "2026-09-25"
   },
-  "retrieved_at": "2026-09-24T13:39:49.211112+02:00",
+  "retrieved_at": "2026-09-25T13:45:47.386416+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13165",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-09-24",
-      "dimension": "2D",
-      "director_names": [
-        "Brett Morgen"
-      ],
-      "format_label": "Ov",
-      "movie_title": "COBAIN: MONTAGE OF HECK (engl.Ov)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Cobain: Montage of Heck",
-      "production_countries": [],
-      "release_year": 2015,
-      "runtime_minutes": 132,
-      "screening_url": "https://www.universum-city.de/de/programm/8757/45313611",
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 2",
@@ -45,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -54,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 150,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1684845/45647340",
       "subtitle_language": "German",
       "technology": null,
       "time": "15:00:00"
@@ -67,16 +45,18 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Lan Hongchun"
+      ],
       "format_label": "OmU",
       "movie_title": "Dear You",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1875649",
       "original_language": "Chinese",
       "original_title": "给阿嬷的情书",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 119,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1875649/45641377",
       "subtitle_language": "English",
       "technology": null,
       "time": "16:45:00"
@@ -89,7 +69,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Srikanth Odela"
+      ],
       "format_label": "OmU",
       "movie_title": "The Paradise(Telugu mit englischen Untertiteln)",
       "movie_url": null,
@@ -97,8 +79,8 @@
       "original_title": "ది ప్యారడైస్",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": 180,
-      "screening_url": null,
+      "runtime_minutes": 174,
+      "screening_url": "https://www.universum-city.de/de/programm/1529184/45434084",
       "subtitle_language": "English",
       "technology": null,
       "time": "19:30:00"
@@ -111,7 +93,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme (engl.OmU) (Auch in D-B-OX)",
       "movie_url": null,
@@ -120,7 +104,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1656026/45647298",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:15:00"
@@ -133,7 +117,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Ayer"
+      ],
       "format_label": "OmU",
       "movie_title": "Eiserne Wildnis - Heart Of The Beast (engl.OmU)",
       "movie_url": null,
@@ -142,7 +128,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1626893/45434104",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:15:00"
@@ -155,7 +141,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Ayer"
+      ],
       "format_label": "OmU",
       "movie_title": "Eiserne Wildnis - Heart Of The Beast (engl.OmU)",
       "movie_url": null,
@@ -221,10 +209,12 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Lan Hongchun"
+      ],
       "format_label": "OmU",
       "movie_title": "Dear You",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1875649",
       "original_language": "Chinese",
       "original_title": "给阿嬷的情书",
       "production_countries": [],
@@ -243,7 +233,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Srikanth Odela"
+      ],
       "format_label": "OmU",
       "movie_title": "The Paradise(Telugu mit englischen Untertiteln)",
       "movie_url": null,
@@ -251,7 +243,7 @@
       "original_title": "ది ప్యారడైస్",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": 180,
+      "runtime_minutes": 174,
       "screening_url": null,
       "subtitle_language": "English",
       "technology": null,
@@ -309,7 +301,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme (engl.OmU) (Auch in D-B-OX)",
       "movie_url": null,
@@ -331,7 +325,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Ayer"
+      ],
       "format_label": "OmU",
       "movie_title": "Eiserne Wildnis - Heart Of The Beast (engl.OmU)",
       "movie_url": null,
@@ -356,7 +352,7 @@
       "director_names": [],
       "format_label": "OmU",
       "movie_title": "Runner",
-      "movie_url": "https://www.universum-city.de/de/programm/1638658",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Runner",
       "production_countries": [],
@@ -485,7 +481,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-09-30",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Destin Daniel Cretton"
+      ],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -542,6 +540,28 @@
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13744",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-02",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Digger (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Digger",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 129,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:00:00"
     }
   ],
   "success": true
