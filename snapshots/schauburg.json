@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-02",
-    "start": "2026-09-25"
+    "end": "2026-10-03",
+    "start": "2026-09-26"
   },
-  "retrieved_at": "2026-09-25T13:45:04.837477+02:00",
+  "retrieved_at": "2026-09-26T13:18:11.244350+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-25",
-      "dimension": null,
-      "director_names": [
-        "Christopher Nolan"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
-      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 180,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-25",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -468,6 +420,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "19:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-04",
+      "dimension": null,
+      "director_names": [
+        "Jochen Isensee"
+      ],
+      "format_label": "OmU",
+      "movie_title": "A Doctor's Mind",
+      "movie_url": "https://www.schauburg.de/film/a-doctors-mind",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 99,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "21:00:00"
     }
   ],
   "success": true

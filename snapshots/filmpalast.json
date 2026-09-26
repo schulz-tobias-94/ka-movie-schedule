@@ -7,10 +7,10 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-02",
-    "start": "2026-09-25"
+    "end": "2026-10-03",
+    "start": "2026-09-26"
   },
-  "retrieved_at": "2026-09-25T13:45:44.216439+02:00",
+  "retrieved_at": "2026-09-26T13:18:46.995082+02:00",
   "schema_version": 4,
   "screenings": [
     {
@@ -166,6 +166,28 @@
       "subtitle_language": null,
       "technology": null,
       "time": "20:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Kino 7",
+      "booking_url": null,
+      "cinema_id": "filmpalast",
+      "cinema_name": "Filmpalast am ZKM",
+      "date": "2026-10-03",
+      "dimension": null,
+      "director_names": [],
+      "format_label": "OmU · englisch mit Untertiteln",
+      "movie_title": "Linkin Park: Unshatter",
+      "movie_url": "https://filmpalast.net/programmuebersicht/movie/linkin-park-unshatter",
+      "original_language": "English",
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": null,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "23:15:00"
     }
   ],
   "success": true
