@@ -1,4 +1,18 @@
 {
+  "a doctor s mind": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "a doctor s mind",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "A Doctor's Mind",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-09-27T11:58:03.395024+00:00"
+  },
   "a sad and beautiful world": {
     "authoritative_titles": [
       "A Sad and Beautiful World",
@@ -1391,6 +1405,34 @@
     "status": "confident",
     "verified_at": "2026-09-25T11:45:52.106525+00:00"
   },
+  "drishyam the conclusion hindi": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "drishyam the conclusion hindi",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Drishyam - The Conclusion hindi",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-09-27T11:58:02.799978+00:00"
+  },
+  "drishyam the conclusion with engl subtitles": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "drishyam the conclusion with engl subtitles",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Drishyam: The Conclusion (with engl.Subtitles)",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 50,
+    "status": "search_fallback",
+    "verified_at": "2026-09-27T11:58:01.355228+00:00"
+  },
   "ein nobody gegen putin": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -1404,6 +1446,33 @@
     "score": 33,
     "status": "search_fallback",
     "verified_at": "2026-09-22T11:31:08.649945+00:00"
+  },
+  "eiserne wildnis heart of the beast": {
+    "authoritative_titles": [
+      "Eiserne Wildnis - Heart of the Beast",
+      "Heart of the Beast",
+      "Heart of the Beast",
+      "V srdci divočiny",
+      "หัวใจผจญภัย",
+      "W sercu dziczy",
+      "Skarbās zemes sirdī",
+      "El corazon de la bestia",
+      "Heart of the Beast - Heróis Inseparáveis",
+      "Au cœur de la bête"
+    ],
+    "imdb_id": "tt7526136",
+    "key": "eiserne wildnis heart of the beast",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Heart of the Beast",
+    "matched_year": 2026,
+    "query_title": "Eiserne Wildnis - Heart Of The Beast",
+    "reason": null,
+    "resolved_via": "eiserne wildnis heart of the beast engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-18T11:08:40.245105+00:00"
   },
   "eiserne wildnis heart of the beast engl": {
     "authoritative_titles": [
@@ -1461,6 +1530,33 @@
     "query_title": "Eiserne Wildnis - Heart Of The Beast (engl",
     "reason": null,
     "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-18T11:08:40.245105+00:00"
+  },
+  "eiserne wildnis heart of the beast|2026": {
+    "authoritative_titles": [
+      "Eiserne Wildnis - Heart of the Beast",
+      "Heart of the Beast",
+      "Heart of the Beast",
+      "V srdci divočiny",
+      "หัวใจผจญภัย",
+      "W sercu dziczy",
+      "Skarbās zemes sirdī",
+      "El corazon de la bestia",
+      "Heart of the Beast - Heróis Inseparáveis",
+      "Au cœur de la bête"
+    ],
+    "imdb_id": "tt7526136",
+    "key": "eiserne wildnis heart of the beast|2026",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Heart of the Beast",
+    "matched_year": 2026,
+    "query_title": "Eiserne Wildnis - Heart Of The Beast",
+    "reason": null,
+    "resolved_via": "eiserne wildnis heart of the beast engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-18T11:08:40.245105+00:00"
@@ -1614,7 +1710,7 @@
     "matched_year": 2026,
     "query_title": "Hanuman Ansh",
     "reason": null,
-    "resolved_via": "hanuman ansh|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-15T11:39:22.424930+00:00"
@@ -2623,6 +2719,20 @@
     "status": "search_fallback",
     "verified_at": "2026-09-22T11:31:10.159493+00:00"
   },
+  "porattam|2026": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "porattam|2026",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Porattam",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 81,
+    "status": "search_fallback",
+    "verified_at": "2026-09-27T11:58:00.126892+00:00"
+  },
   "practical magic 2": {
     "authoritative_titles": [
       "Zauberhafte Schwestern 2",
@@ -3109,19 +3219,16 @@
     "imdb_id": "tt33305867",
     "key": "spa weekend",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Spa Weekend",
     "matched_year": 2026,
     "query_title": "Spa Weekend",
     "reason": null,
-    "resolved_via": "spa weekend|2026",
+    "resolved_via": "spa weekend engl|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-19T10:52:41.836652+00:00"
+    "verified_at": "2026-09-24T11:39:52.635030+00:00"
   },
   "spa weekend engl": {
     "authoritative_titles": [
@@ -3184,19 +3291,16 @@
     "imdb_id": "tt33305867",
     "key": "spa weekend|2026",
     "matched_by": [
-      "German localized title",
-      "exact year",
-      "runtime within five",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "Spa Weekend",
     "matched_year": 2026,
     "query_title": "Spa Weekend",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "spa weekend engl|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-09-19T10:52:41.836652+00:00"
+    "verified_at": "2026-09-24T11:39:52.635030+00:00"
   },
   "spider man brand new day": {
     "authoritative_titles": [

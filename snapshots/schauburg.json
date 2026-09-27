@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-03",
-    "start": "2026-09-26"
+    "end": "2026-10-04",
+    "start": "2026-09-27"
   },
-  "retrieved_at": "2026-09-26T13:18:11.244350+02:00",
+  "retrieved_at": "2026-09-27T13:57:18.397058+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-26",
-      "dimension": null,
-      "director_names": [
-        "Alexander Kleider und Daniela Michel"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Lovebox",
-      "movie_url": "https://www.schauburg.de/film/lovebox",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 96,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-26",
-      "dimension": null,
-      "director_names": [
-        "David Borenstein und Pawel Talankin"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Ein Nobody gegen Putin",
-      "movie_url": "https://www.schauburg.de/film/ein-nobody-gegen-putin",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 90,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-26",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OV",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -444,6 +372,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-05",
+      "dimension": null,
+      "director_names": [
+        "Jochen Isensee"
+      ],
+      "format_label": "OmU",
+      "movie_title": "A Doctor's Mind",
+      "movie_url": "https://www.schauburg.de/film/a-doctors-mind",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 99,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "16:30:00"
     }
   ],
   "success": true
