@@ -573,7 +573,7 @@
     "matched_year": 2026,
     "query_title": "Coyote vs. Acme",
     "reason": null,
-    "resolved_via": "coyote vs acme engl omu auch in d b ox|2026",
+    "resolved_via": "coyote vs acme|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-19T10:52:41.758839+00:00"
@@ -678,7 +678,7 @@
     "matched_year": 2026,
     "query_title": "Coyote vs. Acme",
     "reason": null,
-    "resolved_via": "coyote vs acme engl omu auch in d b ox|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-19T10:52:41.758839+00:00"
@@ -1351,6 +1351,20 @@
     "status": "confident",
     "verified_at": "2026-09-08T11:12:22.757431+00:00"
   },
+  "digger": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "digger",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Digger",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 33,
+    "status": "search_fallback",
+    "verified_at": "2026-09-28T13:46:48.670088+00:00"
+  },
   "digger engl": {
     "authoritative_titles": [
       "Digger",
@@ -1419,6 +1433,30 @@
     "status": "search_fallback",
     "verified_at": "2026-09-27T11:58:02.799978+00:00"
   },
+  "drishyam the conclusion hindi with engl subtitles": {
+    "authoritative_titles": [
+      "Drishyam: The Conclusion",
+      "Drishyam: The Conclusion",
+      "दृश्यम्: द कन्क्लूजन",
+      "Drishyam - The Conclusion",
+      "Nhân Danh Công Lý 3"
+    ],
+    "imdb_id": "tt27050858",
+    "key": "drishyam the conclusion hindi with engl subtitles",
+    "matched_by": [
+      "original title",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Drishyam: The Conclusion",
+    "matched_year": 2026,
+    "query_title": "Drishyam: The Conclusion (Hindi with engl.Subtitles)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 69,
+    "status": "confident",
+    "verified_at": "2026-09-28T13:46:49.047875+00:00"
+  },
   "drishyam the conclusion with engl subtitles": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -1469,7 +1507,7 @@
     "matched_year": 2026,
     "query_title": "Eiserne Wildnis - Heart Of The Beast",
     "reason": null,
-    "resolved_via": "eiserne wildnis heart of the beast engl|2026",
+    "resolved_via": "eiserne wildnis heart of the beast|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-18T11:08:40.245105+00:00"
@@ -1556,7 +1594,7 @@
     "matched_year": 2026,
     "query_title": "Eiserne Wildnis - Heart Of The Beast",
     "reason": null,
-    "resolved_via": "eiserne wildnis heart of the beast engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-18T11:08:40.245105+00:00"
