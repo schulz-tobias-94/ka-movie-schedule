@@ -1445,7 +1445,31 @@
     "key": "drishyam the conclusion hindi with engl subtitles",
     "matched_by": [
       "original title",
-      "runtime within five",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Drishyam: The Conclusion",
+    "matched_year": 2026,
+    "query_title": "Drishyam: The Conclusion (Hindi with engl.Subtitles)",
+    "reason": null,
+    "resolved_via": "drishyam the conclusion hindi with engl subtitles|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-09-29T12:45:59.551106+00:00"
+  },
+  "drishyam the conclusion hindi with engl subtitles|2026": {
+    "authoritative_titles": [
+      "Drishyam: The Conclusion",
+      "Drishyam: The Conclusion",
+      "दृश्यम्: द कन्क्लूजन",
+      "Drishyam - The Conclusion",
+      "Nhân Danh Công Lý 3"
+    ],
+    "imdb_id": "tt27050858",
+    "key": "drishyam the conclusion hindi with engl subtitles|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
       "original language"
     ],
     "matched_title": "Drishyam: The Conclusion",
@@ -1453,9 +1477,9 @@
     "query_title": "Drishyam: The Conclusion (Hindi with engl.Subtitles)",
     "reason": null,
     "resolved_via": null,
-    "score": 69,
+    "score": 81,
     "status": "confident",
-    "verified_at": "2026-09-28T13:46:49.047875+00:00"
+    "verified_at": "2026-09-29T12:45:59.551106+00:00"
   },
   "drishyam the conclusion with engl subtitles": {
     "authoritative_titles": [],
@@ -3127,6 +3151,20 @@
     "score": 81,
     "status": "confident",
     "verified_at": "2026-08-17T07:14:08.457618+00:00"
+  },
+  "rodychi verwandte": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "rodychi verwandte",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Rodychi - Verwandte",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-09-29T12:45:58.696072+00:00"
   },
   "runner": {
     "authoritative_titles": [
