@@ -7,110 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-06",
-    "start": "2026-09-29"
+    "end": "2026-10-07",
+    "start": "2026-09-30"
   },
-  "retrieved_at": "2026-09-29T14:45:16.781454+02:00",
+  "retrieved_at": "2026-09-30T14:28:15.082758+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-29",
-      "dimension": null,
-      "director_names": [
-        "Sophie Deraspe"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Hirten",
-      "movie_url": "https://www.schauburg.de/film/hirten",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 113,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-29",
-      "dimension": null,
-      "director_names": [
-        "Sonja Rohleder",
-        "Carsten Knoop",
-        "Dorit Kiesewetter"
-      ],
-      "format_label": "OmU",
-      "movie_title": "POP & PSY",
-      "movie_url": "https://www.schauburg.de/film/pop-psy",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 81,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-29",
-      "dimension": null,
-      "director_names": [
-        "Valeska Grisebach"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Das geträumte Abenteuer",
-      "movie_url": "https://www.schauburg.de/film/das-getraeumte-abenteuer",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 163,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-29",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,

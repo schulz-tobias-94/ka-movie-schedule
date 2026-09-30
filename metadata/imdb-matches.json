@@ -3066,6 +3066,40 @@
     "status": "confident",
     "verified_at": "2026-08-06T08:51:49.658218+00:00"
   },
+  "queen budapest": {
+    "authoritative_titles": [
+      "Queen: Hungarian Rhapsody - Live in Budapest '86",
+      "Queen: Budapest",
+      "Queen: Budapest",
+      "Varázslat - Queen Budapesten",
+      "Queen: Hungarian Rhapsody - Live in Budapest",
+      "Куин в Будапеща",
+      "Hungarian Rhapsody: Queen Live in Budapest",
+      "Queen Budapestissa 1986",
+      "Queen i Budapest 1986",
+      "Hungarian Rapsody: Queen Live in Budapest",
+      "Queen - Hungarian Rhapsody",
+      "Hungarian Rhapsody: Queen ao Vivo em Budapest '86",
+      "Queen Live in Budapest",
+      "Queen: Hungarian Rhapsody - Live in Budapest '86",
+      "Волшебство Queen в Будапеште",
+      "ハンガリアン・ラプソディ～クイーン・ライヴ・イン・ブダペスト'86",
+      "Волшебство. \"Куин\" в Будапеште"
+    ],
+    "imdb_id": "tt0093427",
+    "key": "queen budapest",
+    "matched_by": [
+      "English title"
+    ],
+    "matched_title": "Queen: Budapest",
+    "matched_year": 2012,
+    "query_title": "Queen Budapest",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-09-30T12:28:56.745809+00:00"
+  },
   "red rue express": {
     "authoritative_titles": [
       "Red Rue Express",
