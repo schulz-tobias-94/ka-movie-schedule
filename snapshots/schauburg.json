@@ -7,82 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-07",
-    "start": "2026-09-30"
+    "end": "2026-10-08",
+    "start": "2026-10-01"
   },
-  "retrieved_at": "2026-09-30T14:28:15.082758+02:00",
+  "retrieved_at": "2026-10-01T15:05:29.448993+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-30",
-      "dimension": null,
-      "director_names": [
-        "Moriarti"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Maspalomas",
-      "movie_url": "https://www.schauburg.de/film/maspalomas-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 115,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-30",
-      "dimension": null,
-      "director_names": [],
-      "format_label": "OV",
-      "movie_title": "OV-Sneak",
-      "movie_url": "https://www.schauburg.de/film/ov-sneak-1",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 100,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-09-30",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -656,6 +586,54 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-09",
+      "dimension": null,
+      "director_names": [
+        "Ron Fricke"
+      ],
+      "format_label": "OV",
+      "movie_title": "Baraka",
+      "movie_url": "https://www.schauburg.de/film/baraka-70mm",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 96,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "16:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-09",
+      "dimension": null,
+      "director_names": [
+        "Steven Spielberg"
+      ],
+      "format_label": "OV",
+      "movie_title": "Disclosure Day - Der Tag der Wahrheit",
+      "movie_url": "https://www.schauburg.de/film/disclosure-day-der-tag-der-wahrheit-ov-70mm",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 139,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "19:30:00"
     }
   ],
   "success": true
