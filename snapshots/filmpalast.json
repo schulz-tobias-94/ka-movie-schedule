@@ -7,10 +7,10 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-08",
-    "start": "2026-10-01"
+    "end": "2026-10-09",
+    "start": "2026-10-02"
   },
-  "retrieved_at": "2026-10-01T15:06:06.519076+02:00",
+  "retrieved_at": "2026-10-02T14:26:55.874844+02:00",
   "schema_version": 4,
   "screenings": [
     {
@@ -132,7 +132,7 @@
       "date": "2026-10-03",
       "dimension": null,
       "director_names": [],
-      "format_label": "OmU · englisch mit Untertiteln",
+      "format_label": "englisch mit Untertiteln · OmU",
       "movie_title": "Linkin Park: Unshatter",
       "movie_url": "https://filmpalast.net/programmuebersicht/movie/linkin-park-unshatter",
       "original_language": "English",

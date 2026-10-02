@@ -253,6 +253,31 @@
     "status": "confident",
     "verified_at": "2026-09-08T11:12:23.648381+00:00"
   },
+  "baraka": {
+    "authoritative_titles": [
+      "Baraka",
+      "Baraka",
+      "Baraka",
+      "",
+      "Baraka - Eine Welt jenseits der Worte",
+      "Világok arca - Baraka"
+    ],
+    "imdb_id": "tt0103767",
+    "key": "baraka",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Baraka",
+    "matched_year": 1992,
+    "query_title": "Baraka",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-02T12:27:02.542049+00:00"
+  },
   "bethlehem kudumba unit": {
     "authoritative_titles": [
       "Bethlehem Kudumba Unit",
@@ -1418,6 +1443,46 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-25T11:45:52.106525+00:00"
+  },
+  "disclosure day der tag der wahrheit": {
+    "authoritative_titles": [
+      "Disclosure Day - Der Tag der Wahrheit",
+      "Disclosure Day",
+      "Disclosure Day",
+      "Non-View",
+      "Disclosure",
+      "The Dish",
+      "Dia D",
+      "День раскрытия",
+      "День разоблачения",
+      "La Révélation",
+      "Den odhalení",
+      "วันเปิดโปง ไขปริศนาลวงโลก",
+      "Բացահայտման օր",
+      "ວັນເປີດໂປງ",
+      "Денот на разоткривање",
+      "ထုတ်ဖော်ပြောကြားသည့်နေ့",
+      "ڈسکلوژر ڈے",
+      "Avaidusen päiv",
+      "İfşa Günü",
+      "O Dia da Revelação",
+      "Hari Pengungkapan"
+    ],
+    "imdb_id": "tt15047880",
+    "key": "disclosure day der tag der wahrheit",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within fifteen"
+    ],
+    "matched_title": "Disclosure Day",
+    "matched_year": 2026,
+    "query_title": "Disclosure Day - Der Tag der Wahrheit",
+    "reason": null,
+    "resolved_via": null,
+    "score": 85,
+    "status": "confident",
+    "verified_at": "2026-10-02T12:27:03.975524+00:00"
   },
   "drishyam the conclusion hindi": {
     "authoritative_titles": [],
@@ -4300,6 +4365,76 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-09-06T10:51:07.071934+00:00"
+  },
+  "the social reckoning": {
+    "authoritative_titles": [
+      "The Social Reckoning",
+      "The Social Reckoning",
+      "The Social Reckoning",
+      "",
+      "The Social Network Part 2",
+      "소셜 네트워크 2",
+      "Социальный расчёт",
+      "社群清算",
+      "社交清算",
+      "A Rede Social 2",
+      "Mạng Xã Hội 2",
+      "V zajatí sietí",
+      "The Social Reckoning: W sieci konsekwencji",
+      "Le jugement social",
+      "เปิดโปงโซเชียล"
+    ],
+    "imdb_id": "tt37510326",
+    "key": "the social reckoning",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Social Reckoning",
+    "matched_year": 2026,
+    "query_title": "The Social Reckoning",
+    "reason": null,
+    "resolved_via": "the social reckoning|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-02T12:27:04.490271+00:00"
+  },
+  "the social reckoning|2026": {
+    "authoritative_titles": [
+      "The Social Reckoning",
+      "The Social Reckoning",
+      "The Social Reckoning",
+      "",
+      "The Social Network Part 2",
+      "소셜 네트워크 2",
+      "Социальный расчёт",
+      "社群清算",
+      "社交清算",
+      "A Rede Social 2",
+      "Mạng Xã Hội 2",
+      "V zajatí sietí",
+      "The Social Reckoning: W sieci konsekwencji",
+      "Le jugement social",
+      "เปิดโปงโซเชียล"
+    ],
+    "imdb_id": "tt37510326",
+    "key": "the social reckoning|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Social Reckoning",
+    "matched_year": 2026,
+    "query_title": "The Social Reckoning",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-02T12:27:04.490271+00:00"
   },
   "the vvaan hindi engl": {
     "authoritative_titles": [

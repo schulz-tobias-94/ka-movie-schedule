@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-08",
-    "start": "2026-10-01"
+    "end": "2026-10-09",
+    "start": "2026-10-02"
   },
-  "retrieved_at": "2026-10-01T15:05:29.448993+02:00",
+  "retrieved_at": "2026-10-02T14:26:18.253184+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": null,
-      "director_names": [
-        "Alexander Kleider und Daniela Michel"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Lovebox",
-      "movie_url": "https://www.schauburg.de/film/lovebox",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 96,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": null,
-      "director_names": [
-        "Alejandro González Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger",
-      "movie_url": "https://www.schauburg.de/film/digger",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OV",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -634,6 +562,54 @@
       "subtitle_language": null,
       "technology": null,
       "time": "19:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-10",
+      "dimension": null,
+      "director_names": [
+        "Josh Safdie"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Marty Supreme",
+      "movie_url": "https://www.schauburg.de/film/marty-supreme-deutsch-70mm",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 155,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "14:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-10",
+      "dimension": null,
+      "director_names": [
+        "Christopher Nolan"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Die Odyssee - in analoger 70 mm Präsentation",
+      "movie_url": "https://www.schauburg.de/film/die-odyssee-70-mm",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 180,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "20:30:00"
     }
   ],
   "success": true

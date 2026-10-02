@@ -7,133 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-08",
-    "start": "2026-10-01"
+    "end": "2026-10-09",
+    "start": "2026-10-02"
   },
-  "retrieved_at": "2026-10-01T15:06:07.830888+02:00",
+  "retrieved_at": "2026-10-02T14:26:57.183799+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13501",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": "2D",
-      "director_names": [
-        "Jon Lucas",
-        "Scott Moore"
-      ],
-      "format_label": "OV",
-      "movie_title": "Spa Weekend (engl.OV)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Spa Weekend",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 97,
-      "screening_url": "https://www.universum-city.de/de/programm/1820655/45758980",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "16:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13812",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Spider-Man: Brand New Day",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 150,
-      "screening_url": "https://www.universum-city.de/de/programm/1684845/45759021",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13510",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Verity",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 118,
-      "screening_url": "https://www.universum-city.de/de/programm/1537421/45434121",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "20:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13821",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": "2D",
-      "director_names": [
-        "Lan Hongchun"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Dear You",
-      "movie_url": "https://www.universum-city.de/de/programm/1875649",
-      "original_language": "Chinese",
-      "original_title": "给阿嬷的情书",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 119,
-      "screening_url": "https://www.universum-city.de/de/programm/1875649/45759030",
-      "subtitle_language": "English",
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13809",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-01",
-      "dimension": "2D",
-      "director_names": [
-        "David Ayer"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Eiserne Wildnis - Heart Of The Beast",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Heart of the Beast",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 101,
-      "screening_url": "https://www.universum-city.de/de/programm/1626893/45758973",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 2",
@@ -142,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-02",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -151,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1656026/45758982",
       "subtitle_language": "German",
       "technology": null,
       "time": "15:15:00"
@@ -164,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-02",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -173,10 +56,34 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 129,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1514327/45734986",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14129",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-02",
+      "dimension": "2D",
+      "director_names": [
+        "Michael Showalter"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Verity",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 118,
+      "screening_url": "https://www.universum-city.de/de/programm/1537421/45864201",
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:30:00"
     },
     {
       "alternate_titles": [],
@@ -186,12 +93,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-03",
       "dimension": "2D",
-      "director_names": [
-        "Lan Hongchun"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Dear You",
-      "movie_url": "https://www.universum-city.de/de/programm/1875649",
+      "movie_url": null,
       "original_language": "Chinese",
       "original_title": "给阿嬷的情书",
       "production_countries": [],
@@ -210,7 +115,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-03",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -256,10 +163,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-03",
       "dimension": "2D",
-      "director_names": [
-        "Jon Lucas",
-        "Scott Moore"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "Spa Weekend (engl.OV)",
       "movie_url": null,
@@ -325,9 +229,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-04",
       "dimension": "2D",
-      "director_names": [
-        "David Ayer"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Eiserne Wildnis - Heart Of The Beast",
       "movie_url": null,
@@ -349,10 +251,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-04",
       "dimension": "2D",
-      "director_names": [
-        "Jon Lucas",
-        "Scott Moore"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "Spa Weekend (engl.OV)",
       "movie_url": null,
@@ -374,12 +273,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-05",
       "dimension": "2D",
-      "director_names": [
-        "Lan Hongchun"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Dear You",
-      "movie_url": "https://www.universum-city.de/de/programm/1875649",
+      "movie_url": null,
       "original_language": "Chinese",
       "original_title": "给阿嬷的情书",
       "production_countries": [],
@@ -398,7 +295,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-05",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -420,9 +319,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-05",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -468,9 +365,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-05",
       "dimension": "2D",
-      "director_names": [
-        "David Ayer"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Eiserne Wildnis - Heart Of The Beast",
       "movie_url": null,
@@ -514,7 +409,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-06",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -560,7 +457,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-07",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -582,10 +481,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-07",
       "dimension": "2D",
-      "director_names": [
-        "Jon Lucas",
-        "Scott Moore"
-      ],
+      "director_names": [],
       "format_label": "OV",
       "movie_title": "Spa Weekend (engl.OV)",
       "movie_url": null,
@@ -607,7 +503,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-07",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -629,9 +527,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-07",
       "dimension": "2D",
-      "director_names": [
-        "Destin Daniel Cretton"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Spider-Man: Brand New Day (engl.OmU) 8.W.",
       "movie_url": null,
@@ -653,7 +549,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-08",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -690,6 +588,52 @@
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13914",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-09",
+      "dimension": "2D",
+      "director_names": [
+        "Michael Showalter"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Verity",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 118,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "17:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 2",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13724",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-09",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "The Social Reckoning",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Social Reckoning",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 113,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:15:00"
     }
   ],
   "success": true
