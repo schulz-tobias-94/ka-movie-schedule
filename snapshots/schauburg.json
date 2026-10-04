@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-10",
-    "start": "2026-10-03"
+    "end": "2026-10-11",
+    "start": "2026-10-04"
   },
-  "retrieved_at": "2026-10-03T13:34:45.735375+02:00",
+  "retrieved_at": "2026-10-04T14:16:02.606783+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-03",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OV",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-03",
-      "dimension": null,
-      "director_names": [
-        "Phelim McDermott"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Met Opera 2026/27: Wolfgang Amadeus Mozart COSÌ FAN TUTTE",
-      "movie_url": "https://www.schauburg.de/film/met-opera-2026/27-wolfgang-amadeus-mozart-cosi-fan-tutte",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 240,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-03",
-      "dimension": null,
-      "director_names": [
-        "Alejandro González Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger",
-      "movie_url": "https://www.schauburg.de/film/digger",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -587,6 +515,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "16:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-12",
+      "dimension": null,
+      "director_names": [
+        "Justin Kurzel"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Macbeth",
+      "movie_url": "https://www.schauburg.de/film/macbeth",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 113,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "19:00:00"
     }
   ],
   "success": true

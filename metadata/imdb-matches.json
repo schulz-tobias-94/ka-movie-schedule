@@ -1018,6 +1018,41 @@
     "status": "confident",
     "verified_at": "2026-09-18T11:08:39.358583+00:00"
   },
+  "der astronaut project hail mary": {
+    "authoritative_titles": [
+      "Der Astronaut – Project Hail Mary",
+      "Project Hail Mary",
+      "Project Hail Mary",
+      "Der Astronaut - Project Hail Mary",
+      "Projet dernière chance",
+      "ภารกิจกู้สุริยะ",
+      "Проект «Аве Мария»",
+      "Проект «Конец света»",
+      "مشروع هيل ماري",
+      "プロジェクト・ヘイル・メアリー",
+      "Devoradores de Estrelas",
+      "Projecto Hail Mary",
+      "Проект «Последняя надежда»",
+      "Projecto Fin del Mundo",
+      "Projekti Shpresa e Fundit",
+      "Proyek Hail Mary"
+    ],
+    "imdb_id": "tt12042730",
+    "key": "der astronaut project hail mary",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Project Hail Mary",
+    "matched_year": 2026,
+    "query_title": "Der Astronaut - Project Hail Mary",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-04T12:16:43.213710+00:00"
+  },
   "der klang der stradivari": {
     "authoritative_titles": [
       "Der Klang der Stradivari",
@@ -3910,6 +3945,62 @@
     "status": "confident",
     "verified_at": "2026-08-18T07:01:48.641438+00:00"
   },
+  "terminator 2": {
+    "authoritative_titles": [
+      "Terminator 2 - Tag der Abrechnung",
+      "Terminator 2: Judgment Day",
+      "Terminator 2: Judgment Day",
+      "未來戰士續集",
+      "T2",
+      "Terminator 2: Judgement Day",
+      "Terminator 2 - Il giorno del giudizio - Director's Cut",
+      "Terminaator 2: Kohtupäev",
+      "Tortímandinn: Dómsdagur",
+      "Terminatorius 2: paskutinio teismo diena",
+      "Terminator 2 - Sodni dan",
+      "Ke Huy Diet 2: Ngay Phan Xet",
+      "终结者2",
+      "Terminator 2",
+      "Terminator 2 - Judgement Day  (Skynet Edition)",
+      "Terminator 2 - Judgement Day  (Directors Cut)",
+      "Terminator  2 Judgment Day",
+      "Terminator 2 - Judgement Day",
+      "Терминатор 2 Судный день",
+      "Terminator 2 - Judgment Day (Special Edition)",
+      "Terminator 2 - Le Jugement Dernier",
+      "O Exterminador do Futuro 2 - O Dia do Julgamento",
+      "Terminator 2: Judgment Day 3D",
+      "Terminator 2։ Judgment Day 3D",
+      "Terminator 2։ Judgment Day",
+      "เทอร์มิเนเตอร์ 2 : วันพิพากษา",
+      "Терминатор 2. Судный день",
+      "Terminator 2 - Dommens dag",
+      "ターミネーター２",
+      "ターミネーター2：1991",
+      "El exterminador 2",
+      "Terminator 2 - Le Jugement Dernier (Skynet Edition)",
+      "Terminator 2 - Le Jugement Dernier 3D",
+      "未来战士续集",
+      "未来战士II：世界末日",
+      "Terminator 2: Qiyamət Günü",
+      "Terminators 2: Pastarā diena"
+    ],
+    "imdb_id": "tt0103064",
+    "key": "terminator 2",
+    "matched_by": [
+      "alternate title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Terminator 2: Judgment Day",
+    "matched_year": 1991,
+    "query_title": "Terminator 2",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-04T12:16:43.589656+00:00"
+  },
   "terminator 2 tag der abrechnung 35th anniversary": {
     "authoritative_titles": [
       "Terminator 2 - Tag der Abrechnung",
@@ -4763,6 +4854,52 @@
     "score": 80,
     "status": "search_fallback",
     "verified_at": "2026-08-29T12:39:48.058987+00:00"
+  },
+  "udta teer": {
+    "authoritative_titles": [
+      "Udta Teer",
+      "Udta Teer",
+      "उड़ता तीर"
+    ],
+    "imdb_id": "tt31806773",
+    "key": "udta teer",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Udta Teer",
+    "matched_year": 2026,
+    "query_title": "Udta Teer",
+    "reason": null,
+    "resolved_via": "udta teer|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-04T12:16:42.297137+00:00"
+  },
+  "udta teer|2026": {
+    "authoritative_titles": [
+      "Udta Teer",
+      "Udta Teer",
+      "उड़ता तीर"
+    ],
+    "imdb_id": "tt31806773",
+    "key": "udta teer|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Udta Teer",
+    "matched_year": 2026,
+    "query_title": "Udta Teer",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-04T12:16:42.297137+00:00"
   },
   "ukrain ver the end of oak street": {
     "authoritative_titles": [

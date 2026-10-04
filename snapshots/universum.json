@@ -7,104 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-10",
-    "start": "2026-10-03"
+    "end": "2026-10-11",
+    "start": "2026-10-04"
   },
-  "retrieved_at": "2026-10-03T13:35:26.862728+02:00",
+  "retrieved_at": "2026-10-04T14:16:37.596443+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13822",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-03",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OmU",
-      "movie_title": "Dear You",
-      "movie_url": null,
-      "original_language": "Chinese",
-      "original_title": "给阿嬷的情书",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 119,
-      "screening_url": null,
-      "subtitle_language": "English",
-      "technology": null,
-      "time": "17:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 5",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13745",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-03",
-      "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Digger",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 129,
-      "screening_url": "https://www.universum-city.de/de/programm/1514327/45734987",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "17:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13511",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-03",
-      "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Verity",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 118,
-      "screening_url": "https://www.universum-city.de/de/programm/1537421/45434126",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13762",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-03",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OV",
-      "movie_title": "Spa Weekend (engl.OV)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Spa Weekend",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 97,
-      "screening_url": null,
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 4",
@@ -113,16 +21,18 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Raj Sivaraj"
+      ],
       "format_label": null,
       "movie_title": "Porattam",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/2030427",
       "original_language": "Tamil",
       "original_title": "Porattam",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 146,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/2030427/45647341",
       "subtitle_language": "English",
       "technology": null,
       "time": "11:00:00"
@@ -135,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Abhishek Pathak"
+      ],
       "format_label": null,
       "movie_title": "Drishyam: The Conclusion (Hindi with engl.Subtitles)",
       "movie_url": null,
@@ -144,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 170,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1406964/45758935",
       "subtitle_language": "English",
       "technology": null,
       "time": "11:45:00"
@@ -157,7 +69,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Ayer"
+      ],
       "format_label": "OmU",
       "movie_title": "Eiserne Wildnis - Heart Of The Beast",
       "movie_url": null,
@@ -166,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1626893/45758971",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:00:00"
@@ -189,7 +103,7 @@
       "release_year": 2026,
       "runtime_minutes": 97,
       "screening_url": null,
-      "subtitle_language": "German",
+      "subtitle_language": null,
       "technology": null,
       "time": "20:00:00"
     },
@@ -223,9 +137,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-05",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -269,9 +181,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-05",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -293,7 +203,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-05",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "David Ayer"
+      ],
       "format_label": "OmU",
       "movie_title": "Eiserne Wildnis - Heart Of The Beast",
       "movie_url": null,
@@ -337,9 +249,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-06",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -361,9 +271,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-06",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -417,7 +325,7 @@
       "release_year": 2026,
       "runtime_minutes": 97,
       "screening_url": null,
-      "subtitle_language": "German",
+      "subtitle_language": null,
       "technology": null,
       "time": "18:15:00"
     },
@@ -429,9 +337,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-07",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -475,9 +381,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-08",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -499,9 +403,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-08",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -523,9 +425,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-09",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -591,9 +491,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-10",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger (engl.OmU)",
       "movie_url": null,
@@ -606,6 +504,72 @@
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 2",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13700",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-11",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": null,
+      "movie_title": "Udta Teer",
+      "movie_url": null,
+      "original_language": "Hindi",
+      "original_title": "उड़ता तीर",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 144,
+      "screening_url": null,
+      "subtitle_language": "English",
+      "technology": null,
+      "time": "11:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13938",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-11",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Digger (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Digger",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 129,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "17:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13922",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-11",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Verity",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 118,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:30:00"
     }
   ],
   "success": true
