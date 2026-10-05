@@ -36,6 +36,26 @@
     "status": "confident",
     "verified_at": "2026-08-18T07:01:51.120961+00:00"
   },
+  "always lalisa": {
+    "authoritative_titles": [
+      "Always Lalisa",
+      "Always Lalisa",
+      "Always Lalisa"
+    ],
+    "imdb_id": "tt37108970",
+    "key": "always lalisa",
+    "matched_by": [
+      "German localized title"
+    ],
+    "matched_title": "Always Lalisa",
+    "matched_year": 2026,
+    "query_title": "Always Lalisa",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:18.032722+00:00"
+  },
   "america america 2 kannada engl": {
     "authoritative_titles": [
       "America America 2",
@@ -1412,18 +1432,33 @@
     "verified_at": "2026-09-08T11:12:22.757431+00:00"
   },
   "digger": {
-    "authoritative_titles": [],
-    "imdb_id": null,
+    "authoritative_titles": [
+      "Digger",
+      "Digger",
+      "Digger",
+      "",
+      "डिगर",
+      "Judy",
+      "ดิกเกอร์",
+      "Blah, Blah, Blah"
+    ],
+    "imdb_id": "tt31450459",
     "key": "digger",
-    "matched_by": [],
-    "matched_title": null,
-    "matched_year": null,
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "director mismatch",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Digger",
+    "matched_year": 2026,
     "query_title": "Digger",
-    "reason": "no_match",
-    "resolved_via": null,
-    "score": 33,
-    "status": "search_fallback",
-    "verified_at": "2026-09-28T13:46:48.670088+00:00"
+    "reason": null,
+    "resolved_via": "digger|2026",
+    "score": 64,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:15.752329+00:00"
   },
   "digger engl": {
     "authoritative_titles": [
@@ -1478,6 +1513,35 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-25T11:45:52.106525+00:00"
+  },
+  "digger|2026": {
+    "authoritative_titles": [
+      "Digger",
+      "Digger",
+      "Digger",
+      "",
+      "डिगर",
+      "Judy",
+      "ดิกเกอร์",
+      "Blah, Blah, Blah"
+    ],
+    "imdb_id": "tt31450459",
+    "key": "digger|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "director mismatch",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Digger",
+    "matched_year": 2026,
+    "query_title": "Digger",
+    "reason": null,
+    "resolved_via": null,
+    "score": 64,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:15.752329+00:00"
   },
   "disclosure day der tag der wahrheit": {
     "authoritative_titles": [
@@ -2324,6 +2388,31 @@
     "score": 20,
     "status": "search_fallback",
     "verified_at": "2026-09-22T11:31:08.544270+00:00"
+  },
+  "macbeth": {
+    "authoritative_titles": [
+      "Macbeth",
+      "Macbeth",
+      "Macbeth",
+      "",
+      "맥베스",
+      "Macbeth"
+    ],
+    "imdb_id": "tt2884018",
+    "key": "macbeth",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Macbeth",
+    "matched_year": 2015,
+    "query_title": "Macbeth",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:17.610883+00:00"
   },
   "mandaadi tamil": {
     "authoritative_titles": [
@@ -3285,6 +3374,62 @@
     "score": 81,
     "status": "confident",
     "verified_at": "2026-08-17T07:14:08.457618+00:00"
+  },
+  "resident evil engl": {
+    "authoritative_titles": [
+      "Resident Evil",
+      "Resident Evil",
+      "Resident Evil",
+      "",
+      "Biohazard",
+      "เรสซิเดนท์ อีวิล",
+      "Resident Evil: Noche cero",
+      "ᱨᱮᱥᱤᱰᱮᱱᱴ ᱤᱵᱷᱟᱞ"
+    ],
+    "imdb_id": "tt35538033",
+    "key": "resident evil engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Resident Evil",
+    "matched_year": 2026,
+    "query_title": "Resident Evil (engl",
+    "reason": null,
+    "resolved_via": "resident evil engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:16.742953+00:00"
+  },
+  "resident evil engl|2026": {
+    "authoritative_titles": [
+      "Resident Evil",
+      "Resident Evil",
+      "Resident Evil",
+      "",
+      "Biohazard",
+      "เรสซิเดนท์ อีวิล",
+      "Resident Evil: Noche cero",
+      "ᱨᱮᱥᱤᱰᱮᱱᱴ ᱤᱵᱷᱟᱞ"
+    ],
+    "imdb_id": "tt35538033",
+    "key": "resident evil engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Resident Evil",
+    "matched_year": 2026,
+    "query_title": "Resident Evil (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:16.742953+00:00"
   },
   "rodychi verwandte": {
     "authoritative_titles": [],
