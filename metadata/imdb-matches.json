@@ -1241,7 +1241,7 @@
     "matched_year": 2026,
     "query_title": "Die Odyssee",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "the odyssey",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -1831,6 +1831,20 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-07T07:39:30.192278+00:00"
+  },
+  "forgotten island": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "forgotten island",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Forgotten Island",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-10-06T13:15:05.595381+00:00"
   },
   "frühstück bei audrey": {
     "authoritative_titles": [
@@ -4479,7 +4493,7 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "die odyssee",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
@@ -5277,5 +5291,41 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.674901+00:00"
+  },
+  "родичі": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "родичі",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Родичі",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-10-06T13:15:06.052973+00:00"
+  },
+  "مطلوب آيليان": {
+    "authoritative_titles": [
+      "مطلوب آيليان",
+      "Matloob Aaeleyan",
+      "مطلوب آيليان",
+      "Matloob Aelian"
+    ],
+    "imdb_id": "tt43698551",
+    "key": "مطلوب آيليان",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Matloob Aaeleyan",
+    "matched_year": 2026,
+    "query_title": "مطلوب آيليان",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-06T13:15:06.282270+00:00"
   }
 }
