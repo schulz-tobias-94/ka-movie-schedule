@@ -7,108 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-13",
-    "start": "2026-10-06"
+    "end": "2026-10-14",
+    "start": "2026-10-07"
   },
-  "retrieved_at": "2026-10-06T15:14:21.835024+02:00",
+  "retrieved_at": "2026-10-07T15:14:30.879525+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-06",
-      "dimension": null,
-      "director_names": [
-        "Jochen Isensee"
-      ],
-      "format_label": "OmU",
-      "movie_title": "A Doctor's Mind",
-      "movie_url": "https://www.schauburg.de/film/a-doctors-mind",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 99,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-06",
-      "dimension": null,
-      "director_names": [
-        "Alejandro González Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger",
-      "movie_url": "https://www.schauburg.de/film/digger",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-06",
-      "dimension": null,
-      "director_names": [
-        "Alejandro González Iñárritu"
-      ],
-      "format_label": "OV",
-      "movie_title": "Digger",
-      "movie_url": "https://www.schauburg.de/film/digger",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-06",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -657,6 +561,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-15",
+      "dimension": null,
+      "director_names": [
+        "Alan Crosland"
+      ],
+      "format_label": "OV",
+      "movie_title": "The Jazz Singer",
+      "movie_url": "https://www.schauburg.de/film/the-jazz-singer",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 88,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "18:45:00"
     }
   ],
   "success": true
