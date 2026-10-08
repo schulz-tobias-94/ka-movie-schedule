@@ -1543,6 +1543,20 @@
     "status": "confident",
     "verified_at": "2026-10-05T14:29:15.752329+00:00"
   },
+  "digger|director:alejandro gonzález iñárritu": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "digger|director:alejandro gonzález iñárritu",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Digger",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 33,
+    "status": "search_fallback",
+    "verified_at": "2026-10-08T13:21:50.341906+00:00"
+  },
   "disclosure day der tag der wahrheit": {
     "authoritative_titles": [
       "Disclosure Day - Der Tag der Wahrheit",
@@ -2258,6 +2272,56 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-25T07:06:10.916273+00:00"
+  },
+  "jailer 2": {
+    "authoritative_titles": [
+      "Jailer 2",
+      "Jailer 2",
+      "ஜெயிலர் 2",
+      "Rajini The Jailer 2",
+      "Thalaivar 172"
+    ],
+    "imdb_id": "tt33318732",
+    "key": "jailer 2",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within fifteen",
+      "original language"
+    ],
+    "matched_title": "Jailer 2",
+    "matched_year": 2026,
+    "query_title": "Jailer 2",
+    "reason": null,
+    "resolved_via": "jailer 2|2026",
+    "score": 86,
+    "status": "confident",
+    "verified_at": "2026-10-08T13:21:53.206498+00:00"
+  },
+  "jailer 2|2026": {
+    "authoritative_titles": [
+      "Jailer 2",
+      "Jailer 2",
+      "ஜெயிலர் 2",
+      "Rajini The Jailer 2",
+      "Thalaivar 172"
+    ],
+    "imdb_id": "tt33318732",
+    "key": "jailer 2|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within fifteen",
+      "original language"
+    ],
+    "matched_title": "Jailer 2",
+    "matched_year": 2026,
+    "query_title": "Jailer 2",
+    "reason": null,
+    "resolved_via": null,
+    "score": 86,
+    "status": "confident",
+    "verified_at": "2026-10-08T13:21:53.206498+00:00"
   },
   "jap dt omu chihiros reise ins zauberland|2003": {
     "authoritative_titles": [],
@@ -4018,6 +4082,58 @@
     "status": "confident",
     "verified_at": "2026-08-19T07:02:37.735526+00:00"
   },
+  "street fighter engl": {
+    "authoritative_titles": [
+      "Street Fighter",
+      "Street Fighter",
+      "Street Fighter",
+      "",
+      "Street Fighter: le film",
+      "สตรีท ไฟเตอร์"
+    ],
+    "imdb_id": "tt27419420",
+    "key": "street fighter engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Street Fighter",
+    "matched_year": 2026,
+    "query_title": "Street Fighter (engl",
+    "reason": null,
+    "resolved_via": "street fighter engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-08T13:21:52.531139+00:00"
+  },
+  "street fighter engl|2026": {
+    "authoritative_titles": [
+      "Street Fighter",
+      "Street Fighter",
+      "Street Fighter",
+      "",
+      "Street Fighter: le film",
+      "สตรีท ไฟเตอร์"
+    ],
+    "imdb_id": "tt27419420",
+    "key": "street fighter engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Street Fighter",
+    "matched_year": 2026,
+    "query_title": "Street Fighter (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-08T13:21:52.531139+00:00"
+  },
   "tad stones und die wunderlampe": {
     "authoritative_titles": [
       "Tad Stones und die Wunderlampe",
@@ -4448,6 +4564,30 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:37.224689+00:00"
+  },
+  "the jazz singer": {
+    "authoritative_titles": [
+      "Der Jazzsänger",
+      "The Jazz Singer",
+      "The Jazz Singer",
+      "Cantor de Jazz",
+      "Caz Şarkıcısı"
+    ],
+    "imdb_id": "tt0018037",
+    "key": "the jazz singer",
+    "matched_by": [
+      "English title",
+      "director match",
+      "runtime within fifteen"
+    ],
+    "matched_title": "The Jazz Singer",
+    "matched_year": 1927,
+    "query_title": "The Jazz Singer",
+    "reason": null,
+    "resolved_via": null,
+    "score": 85,
+    "status": "confident",
+    "verified_at": "2026-10-08T13:21:51.350802+00:00"
   },
   "the odyssey": {
     "authoritative_titles": [
