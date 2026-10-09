@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-15",
-    "start": "2026-10-08"
+    "end": "2026-10-16",
+    "start": "2026-10-09"
   },
-  "retrieved_at": "2026-10-08T15:21:44.327748+02:00",
+  "retrieved_at": "2026-10-09T15:10:20.879291+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13928",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-08",
-      "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger",
-      "movie_url": "https://www.universum-city.de/de/programm/1514327",
-      "original_language": "English",
-      "original_title": "Digger",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 129,
-      "screening_url": "https://www.universum-city.de/de/programm/1514327/45852045",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13894",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-08",
-      "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Verity",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 118,
-      "screening_url": "https://www.universum-city.de/de/programm/1537421/45852008",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "20:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 5",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14132",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-08",
-      "dimension": "2D",
-      "director_names": [
-        "Zach Cregger"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Resident Evil (engl. OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Resident Evil",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 97,
-      "screening_url": "https://www.universum-city.de/de/programm/1715668/45870105",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 1",
@@ -104,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 118,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1537421/45852003",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "17:15:00"
@@ -117,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-09",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Aaron Sorkin"
+      ],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
       "movie_url": "https://www.universum-city.de/de/programm/1711129",
@@ -126,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 113,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1711129/45650992",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:30:00"
@@ -139,7 +69,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-09",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -148,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1656026/45870079",
       "subtitle_language": "German",
       "technology": null,
       "time": "18:00:00"
@@ -183,9 +115,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-10",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger",
       "movie_url": "https://www.universum-city.de/de/programm/1514327",
@@ -275,9 +205,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-11",
       "dimension": "2D",
-      "director_names": [
-        "Zach Cregger"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Resident Evil (engl. OmU)",
       "movie_url": null,
@@ -299,7 +227,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-12",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Aaron Sorkin"
+      ],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
       "movie_url": "https://www.universum-city.de/de/programm/1711129",
@@ -367,9 +297,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-13",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger",
       "movie_url": "https://www.universum-city.de/de/programm/1514327",
@@ -391,9 +319,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger",
       "movie_url": "https://www.universum-city.de/de/programm/1514327",
@@ -415,7 +341,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -483,9 +411,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [
-        "Zach Cregger"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Resident Evil (engl. OmU)",
       "movie_url": null,
@@ -531,7 +457,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-15",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Aaron Sorkin"
+      ],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
       "movie_url": "https://www.universum-city.de/de/programm/1711129",
@@ -588,6 +516,30 @@
       "subtitle_language": "English",
       "technology": "D-BOX",
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 2",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14252",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-16",
+      "dimension": "2D",
+      "director_names": [
+        "Aaron Sorkin"
+      ],
+      "format_label": "OmU",
+      "movie_title": "The Social Reckoning",
+      "movie_url": "https://www.universum-city.de/de/programm/1711129",
+      "original_language": "English",
+      "original_title": "The Social Reckoning",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 113,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "17:45:00"
     }
   ],
   "success": true
