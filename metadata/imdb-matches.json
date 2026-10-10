@@ -2596,6 +2596,20 @@
     "status": "search_fallback",
     "verified_at": "2026-09-12T10:41:04.334422+00:00"
   },
+  "met opera 2026 27 giuseppe verdi macbeth": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "met opera 2026 27 giuseppe verdi macbeth",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Met Opera 2026/27: Giuseppe Verdi MACBETH",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-10-10T12:25:25.193502+00:00"
+  },
   "met opera 2026 27 wolfgang amadeus mozart così fan tutte": {
     "authoritative_titles": [],
     "imdb_id": null,

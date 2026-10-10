@@ -7,106 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-16",
-    "start": "2026-10-09"
+    "end": "2026-10-17",
+    "start": "2026-10-10"
   },
-  "retrieved_at": "2026-10-09T15:10:20.879291+02:00",
+  "retrieved_at": "2026-10-10T14:25:20.224728+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13914",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-09",
-      "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Verity",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 118,
-      "screening_url": "https://www.universum-city.de/de/programm/1537421/45852003",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "17:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13724",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-09",
-      "dimension": "2D",
-      "director_names": [
-        "Aaron Sorkin"
-      ],
-      "format_label": "OmU",
-      "movie_title": "The Social Reckoning",
-      "movie_url": "https://www.universum-city.de/de/programm/1711129",
-      "original_language": "English",
-      "original_title": "The Social Reckoning",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 113,
-      "screening_url": "https://www.universum-city.de/de/programm/1711129/45650992",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14147",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-09",
-      "dimension": "2D",
-      "director_names": [
-        "Dave Green"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Coyote vs. Acme",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Coyote vs. Acme",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 101,
-      "screening_url": "https://www.universum-city.de/de/programm/1656026/45870079",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "18:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13969",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-09",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OmU",
-      "movie_title": "Eiserne Wildnis - Heart Of The Beast",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Heart of the Beast",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 101,
-      "screening_url": null,
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 4",
@@ -115,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-10",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger",
       "movie_url": "https://www.universum-city.de/de/programm/1514327",
@@ -124,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 129,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1514327/45852044",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:00:00"
@@ -164,7 +72,7 @@
       "movie_title": "Drishyam: The Conclusion (Hindi with engl.Subtitles)",
       "movie_url": null,
       "original_language": "Hindi",
-      "original_title": "दृश्यम्: आख़िरी हिस्सा",
+      "original_title": "दृश्यम: आखिरी हिस्सा",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 170,
@@ -181,9 +89,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-11",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -227,9 +133,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-12",
       "dimension": "2D",
-      "director_names": [
-        "Aaron Sorkin"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
       "movie_url": "https://www.universum-city.de/de/programm/1711129",
@@ -273,9 +177,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-13",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -297,7 +199,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-13",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger",
       "movie_url": "https://www.universum-city.de/de/programm/1514327",
@@ -319,7 +223,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Alejandro G. Iñárritu"
+      ],
       "format_label": "OmU",
       "movie_title": "Digger",
       "movie_url": "https://www.universum-city.de/de/programm/1514327",
@@ -341,9 +247,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [
-        "Dave Green"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -365,9 +269,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -433,9 +335,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-15",
       "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -457,9 +357,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-15",
       "dimension": "2D",
-      "director_names": [
-        "Aaron Sorkin"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
       "movie_url": "https://www.universum-city.de/de/programm/1711129",
@@ -525,9 +423,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-16",
       "dimension": "2D",
-      "director_names": [
-        "Aaron Sorkin"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
       "movie_url": "https://www.universum-city.de/de/programm/1711129",
@@ -540,6 +436,72 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "17:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14034",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-17",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": null,
+      "movie_title": "Jailer 2",
+      "movie_url": null,
+      "original_language": "Tamil",
+      "original_title": "ஜெயிலர் 2",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 160,
+      "screening_url": null,
+      "subtitle_language": "English",
+      "technology": "D-BOX",
+      "time": "12:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14100",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-17",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Street Fighter (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Street Fighter",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 120,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "17:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14231",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-17",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Verity",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 118,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:00:00"
     }
   ],
   "success": true
