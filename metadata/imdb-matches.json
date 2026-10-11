@@ -1884,6 +1884,20 @@
     "status": "confident",
     "verified_at": "2026-09-08T11:12:23.881774+00:00"
   },
+  "frühstück digger": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "frühstück digger",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Frühstück - Digger",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 0,
+    "status": "search_fallback",
+    "verified_at": "2026-10-11T12:42:56.059870+00:00"
+  },
   "ghost 2 big to rig": {
     "authoritative_titles": [
       "GHOST: 2 Big To Rig",
@@ -2726,6 +2740,27 @@
     "status": "confident",
     "verified_at": "2026-08-20T07:03:22.794310+00:00"
   },
+  "nayyi navelli": {
+    "authoritative_titles": [
+      "Nayyi Navelli",
+      "Nayyi Navelli",
+      "नय्यी नवेल्ली"
+    ],
+    "imdb_id": "tt40855841",
+    "key": "nayyi navelli",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Nayyi Navelli",
+    "matched_year": 2026,
+    "query_title": "Nayyi Navelli",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-11T12:42:56.386197+00:00"
+  },
   "oasis don t look back in anger": {
     "authoritative_titles": [
       "Oasis: Don't Look Back in Anger",
@@ -3224,6 +3259,54 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-14T12:38:29.822629+00:00"
+  },
+  "prahaar": {
+    "authoritative_titles": [
+      "Prahaar",
+      "Prahaar",
+      "प्रहार",
+      "Prahaar: The Ujjwal Nikam Story"
+    ],
+    "imdb_id": "tt28773062",
+    "key": "prahaar",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Prahaar",
+    "matched_year": 2026,
+    "query_title": "PRAHAAR",
+    "reason": null,
+    "resolved_via": "prahaar|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-11T12:42:57.149210+00:00"
+  },
+  "prahaar|2026": {
+    "authoritative_titles": [
+      "Prahaar",
+      "Prahaar",
+      "प्रहार",
+      "Prahaar: The Ujjwal Nikam Story"
+    ],
+    "imdb_id": "tt28773062",
+    "key": "prahaar|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Prahaar",
+    "matched_year": 2026,
+    "query_title": "PRAHAAR",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-11T12:42:57.149210+00:00"
   },
   "pressure": {
     "authoritative_titles": [
@@ -4647,7 +4730,7 @@
     "matched_year": 2026,
     "query_title": "The Odyssey",
     "reason": null,
-    "resolved_via": "die odyssee",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:27.601850+00:00"
