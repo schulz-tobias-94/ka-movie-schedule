@@ -3550,6 +3550,31 @@
     "status": "confident",
     "verified_at": "2026-08-17T07:14:08.457618+00:00"
   },
+  "resident evil": {
+    "authoritative_titles": [
+      "Resident Evil",
+      "Resident Evil",
+      "Resident Evil",
+      "",
+      "Biohazard",
+      "เรสซิเดนท์ อีวิล",
+      "Resident Evil: Noche cero",
+      "ᱨᱮᱥᱤᱰᱮᱱᱴ ᱤᱵᱷᱟᱞ"
+    ],
+    "imdb_id": "tt35538033",
+    "key": "resident evil",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Resident Evil",
+    "matched_year": 2026,
+    "query_title": "Resident Evil",
+    "reason": null,
+    "resolved_via": "resident evil engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:16.742953+00:00"
+  },
   "resident evil engl": {
     "authoritative_titles": [
       "Resident Evil",
@@ -3602,6 +3627,31 @@
     "query_title": "Resident Evil (engl",
     "reason": null,
     "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-05T14:29:16.742953+00:00"
+  },
+  "resident evil|2026": {
+    "authoritative_titles": [
+      "Resident Evil",
+      "Resident Evil",
+      "Resident Evil",
+      "",
+      "Biohazard",
+      "เรสซิเดนท์ อีวิล",
+      "Resident Evil: Noche cero",
+      "ᱨᱮᱥᱤᱰᱮᱱᱴ ᱤᱵᱷᱟᱞ"
+    ],
+    "imdb_id": "tt35538033",
+    "key": "resident evil|2026",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Resident Evil",
+    "matched_year": 2026,
+    "query_title": "Resident Evil",
+    "reason": null,
+    "resolved_via": "resident evil engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-05T14:29:16.742953+00:00"
@@ -3723,6 +3773,60 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-20T11:17:00.463298+00:00"
+  },
+  "sacrifice": {
+    "authoritative_titles": [
+      "Sacrifice",
+      "Sacrifice",
+      "Sacrifice",
+      "",
+      "Los Elegidos",
+      "Bogaci i martwi",
+      "Romain Gavras Sacrifice"
+    ],
+    "imdb_id": "tt32268992",
+    "key": "sacrifice",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Sacrifice",
+    "matched_year": 2026,
+    "query_title": "Sacrifice",
+    "reason": null,
+    "resolved_via": "sacrifice|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-12T15:14:52.573645+00:00"
+  },
+  "sacrifice|2026": {
+    "authoritative_titles": [
+      "Sacrifice",
+      "Sacrifice",
+      "Sacrifice",
+      "",
+      "Los Elegidos",
+      "Bogaci i martwi",
+      "Romain Gavras Sacrifice"
+    ],
+    "imdb_id": "tt32268992",
+    "key": "sacrifice|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Sacrifice",
+    "matched_year": 2026,
+    "query_title": "Sacrifice",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-12T15:14:52.573645+00:00"
   },
   "sneak": {
     "authoritative_titles": [],
@@ -5389,6 +5493,29 @@
     "status": "search_fallback",
     "verified_at": "2026-09-23T11:29:01.099060+00:00"
   },
+  "verity dunkle geheimnisse": {
+    "authoritative_titles": [
+      "Verity - Dunkle Geheimnisse",
+      "Verity",
+      "Verity",
+      "Pravda, nebo lež",
+      "Verity: La sombra de un engaño",
+      "เงื่อนวิปลาส"
+    ],
+    "imdb_id": "tt32261958",
+    "key": "verity dunkle geheimnisse",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Verity",
+    "matched_year": 2026,
+    "query_title": "Verity - Dunkle Geheimnisse",
+    "reason": null,
+    "resolved_via": "verity dunkle geheimnisse engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-24T11:39:53.066057+00:00"
+  },
   "verity dunkle geheimnisse engl": {
     "authoritative_titles": [
       "Verity - Dunkle Geheimnisse",
@@ -5437,6 +5564,29 @@
     "query_title": "Verity - Dunkle Geheimnisse (engl",
     "reason": null,
     "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-09-24T11:39:53.066057+00:00"
+  },
+  "verity dunkle geheimnisse|2026": {
+    "authoritative_titles": [
+      "Verity - Dunkle Geheimnisse",
+      "Verity",
+      "Verity",
+      "Pravda, nebo lež",
+      "Verity: La sombra de un engaño",
+      "เงื่อนวิปลาส"
+    ],
+    "imdb_id": "tt32261958",
+    "key": "verity dunkle geheimnisse|2026",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Verity",
+    "matched_year": 2026,
+    "query_title": "Verity - Dunkle Geheimnisse",
+    "reason": null,
+    "resolved_via": "verity dunkle geheimnisse engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-24T11:39:53.066057+00:00"
