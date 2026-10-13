@@ -2351,6 +2351,20 @@
     "status": "search_fallback",
     "verified_at": "2026-08-11T07:33:31.331173+00:00"
   },
+  "jim queen": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "jim queen",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Jim Queen",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 33,
+    "status": "search_fallback",
+    "verified_at": "2026-10-13T14:05:56.961255+00:00"
+  },
   "katseye wild hearts": {
     "authoritative_titles": [
       "KATSEYE: WILD HEARTS",
@@ -2750,6 +2764,29 @@
     "key": "nayyi navelli",
     "matched_by": [
       "German localized title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Nayyi Navelli",
+    "matched_year": 2026,
+    "query_title": "Nayyi Navelli",
+    "reason": null,
+    "resolved_via": "nayyi navelli|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-10-13T14:05:56.476596+00:00"
+  },
+  "nayyi navelli|2026": {
+    "authoritative_titles": [
+      "Nayyi Navelli",
+      "Nayyi Navelli",
+      "नय्यी नवेल्ली"
+    ],
+    "imdb_id": "tt40855841",
+    "key": "nayyi navelli|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
       "original language"
     ],
     "matched_title": "Nayyi Navelli",
@@ -2757,9 +2794,9 @@
     "query_title": "Nayyi Navelli",
     "reason": null,
     "resolved_via": null,
-    "score": 56,
+    "score": 81,
     "status": "confident",
-    "verified_at": "2026-10-11T12:42:56.386197+00:00"
+    "verified_at": "2026-10-13T14:05:56.476596+00:00"
   },
   "oasis don t look back in anger": {
     "authoritative_titles": [
@@ -3668,7 +3705,7 @@
     "resolved_via": null,
     "score": 56,
     "status": "search_fallback",
-    "verified_at": "2026-09-29T12:45:58.696072+00:00"
+    "verified_at": "2026-10-13T14:05:55.752411+00:00"
   },
   "runner": {
     "authoritative_titles": [
@@ -3827,6 +3864,33 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-12T15:14:52.573645+00:00"
+  },
+  "sinn und sinnlichkeit": {
+    "authoritative_titles": [
+      "Sinn und Sinnlichkeit",
+      "Sense and Sensibility",
+      "Sense and Sensibility",
+      "센스 앤 센서빌리티",
+      "Rozum a cit",
+      "Akal Budi dan Kepekaan",
+      "Järki ja tunteet",
+      "Sentido y Sensibilidad"
+    ],
+    "imdb_id": "tt13609648",
+    "key": "sinn und sinnlichkeit",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Sense and Sensibility",
+    "matched_year": 2026,
+    "query_title": "Sinn und Sinnlichkeit",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-13T14:05:53.225965+00:00"
   },
   "sneak": {
     "authoritative_titles": [],
@@ -4282,6 +4346,29 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-19T07:02:37.735526+00:00"
+  },
+  "street fighter": {
+    "authoritative_titles": [
+      "Street Fighter",
+      "Street Fighter",
+      "Street Fighter",
+      "",
+      "Street Fighter: le film",
+      "สตรีท ไฟเตอร์"
+    ],
+    "imdb_id": "tt27419420",
+    "key": "street fighter",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Street Fighter",
+    "matched_year": 2026,
+    "query_title": "Street Fighter",
+    "reason": null,
+    "resolved_via": "street fighter engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-08T13:21:52.531139+00:00"
   },
   "street fighter engl": {
     "authoritative_titles": [
