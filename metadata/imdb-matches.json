@@ -532,6 +532,29 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:37.708055+00:00"
   },
+  "clayface": {
+    "authoritative_titles": [
+      "Clayface",
+      "Clayface",
+      "Clayface",
+      "",
+      "Moliaveidis"
+    ],
+    "imdb_id": "tt34890576",
+    "key": "clayface",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Clayface",
+    "matched_year": 2026,
+    "query_title": "Clayface",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-14T11:45:24.089453+00:00"
+  },
   "cobain montage of heck engl": {
     "authoritative_titles": [
       "Cobain: Montage of Heck",

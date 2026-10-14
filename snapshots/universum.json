@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-20",
-    "start": "2026-10-13"
+    "end": "2026-10-21",
+    "start": "2026-10-14"
   },
-  "retrieved_at": "2026-10-13T16:05:48.256771+02:00",
+  "retrieved_at": "2026-10-14T13:45:16.676178+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13918",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-13",
-      "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Verity",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 118,
-      "screening_url": "https://www.universum-city.de/de/programm/1537421/45852005",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "17:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13952",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-13",
-      "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger",
-      "movie_url": "https://www.universum-city.de/de/programm/1514327",
-      "original_language": "English",
-      "original_title": "Digger",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 129,
-      "screening_url": "https://www.universum-city.de/de/programm/1514327/45852050",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 4",
@@ -80,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 129,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1514327/45852052",
       "subtitle_language": "German",
       "technology": null,
       "time": "15:00:00"
@@ -93,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Dave Green"
+      ],
       "format_label": "OmU",
       "movie_title": "Coyote vs. Acme",
       "movie_url": null,
@@ -102,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 101,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1656026/45870115",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:45:00"
@@ -126,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 118,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1537421/45852004",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:00:00"
@@ -161,7 +115,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-14",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Zach Cregger"
+      ],
       "format_label": "OmU",
       "movie_title": "Resident Evil (engl. OmU)",
       "movie_url": null,
@@ -170,7 +126,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 97,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1715668/45870067",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:30:00"
@@ -320,7 +276,7 @@
       "director_names": [],
       "format_label": "OmU",
       "movie_title": "Resident Evil",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1715668",
       "original_language": "English",
       "original_title": "Resident Evil",
       "production_countries": [],
@@ -522,7 +478,7 @@
       "director_names": [],
       "format_label": "OmU",
       "movie_title": "Resident Evil",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1715668",
       "original_language": "English",
       "original_title": "Resident Evil",
       "production_countries": [],
@@ -588,7 +544,7 @@
       "director_names": [],
       "format_label": "OmU",
       "movie_title": "Resident Evil",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1715668",
       "original_language": "English",
       "original_title": "Resident Evil",
       "production_countries": [],
@@ -714,6 +670,28 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "20:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14104",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-21",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Street Fighter (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Street Fighter",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 120,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:30:00"
     }
   ],
   "success": true
