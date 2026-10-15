@@ -7,34 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-21",
-    "start": "2026-10-14"
+    "end": "2026-10-22",
+    "start": "2026-10-15"
   },
-  "retrieved_at": "2026-10-14T13:45:15.571470+02:00",
+  "retrieved_at": "2026-10-15T13:21:26.924489+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Kino 9",
-      "booking_url": null,
-      "cinema_id": "filmpalast",
-      "cinema_name": "Filmpalast am ZKM",
-      "date": "2026-10-14",
-      "dimension": null,
-      "director_names": [],
-      "format_label": "englisch",
-      "movie_title": "The Social Reckoning",
-      "movie_url": "https://filmpalast.net/programmuebersicht/movie/the-social-reckoning",
-      "original_language": "English",
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "17:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "IMAX",

@@ -1869,6 +1869,30 @@
     "status": "confident",
     "verified_at": "2026-08-07T07:39:30.192278+00:00"
   },
+  "flesh fuel": {
+    "authoritative_titles": [
+      "Du fioul dans les artères",
+      "Flesh & Fuel",
+      "Du fioul dans les artères",
+      "",
+      "Flesh and Fuel"
+    ],
+    "imdb_id": "tt35495082",
+    "key": "flesh fuel",
+    "matched_by": [
+      "English title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Flesh & Fuel",
+    "matched_year": 2026,
+    "query_title": "Flesh & Fuel",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-15T11:21:36.683252+00:00"
+  },
   "forgotten island": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -3171,6 +3195,56 @@
     "status": "search_fallback",
     "verified_at": "2026-09-27T11:58:00.126892+00:00"
   },
+  "possible love koreanisch mit engl ut": {
+    "authoritative_titles": [
+      "Possible Love",
+      "Possible Love",
+      "가능한 사랑",
+      "Ga-neung-han sa-rang",
+      "Possible Love"
+    ],
+    "imdb_id": "tt37803364",
+    "key": "possible love koreanisch mit engl ut",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Possible Love",
+    "matched_year": 2026,
+    "query_title": "Possible Love (koreanisch mit engl.UT)",
+    "reason": null,
+    "resolved_via": "possible love koreanisch mit engl ut|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-15T11:21:37.447742+00:00"
+  },
+  "possible love koreanisch mit engl ut|2026": {
+    "authoritative_titles": [
+      "Possible Love",
+      "Possible Love",
+      "가능한 사랑",
+      "Ga-neung-han sa-rang",
+      "Possible Love"
+    ],
+    "imdb_id": "tt37803364",
+    "key": "possible love koreanisch mit engl ut|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Possible Love",
+    "matched_year": 2026,
+    "query_title": "Possible Love (koreanisch mit engl.UT)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-15T11:21:37.447742+00:00"
+  },
   "practical magic 2": {
     "authoritative_titles": [
       "Zauberhafte Schwestern 2",
@@ -3630,7 +3704,7 @@
     "matched_year": 2026,
     "query_title": "Resident Evil",
     "reason": null,
-    "resolved_via": "resident evil engl|2026",
+    "resolved_via": "resident evil|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-05T14:29:16.742953+00:00"
@@ -3711,7 +3785,7 @@
     "matched_year": 2026,
     "query_title": "Resident Evil",
     "reason": null,
-    "resolved_via": "resident evil engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-05T14:29:16.742953+00:00"
@@ -3887,6 +3961,43 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-12T15:14:52.573645+00:00"
+  },
+  "singin in the rain": {
+    "authoritative_titles": [
+      "Du sollst mein Glücksstern sein",
+      "Singin' in the Rain",
+      "Singin' in the Rain",
+      "Singing in the Rain",
+      "Співаючі під дощем",
+      "雨中情",
+      "百花嬉春",
+      "Sjungande regndroppar",
+      "Dziedošie lietū",
+      "Cantando en la lluvia",
+      "Yağış altında oxuyanlar",
+      "Zingend in de regen",
+      "Tragoudontas sti vrohi",
+      "Avaz dar zir-e baran",
+      "Ame ni utaeba",
+      "Жаңбыр астындағы әншілер",
+      "Dainuojantys lietuje",
+      "Yomg'ir ostidagi qo'shiqchilar"
+    ],
+    "imdb_id": "tt0045152",
+    "key": "singin in the rain",
+    "matched_by": [
+      "English title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Singin' in the Rain",
+    "matched_year": 1952,
+    "query_title": "Singin in the Rain",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-15T11:21:35.833858+00:00"
   },
   "sinn und sinnlichkeit": {
     "authoritative_titles": [
