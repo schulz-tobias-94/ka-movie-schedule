@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-22",
-    "start": "2026-10-15"
+    "end": "2026-10-23",
+    "start": "2026-10-16"
   },
-  "retrieved_at": "2026-10-15T13:20:51.445804+02:00",
+  "retrieved_at": "2026-10-16T13:15:33.569381+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-15",
-      "dimension": null,
-      "director_names": [
-        "Alan Crosland"
-      ],
-      "format_label": "OV",
-      "movie_title": "The Jazz Singer",
-      "movie_url": "https://www.schauburg.de/film/the-jazz-singer",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 88,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-15",
-      "dimension": null,
-      "director_names": [
-        "Alejandro González Iñárritu"
-      ],
-      "format_label": "OV",
-      "movie_title": "Digger",
-      "movie_url": "https://www.schauburg.de/film/digger",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -370,6 +322,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "19:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-10-24",
+      "dimension": null,
+      "director_names": [
+        "Frederike Migom"
+      ],
+      "format_label": "OmeU",
+      "movie_title": "Everyone's Sorry Nowadays",
+      "movie_url": "https://www.schauburg.de/film/pride-pictures-everyones-sorry-nowadays",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 92,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "16:00:00"
     }
   ],
   "success": true

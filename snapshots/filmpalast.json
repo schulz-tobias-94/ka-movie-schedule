@@ -7,10 +7,10 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-22",
-    "start": "2026-10-15"
+    "end": "2026-10-23",
+    "start": "2026-10-16"
   },
-  "retrieved_at": "2026-10-15T13:21:26.924489+02:00",
+  "retrieved_at": "2026-10-16T13:16:07.591998+02:00",
   "schema_version": 4,
   "screenings": [
     {

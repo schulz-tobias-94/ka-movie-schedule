@@ -36,6 +36,52 @@
     "status": "confident",
     "verified_at": "2026-08-18T07:01:51.120961+00:00"
   },
+  "ali g who iz i engl": {
+    "authoritative_titles": [
+      "Ali G: Who Iz I?",
+      "Ali G: Who Iz I?",
+      "Ali G: Who Iz I?",
+      ""
+    ],
+    "imdb_id": "tt43655467",
+    "key": "ali g who iz i engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Ali G: Who Iz I?",
+    "matched_year": 2026,
+    "query_title": "Ali G: Who Iz I? (engl",
+    "reason": null,
+    "resolved_via": "ali g who iz i engl|2026",
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-10-16T11:16:14.311678+00:00"
+  },
+  "ali g who iz i engl|2026": {
+    "authoritative_titles": [
+      "Ali G: Who Iz I?",
+      "Ali G: Who Iz I?",
+      "Ali G: Who Iz I?",
+      ""
+    ],
+    "imdb_id": "tt43655467",
+    "key": "ali g who iz i engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "original language"
+    ],
+    "matched_title": "Ali G: Who Iz I?",
+    "matched_year": 2026,
+    "query_title": "Ali G: Who Iz I? (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 81,
+    "status": "confident",
+    "verified_at": "2026-10-16T11:16:14.311678+00:00"
+  },
   "always lalisa": {
     "authoritative_titles": [
       "Always Lalisa",
@@ -3803,6 +3849,33 @@
     "score": 56,
     "status": "search_fallback",
     "verified_at": "2026-10-13T14:05:55.752411+00:00"
+  },
+  "room in rome": {
+    "authoritative_titles": [
+      "Room in Rome",
+      "Room in Rome",
+      "Habitación en Roma",
+      "罗马欲乐园",
+      "Pokoj v Římě",
+      "Room in Rome - Eine Nacht in Rom",
+      "Eine Nacht in Rom",
+      "Սենյակը Հռոմում"
+    ],
+    "imdb_id": "tt1263750",
+    "key": "room in rome",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Room in Rome",
+    "matched_year": 2010,
+    "query_title": "Room in Rome",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-16T11:16:13.571375+00:00"
   },
   "runner": {
     "authoritative_titles": [
