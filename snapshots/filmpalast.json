@@ -7,34 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-23",
-    "start": "2026-10-16"
+    "end": "2026-10-24",
+    "start": "2026-10-17"
   },
-  "retrieved_at": "2026-10-16T13:16:07.591998+02:00",
+  "retrieved_at": "2026-10-17T12:35:26.356038+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "IMAX",
-      "booking_url": null,
-      "cinema_id": "filmpalast",
-      "cinema_name": "Filmpalast am ZKM",
-      "date": "2026-10-16",
-      "dimension": null,
-      "director_names": [],
-      "format_label": "englisch",
-      "movie_title": "Street Fighter",
-      "movie_url": "https://filmpalast.net/programmuebersicht/movie/street-fighter",
-      "original_language": "English",
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "23:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Kino 1",
@@ -44,7 +22,7 @@
       "date": "2026-10-17",
       "dimension": null,
       "director_names": [],
-      "format_label": "OmU · englisch mit Untertiteln",
+      "format_label": "englisch mit Untertiteln · OmU",
       "movie_title": "Always Lalisa",
       "movie_url": "https://filmpalast.net/programmuebersicht/movie/always-lalisa",
       "original_language": "English",

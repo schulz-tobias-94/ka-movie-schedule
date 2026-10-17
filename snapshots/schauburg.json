@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-23",
-    "start": "2026-10-16"
+    "end": "2026-10-24",
+    "start": "2026-10-17"
   },
-  "retrieved_at": "2026-10-16T13:15:33.569381+02:00",
+  "retrieved_at": "2026-10-17T12:34:54.794884+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-16",
-      "dimension": null,
-      "director_names": [
-        "Georgia Oakley"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Sinn und Sinnlichkeit",
-      "movie_url": "https://www.schauburg.de/film/sinn-und-sinnlichkeit",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 132,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-16",
-      "dimension": null,
-      "director_names": [
-        "Lance Oppenheim"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Primetime",
-      "movie_url": "https://www.schauburg.de/film/primetime",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 110,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,

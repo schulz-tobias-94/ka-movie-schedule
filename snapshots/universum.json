@@ -7,82 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-23",
-    "start": "2026-10-16"
+    "end": "2026-10-24",
+    "start": "2026-10-17"
   },
-  "retrieved_at": "2026-10-16T13:16:08.917966+02:00",
+  "retrieved_at": "2026-10-17T12:35:27.492817+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14252",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-16",
-      "dimension": "2D",
-      "director_names": [
-        "Aaron Sorkin"
-      ],
-      "format_label": "OmU",
-      "movie_title": "The Social Reckoning",
-      "movie_url": "https://www.universum-city.de/de/programm/1711129",
-      "original_language": "English",
-      "original_title": "The Social Reckoning",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 113,
-      "screening_url": "https://www.universum-city.de/de/programm/1711129/45980938",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14360",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-16",
-      "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger",
-      "movie_url": "https://www.universum-city.de/de/programm/1514327",
-      "original_language": "English",
-      "original_title": "Digger",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 129,
-      "screening_url": "https://www.universum-city.de/de/programm/1514327/45997850",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14325",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-16",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OmU",
-      "movie_title": "Resident Evil",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Resident Evil",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 97,
-      "screening_url": null,
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 5",
@@ -91,16 +21,18 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-17",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Nelson"
+      ],
       "format_label": null,
       "movie_title": "Jailer 2",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1525693",
       "original_language": "Tamil",
       "original_title": "ஜெயிலர் 2",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 160,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1525693/45783844",
       "subtitle_language": "English",
       "technology": "D-BOX",
       "time": "12:00:00"
@@ -113,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-17",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Kitao Sakurai"
+      ],
       "format_label": "OmU",
       "movie_title": "Street Fighter (engl.OmU)",
       "movie_url": null,
@@ -122,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 120,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1695653/45862600",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "17:45:00"
@@ -157,7 +91,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-17",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -166,7 +102,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 118,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1537421/45980885",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:15:00"
@@ -223,10 +159,12 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-18",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Nelson"
+      ],
       "format_label": null,
       "movie_title": "Jailer 2",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1525693",
       "original_language": "Tamil",
       "original_title": "ஜெயிலர் 2",
       "production_countries": [],
@@ -245,7 +183,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-18",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -289,7 +229,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-18",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Kitao Sakurai"
+      ],
       "format_label": "OmU",
       "movie_title": "Street Fighter (engl.OmU)",
       "movie_url": null,
@@ -311,12 +253,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-19",
       "dimension": "2D",
-      "director_names": [
-        "Aaron Sorkin"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
-      "movie_url": "https://www.universum-city.de/de/programm/1711129",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "The Social Reckoning",
       "production_countries": [],
@@ -357,7 +297,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-19",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -401,7 +343,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-20",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -423,12 +367,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-20",
       "dimension": "2D",
-      "director_names": [
-        "Alejandro G. Iñárritu"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Digger",
-      "movie_url": "https://www.universum-city.de/de/programm/1514327",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Digger",
       "production_countries": [],
@@ -469,7 +411,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-21",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Kitao Sakurai"
+      ],
       "format_label": "OmU",
       "movie_title": "Street Fighter (engl.OmU)",
       "movie_url": null,
@@ -526,6 +470,28 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14277",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-10-24",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OV",
+      "movie_title": "Ali G: Who Iz I? (engl.OV)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Ali G: Who Iz I?",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 89,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "18:45:00"
     }
   ],
   "success": true

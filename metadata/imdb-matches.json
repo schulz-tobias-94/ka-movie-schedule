@@ -1884,6 +1884,28 @@
     "status": "search_fallback",
     "verified_at": "2026-08-09T07:13:22.400063+00:00"
   },
+  "everyone s sorry nowadays": {
+    "authoritative_titles": [
+      "Tegenwoordig heet iedereen Sorry",
+      "Everyone's Sorry Nowadays",
+      "Tegenwoordig heet iedereen Sorry"
+    ],
+    "imdb_id": "tt38786100",
+    "key": "everyone s sorry nowadays",
+    "matched_by": [
+      "English title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Everyone's Sorry Nowadays",
+    "matched_year": 2026,
+    "query_title": "Everyone's Sorry Nowadays",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-10-17T10:35:33.205752+00:00"
+  },
   "exit 8": {
     "authoritative_titles": [
       "Exit 8",
