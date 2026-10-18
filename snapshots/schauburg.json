@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-24",
-    "start": "2026-10-17"
+    "end": "2026-10-25",
+    "start": "2026-10-18"
   },
-  "retrieved_at": "2026-10-17T12:34:54.794884+02:00",
+  "retrieved_at": "2026-10-18T12:57:34.771554+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-17",
-      "dimension": null,
-      "director_names": [
-        "Louisa Proske"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Met Opera 2026/27: Giuseppe Verdi MACBETH",
-      "movie_url": "https://www.schauburg.de/film/met-opera-2026/27-giuseppe-verdi-macbeth",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 210,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,

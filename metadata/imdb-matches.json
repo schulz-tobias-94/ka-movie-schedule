@@ -435,6 +435,20 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:37.468152+00:00"
   },
+  "bts world tour arirang in buenos aires live viewing": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "bts world tour arirang in buenos aires live viewing",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "BTS WORLD TOUR 'ARIRANG' IN BUENOS AIRES: LIVE VIEWING",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-10-18T10:58:16.178673+00:00"
+  },
   "cars engl": {
     "authoritative_titles": [
       "Cars",
@@ -590,6 +604,33 @@
     "key": "clayface",
     "matched_by": [
       "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Clayface",
+    "matched_year": 2026,
+    "query_title": "Clayface",
+    "reason": null,
+    "resolved_via": "clayface|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-18T10:58:14.621658+00:00"
+  },
+  "clayface|2026": {
+    "authoritative_titles": [
+      "Clayface",
+      "Clayface",
+      "Clayface",
+      "",
+      "Moliaveidis"
+    ],
+    "imdb_id": "tt34890576",
+    "key": "clayface|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
       "original language"
     ],
     "matched_title": "Clayface",
@@ -597,9 +638,9 @@
     "query_title": "Clayface",
     "reason": null,
     "resolved_via": null,
-    "score": 56,
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-10-14T11:45:24.089453+00:00"
+    "verified_at": "2026-10-18T10:58:14.621658+00:00"
   },
   "cobain montage of heck engl": {
     "authoritative_titles": [
@@ -2074,6 +2115,20 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.881519+00:00"
+  },
+  "gupi und der könig der nicht lachen kann|2026": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "gupi und der könig der nicht lachen kann|2026",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Gupi und der König, der nicht lachen kann",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 75,
+    "status": "search_fallback",
+    "verified_at": "2026-10-18T10:58:15.273484+00:00"
   },
   "hanuman ansh": {
     "authoritative_titles": [
@@ -4651,6 +4706,29 @@
     "status": "confident",
     "verified_at": "2026-10-08T13:21:52.531139+00:00"
   },
+  "street fighter|2026": {
+    "authoritative_titles": [
+      "Street Fighter",
+      "Street Fighter",
+      "Street Fighter",
+      "",
+      "Street Fighter: le film",
+      "สตรีท ไฟเตอร์"
+    ],
+    "imdb_id": "tt27419420",
+    "key": "street fighter|2026",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Street Fighter",
+    "matched_year": 2026,
+    "query_title": "Street Fighter",
+    "reason": null,
+    "resolved_via": "street fighter engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-08T13:21:52.531139+00:00"
+  },
   "tad stones und die wunderlampe": {
     "authoritative_titles": [
       "Tad Stones und die Wunderlampe",
@@ -5994,6 +6072,31 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.674901+00:00"
+  },
+  "довженко перший погляд": {
+    "authoritative_titles": [
+      "Dovzhenko. Der erste Blick",
+      "Dovzhenko. First Sight",
+      "Довженко. Перший погляд",
+      "Режисер",
+      "Довженко. Легенда українського кіно",
+      "Dovzhenko. Legend of Ukrainian Cinema",
+      "Dovženko"
+    ],
+    "imdb_id": "tt37599515",
+    "key": "довженко перший погляд",
+    "matched_by": [
+      "original title",
+      "original language"
+    ],
+    "matched_title": "Dovzhenko. First Sight",
+    "matched_year": 2026,
+    "query_title": "Довженко. Перший погляд",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-18T10:58:15.772737+00:00"
   },
   "родичі": {
     "authoritative_titles": [],
