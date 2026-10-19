@@ -7,34 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-25",
-    "start": "2026-10-18"
+    "end": "2026-10-26",
+    "start": "2026-10-19"
   },
-  "retrieved_at": "2026-10-18T12:58:06.100053+02:00",
+  "retrieved_at": "2026-10-19T15:02:21.947530+02:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "IMAX",
-      "booking_url": null,
-      "cinema_id": "filmpalast",
-      "cinema_name": "Filmpalast am ZKM",
-      "date": "2026-10-18",
-      "dimension": null,
-      "director_names": [],
-      "format_label": "englisch",
-      "movie_title": "Street Fighter",
-      "movie_url": "https://filmpalast.net/programmuebersicht/movie/street-fighter",
-      "original_language": "English",
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": null,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "IMAX",

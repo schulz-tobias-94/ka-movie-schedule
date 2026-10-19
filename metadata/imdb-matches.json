@@ -13,6 +13,66 @@
     "status": "search_fallback",
     "verified_at": "2026-09-27T11:58:03.395024+00:00"
   },
+  "a new dawn": {
+    "authoritative_titles": [
+      "A New Dawn",
+      "A New Dawn",
+      "花緑青が明ける日に",
+      "Hana rokushō ga akeru hi ni",
+      "Hana rokushou ga akeru hi ni",
+      "A New Dawn",
+      "花绿青绽放之日",
+      "青空花火物語",
+      "ดอกไม้ไฟแห่งรุงอรุณ",
+      "화록청이 밝아오는 날에"
+    ],
+    "imdb_id": "tt32192760",
+    "key": "a new dawn",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "A New Dawn",
+    "matched_year": 2026,
+    "query_title": "A New Dawn",
+    "reason": null,
+    "resolved_via": "a new dawn|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-19T13:02:30.908358+00:00"
+  },
+  "a new dawn|2026": {
+    "authoritative_titles": [
+      "A New Dawn",
+      "A New Dawn",
+      "花緑青が明ける日に",
+      "Hana rokushō ga akeru hi ni",
+      "Hana rokushou ga akeru hi ni",
+      "A New Dawn",
+      "花绿青绽放之日",
+      "青空花火物語",
+      "ดอกไม้ไฟแห่งรุงอรุณ",
+      "화록청이 밝아오는 날에"
+    ],
+    "imdb_id": "tt32192760",
+    "key": "a new dawn|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "A New Dawn",
+    "matched_year": 2026,
+    "query_title": "A New Dawn",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-19T13:02:30.908358+00:00"
+  },
   "a sad and beautiful world": {
     "authoritative_titles": [
       "A Sad and Beautiful World",
@@ -2481,6 +2541,56 @@
     "score": 86,
     "status": "confident",
     "verified_at": "2026-10-08T13:21:53.206498+00:00"
+  },
+  "jailer 2 tamil mit englischen untertiteln": {
+    "authoritative_titles": [
+      "Jailer 2",
+      "Jailer 2",
+      "ஜெயிலர் 2",
+      "Rajini The Jailer 2",
+      "Thalaivar 172"
+    ],
+    "imdb_id": "tt33318732",
+    "key": "jailer 2 tamil mit englischen untertiteln",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Jailer 2",
+    "matched_year": 2026,
+    "query_title": "Jailer 2 (Tamil mit englischen Untertiteln)",
+    "reason": null,
+    "resolved_via": "jailer 2 tamil mit englischen untertiteln|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-19T13:02:31.079565+00:00"
+  },
+  "jailer 2 tamil mit englischen untertiteln|2026": {
+    "authoritative_titles": [
+      "Jailer 2",
+      "Jailer 2",
+      "ஜெயிலர் 2",
+      "Rajini The Jailer 2",
+      "Thalaivar 172"
+    ],
+    "imdb_id": "tt33318732",
+    "key": "jailer 2 tamil mit englischen untertiteln|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Jailer 2",
+    "matched_year": 2026,
+    "query_title": "Jailer 2 (Tamil mit englischen Untertiteln)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-19T13:02:31.079565+00:00"
   },
   "jailer 2|2026": {
     "authoritative_titles": [
