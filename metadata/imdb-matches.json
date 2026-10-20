@@ -627,6 +627,28 @@
     "status": "confident",
     "verified_at": "2026-08-11T07:33:30.485997+00:00"
   },
+  "chopin eine sonate in paris": {
+    "authoritative_titles": [
+      "Chopin - Eine Sonate in Paris",
+      "Chopin, a Sonata in Paris",
+      "Chopin, Chopin!",
+      "Chopin"
+    ],
+    "imdb_id": "tt33305572",
+    "key": "chopin eine sonate in paris",
+    "matched_by": [
+      "German localized title",
+      "director match"
+    ],
+    "matched_title": "Chopin, a Sonata in Paris",
+    "matched_year": 2025,
+    "query_title": "Chopin - Eine Sonate in Paris",
+    "reason": null,
+    "resolved_via": null,
+    "score": 80,
+    "status": "confident",
+    "verified_at": "2026-10-20T11:29:26.770922+00:00"
+  },
   "chéri ich komme": {
     "authoritative_titles": [
       "Chéri, ich komme! – Die Erfindung der Lust.",
@@ -676,6 +698,56 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-18T10:58:14.621658+00:00"
+  },
+  "clayface engl": {
+    "authoritative_titles": [
+      "Clayface",
+      "Clayface",
+      "Clayface",
+      "",
+      "Moliaveidis"
+    ],
+    "imdb_id": "tt34890576",
+    "key": "clayface engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Clayface",
+    "matched_year": 2026,
+    "query_title": "Clayface (engl",
+    "reason": null,
+    "resolved_via": "clayface engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-20T11:29:27.084379+00:00"
+  },
+  "clayface engl|2026": {
+    "authoritative_titles": [
+      "Clayface",
+      "Clayface",
+      "Clayface",
+      "",
+      "Moliaveidis"
+    ],
+    "imdb_id": "tt34890576",
+    "key": "clayface engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Clayface",
+    "matched_year": 2026,
+    "query_title": "Clayface (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-20T11:29:27.084379+00:00"
   },
   "clayface|2026": {
     "authoritative_titles": [
@@ -2537,7 +2609,7 @@
     "matched_year": 2026,
     "query_title": "Jailer 2",
     "reason": null,
-    "resolved_via": "jailer 2|2026",
+    "resolved_via": null,
     "score": 86,
     "status": "confident",
     "verified_at": "2026-10-08T13:21:53.206498+00:00"
@@ -3830,6 +3902,29 @@
     "score": 50,
     "status": "confident",
     "verified_at": "2026-09-30T12:28:56.745809+00:00"
+  },
+  "rascal does not dream of a dear friend": {
+    "authoritative_titles": [
+      "Rascal Does Not Dream of a Dear Friend",
+      "Rascal Does Not Dream of a Dear Friend",
+      "青春ブタ野郎はディアフレンドの夢を見ない",
+      "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+      "Seishun Buta Yarō wa Dear Friend no Yume o Minai"
+    ],
+    "imdb_id": "tt39927807",
+    "key": "rascal does not dream of a dear friend",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Rascal Does Not Dream of a Dear Friend",
+    "matched_year": 2026,
+    "query_title": "Rascal Does Not Dream of a Dear Friend",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-20T11:29:27.403183+00:00"
   },
   "red rue express": {
     "authoritative_titles": [
@@ -6140,6 +6235,20 @@
     "score": 81,
     "status": "confident",
     "verified_at": "2026-08-07T07:39:31.047816+00:00"
+  },
+  "wtf did i see 2": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "wtf did i see 2",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "WTF DID I SEE 2",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-10-20T11:29:27.175884+00:00"
   },
   "wuthering heights sturmhöhe": {
     "authoritative_titles": [
