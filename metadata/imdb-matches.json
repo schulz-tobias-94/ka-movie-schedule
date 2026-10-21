@@ -1697,7 +1697,7 @@
     "matched_year": 2026,
     "query_title": "Digger",
     "reason": null,
-    "resolved_via": "digger|2026",
+    "resolved_via": null,
     "score": 64,
     "status": "confident",
     "verified_at": "2026-10-05T14:29:15.752329+00:00"
@@ -2760,6 +2760,20 @@
     "status": "confident",
     "verified_at": "2026-08-26T07:06:28.777480+00:00"
   },
+  "kult sneak": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "kult sneak",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Kult-Sneak",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-10-21T11:41:52.599739+00:00"
+  },
   "lifehack": {
     "authoritative_titles": [
       "LifeHack",
@@ -3421,6 +3435,32 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-08-03T12:37:37.411290+00:00"
+  },
+  "ozzy black sabbath back to the beginning": {
+    "authoritative_titles": [
+      "Ozzy & Black Sabbath: Back To The Beginning",
+      "Back to the Beginning: Ozzy's Final Bow",
+      "Back to the Beginning: Ozzy's Final Bow",
+      "Back To The Beginning: The Final Show",
+      "Ozzy Osbourne Back To The Beginning",
+      "Ozzy Black Sabbath Back To The Beginning Live In Birmingham England.",
+      "Back to the Beginning: Ozzy's Final Bow",
+      "Ozzy & Black Sabbath: Back to the Beginning"
+    ],
+    "imdb_id": "tt46055956",
+    "key": "ozzy black sabbath back to the beginning",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Back to the Beginning: Ozzy's Final Bow",
+    "matched_year": 2026,
+    "query_title": "Ozzy & Black Sabbath: Back To The Beginning",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-21T11:41:52.924680+00:00"
   },
   "paw patrol der dino film engl": {
     "authoritative_titles": [
