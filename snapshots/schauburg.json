@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-31",
-    "start": "2026-10-24"
+    "end": "2026-11-01",
+    "start": "2026-10-25"
   },
-  "retrieved_at": "2026-10-24T12:51:27.889323+02:00",
+  "retrieved_at": "2026-10-25T12:17:23.003295+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-24",
-      "dimension": null,
-      "director_names": [
-        "Frederike Migom"
-      ],
-      "format_label": "OmeU",
-      "movie_title": "Everyone's Sorry Nowadays",
-      "movie_url": "https://www.schauburg.de/film/pride-pictures-everyones-sorry-nowadays",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 92,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "16:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,

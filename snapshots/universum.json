@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-10-31",
-    "start": "2026-10-24"
+    "end": "2026-11-01",
+    "start": "2026-10-25"
   },
-  "retrieved_at": "2026-10-24T12:52:06.252399+02:00",
+  "retrieved_at": "2026-10-25T12:17:59.711699+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14414",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-24",
-      "dimension": "2D",
-      "director_names": [
-        "Arkin Aktaç"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Gupi und der König, der nicht lachen kann",
-      "movie_url": "https://www.universum-city.de/de/programm/1960310",
-      "original_language": "Turkish",
-      "original_title": "Gupi ve Gülmeyen Kral",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 75,
-      "screening_url": "https://www.universum-city.de/de/programm/1960310/46116262",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "13:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 5",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15105",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-24",
-      "dimension": "2D",
-      "director_names": [
-        "Michael Showalter"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Verity",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 118,
-      "screening_url": "https://www.universum-city.de/de/programm/1537421/46123688",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "17:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14277",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-24",
-      "dimension": "2D",
-      "director_names": [
-        "Sacha Baron Cohen"
-      ],
-      "format_label": "OV",
-      "movie_title": "Ali G: Who Iz I? (engl.OV)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Ali G: Who Iz I?",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 89,
-      "screening_url": "https://www.universum-city.de/de/programm/1961464/45987101",
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 3",
@@ -104,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 75,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1960310/46116295",
       "subtitle_language": "German",
       "technology": null,
       "time": "11:30:00"
@@ -117,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Lee Chang-dong"
+      ],
       "format_label": "OmU",
       "movie_title": "Possible Love (koreanisch mit engl.UT)",
       "movie_url": null,
@@ -126,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 165,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1804350/45878766",
       "subtitle_language": "German",
       "technology": null,
       "time": "11:30:00"
@@ -139,16 +69,18 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Aakash Kaushik"
+      ],
       "format_label": null,
       "movie_title": "Udta Teer",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1638383",
       "original_language": "Hindi",
       "original_title": "उड़ता तीर",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 144,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1638383/45878761",
       "subtitle_language": "English",
       "technology": null,
       "time": "11:30:00"
@@ -161,7 +93,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Nelson"
+      ],
       "format_label": null,
       "movie_title": "Jailer 2 (Tamil mit englischen Untertiteln)",
       "movie_url": null,
@@ -170,7 +104,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 160,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1525693/46116252",
       "subtitle_language": "English",
       "technology": "D-BOX",
       "time": "12:00:00"
@@ -183,7 +117,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Kitao Sakurai"
+      ],
       "format_label": "OmU",
       "movie_title": "Street Fighter",
       "movie_url": "https://www.universum-city.de/de/programm/1695653",
@@ -192,7 +128,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 120,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1695653/46116299",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:30:00"
@@ -205,7 +141,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-25",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse",
       "movie_url": null,
@@ -214,7 +152,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 118,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1537421/46123674",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:00:00"
@@ -271,7 +209,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Kitao Sakurai"
+      ],
       "format_label": "OmU",
       "movie_title": "Street Fighter",
       "movie_url": "https://www.universum-city.de/de/programm/1695653",
@@ -342,7 +282,7 @@
       "director_names": [],
       "format_label": "OmU",
       "movie_title": "A New Dawn",
-      "movie_url": "https://www.universum-city.de/de/programm/1558098",
+      "movie_url": null,
       "original_language": "Japanese",
       "original_title": "花緑青が明ける日に",
       "production_countries": [],
@@ -383,7 +323,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse",
       "movie_url": null,
@@ -429,7 +371,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-28",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Lee Chang-dong"
+      ],
       "format_label": "OmU",
       "movie_title": "Possible Love (koreanisch mit engl.UT)",
       "movie_url": null,
@@ -555,7 +499,7 @@
     },
     {
       "alternate_titles": [],
-      "auditorium": "Universum 5",
+      "auditorium": "Universum 1",
       "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14606",
       "cinema_id": "universum",
       "cinema_name": "Universum City Kinos Karlsruhe",
@@ -596,6 +540,50 @@
       "subtitle_language": "English",
       "technology": null,
       "time": "22:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 2",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13098",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-01",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Der Herr der Ringe - die Gefährten (Extended Version)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring – Extended",
+      "production_countries": [],
+      "release_year": 2001,
+      "runtime_minutes": 228,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "18:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14513",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-01",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Çatli 2",
+      "movie_url": null,
+      "original_language": "Turkish",
+      "original_title": "Çatlı 2",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 118,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:30:00"
     }
   ],
   "success": true

@@ -1406,6 +1406,20 @@
     "status": "confident",
     "verified_at": "2026-10-04T12:16:43.213710+00:00"
   },
+  "der herr der ringe die gefährten extended version|2001": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "der herr der ringe die gefährten extended version|2001",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Der Herr der Ringe - die Gefährten (Extended Version)",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -4,
+    "status": "search_fallback",
+    "verified_at": "2026-10-25T11:18:08.787466+00:00"
+  },
   "der klang der stradivari": {
     "authoritative_titles": [
       "Der Klang der Stradivari",
@@ -2305,6 +2319,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-11T12:42:56.059870+00:00"
   },
+  "frühstück klara und die sonne": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "frühstück klara und die sonne",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Frühstück - Klara und die Sonne",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 0,
+    "status": "search_fallback",
+    "verified_at": "2026-10-25T11:18:07.863288+00:00"
+  },
   "ghost 2 big to rig": {
     "authoritative_titles": [
       "GHOST: 2 Big To Rig",
@@ -2855,6 +2883,20 @@
     "status": "confident",
     "verified_at": "2026-10-08T13:21:53.206498+00:00"
   },
+  "jak zyc zeby nie zwariowac poln": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "jak zyc zeby nie zwariowac poln",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Jak zyc, zeby nie zwariowac (poln",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-10-25T11:18:08.906297+00:00"
+  },
   "jap dt omu chihiros reise ins zauberland|2003": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -2925,6 +2967,30 @@
     "score": 50,
     "status": "confident",
     "verified_at": "2026-08-26T07:06:28.777480+00:00"
+  },
+  "klara und die sonne": {
+    "authoritative_titles": [
+      "Klara und die Sonne",
+      "Klara and the Sun",
+      "Klara and the Sun",
+      "Klára a slunce",
+      "Klara və Günəş",
+      "Klara und die Sonne"
+    ],
+    "imdb_id": "tt14371256",
+    "key": "klara und die sonne",
+    "matched_by": [
+      "German localized title",
+      "runtime within five"
+    ],
+    "matched_title": "Klara and the Sun",
+    "matched_year": 2026,
+    "query_title": "Klara und die Sonne",
+    "reason": null,
+    "resolved_via": null,
+    "score": 63,
+    "status": "confident",
+    "verified_at": "2026-10-25T11:18:08.073748+00:00"
   },
   "kult sneak": {
     "authoritative_titles": [],
@@ -6362,7 +6428,7 @@
     "matched_year": 2026,
     "query_title": "Verity - Dunkle Geheimnisse",
     "reason": null,
-    "resolved_via": "verity dunkle geheimnisse engl|2026",
+    "resolved_via": "verity dunkle geheimnisse|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-24T11:39:53.066057+00:00"
@@ -6437,7 +6503,7 @@
     "matched_year": 2026,
     "query_title": "Verity - Dunkle Geheimnisse",
     "reason": null,
-    "resolved_via": "verity dunkle geheimnisse engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-24T11:39:53.066057+00:00"
