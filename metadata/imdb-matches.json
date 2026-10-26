@@ -2897,6 +2897,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-25T11:18:08.906297+00:00"
   },
+  "jak zyc zeby nie zwariowac|2026": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "jak zyc zeby nie zwariowac|2026",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "JAK ZYC ZEBY NIE ZWARIOWAC",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 88,
+    "status": "search_fallback",
+    "verified_at": "2026-10-26T12:52:07.270733+00:00"
+  },
   "jap dt omu chihiros reise ins zauberland|2003": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -4350,7 +4364,7 @@
     "matched_year": 2026,
     "query_title": "Resident Evil",
     "reason": null,
-    "resolved_via": "resident evil|2026",
+    "resolved_via": "resident evil engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-05T14:29:16.742953+00:00"
@@ -4431,7 +4445,7 @@
     "matched_year": 2026,
     "query_title": "Resident Evil",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "resident evil engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-10-05T14:29:16.742953+00:00"
@@ -6428,7 +6442,7 @@
     "matched_year": 2026,
     "query_title": "Verity - Dunkle Geheimnisse",
     "reason": null,
-    "resolved_via": "verity dunkle geheimnisse|2026",
+    "resolved_via": "verity dunkle geheimnisse engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-24T11:39:53.066057+00:00"
@@ -6503,7 +6517,7 @@
     "matched_year": 2026,
     "query_title": "Verity - Dunkle Geheimnisse",
     "reason": null,
-    "resolved_via": null,
+    "resolved_via": "verity dunkle geheimnisse engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-24T11:39:53.066057+00:00"
