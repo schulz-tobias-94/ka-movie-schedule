@@ -2911,6 +2911,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-26T12:52:07.270733+00:00"
   },
+  "jak żyć żeby nie zwariować": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "jak żyć żeby nie zwariować",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Jak żyć, żeby nie zwariować",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 50,
+    "status": "search_fallback",
+    "verified_at": "2026-10-27T12:03:50.135588+00:00"
+  },
   "jap dt omu chihiros reise ins zauberland|2003": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -3713,6 +3727,40 @@
     "score": -100,
     "status": "search_fallback",
     "verified_at": "2026-08-18T07:01:50.608256+00:00"
+  },
+  "other mommy": {
+    "authoritative_titles": [
+      "Other Mommy",
+      "Other Mommy",
+      "Other Mommy",
+      "",
+      "Grandma's House",
+      "Incidents Around the House",
+      "Outra Mamãe",
+      "Malfaisante",
+      "Madre Siniestra",
+      "La Otra Madre",
+      "Mammina",
+      "아더 마미",
+      "แม่...หลอน",
+      "სხვა დედიკო",
+      "Autre maman",
+      "Digər Ana"
+    ],
+    "imdb_id": "tt36586020",
+    "key": "other mommy",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Other Mommy",
+    "matched_year": 2026,
+    "query_title": "Other Mommy",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-27T12:03:49.672205+00:00"
   },
   "ov sneak preview": {
     "authoritative_titles": [],
@@ -6683,6 +6731,20 @@
     "score": 88,
     "status": "search_fallback",
     "verified_at": "2026-10-22T11:44:25.466308+00:00"
+  },
+  "çatlı 2": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "çatlı 2",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Çatlı 2",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 50,
+    "status": "search_fallback",
+    "verified_at": "2026-10-27T12:03:49.890933+00:00"
   },
   "довженко перший погляд": {
     "authoritative_titles": [

@@ -7,82 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-02",
-    "start": "2026-10-26"
+    "end": "2026-11-03",
+    "start": "2026-10-27"
   },
-  "retrieved_at": "2026-10-26T13:51:58.630921+01:00",
+  "retrieved_at": "2026-10-27T13:03:44.128020+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15103",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-26",
-      "dimension": "2D",
-      "director_names": [
-        "James Watkins"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Clayface",
-      "movie_url": "https://www.universum-city.de/de/programm/1698616",
-      "original_language": "English",
-      "original_title": "Clayface",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 108,
-      "screening_url": "https://www.universum-city.de/de/programm/1698616/46123680",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15067",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-26",
-      "dimension": "2D",
-      "director_names": [
-        "Kitao Sakurai"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Street Fighter",
-      "movie_url": "https://www.universum-city.de/de/programm/1695653",
-      "original_language": "English",
-      "original_title": "Street Fighter",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 120,
-      "screening_url": "https://www.universum-city.de/de/programm/1695653/46116297",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14268",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-10-26",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OV",
-      "movie_title": "OV Sneak Preview",
-      "movie_url": null,
-      "original_language": null,
-      "original_title": "$undefined",
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 120,
-      "screening_url": "https://www.universum-city.de/de/programm/1941729/45985444",
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 2",
@@ -91,16 +21,18 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Arkin Aktaç"
+      ],
       "format_label": "OmU",
       "movie_title": "Gupi und der König, der nicht lachen kann",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1960310",
       "original_language": "Turkish",
       "original_title": "Gupi ve Gülmeyen Kral",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 75,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1960310/46116296",
       "subtitle_language": "German",
       "technology": null,
       "time": "15:45:00"
@@ -113,16 +45,18 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Yoshitoshi Shinomiya"
+      ],
       "format_label": "OmU",
       "movie_title": "A New Dawn",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1558098",
       "original_language": "Japanese",
       "original_title": "花緑青が明ける日に",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 75,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1558098/46123675",
       "subtitle_language": "German",
       "technology": null,
       "time": "18:00:00"
@@ -135,7 +69,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "James Watkins"
+      ],
       "format_label": "OV",
       "movie_title": "Clayface (engl.OV)",
       "movie_url": null,
@@ -144,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 108,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1698616/46116321",
       "subtitle_language": null,
       "technology": null,
       "time": "18:00:00"
@@ -157,7 +93,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse",
       "movie_url": null,
@@ -166,7 +104,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 118,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1537421/46116257",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:00:00"
@@ -179,10 +117,12 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-28",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Arkin Aktaç"
+      ],
       "format_label": "OmU",
       "movie_title": "Gupi und der König, der nicht lachen kann",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1960310",
       "original_language": "Turkish",
       "original_title": "Gupi ve Gülmeyen Kral",
       "production_countries": [],
@@ -226,7 +166,7 @@
       "director_names": [],
       "format_label": "OmU",
       "movie_title": "The Social Reckoning",
-      "movie_url": "https://www.universum-city.de/de/programm/1711129",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "The Social Reckoning",
       "production_countries": [],
@@ -267,9 +207,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-29",
       "dimension": "2D",
-      "director_names": [
-        "Kitao Sakurai"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Street Fighter",
       "movie_url": "https://www.universum-city.de/de/programm/1695653",
@@ -401,9 +339,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-10-30",
       "dimension": "2D",
-      "director_names": [
-        "James Watkins"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Clayface",
       "movie_url": "https://www.universum-city.de/de/programm/1698616",
@@ -535,10 +471,12 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-01",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Arkin Aktaç"
+      ],
       "format_label": "OmU",
       "movie_title": "Gupi und der König, der nicht lachen kann",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1960310",
       "original_language": "Turkish",
       "original_title": "Gupi ve Gülmeyen Kral",
       "production_countries": [],
@@ -557,9 +495,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-01",
       "dimension": "2D",
-      "director_names": [
-        "James Watkins"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Clayface",
       "movie_url": "https://www.universum-city.de/de/programm/1698616",
@@ -660,6 +596,50 @@
       "subtitle_language": null,
       "technology": null,
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15134",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-03",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Clayface",
+      "movie_url": "https://www.universum-city.de/de/programm/1698616",
+      "original_language": "English",
+      "original_title": "Clayface",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 108,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "17:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15185",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-03",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Resident Evil (engl. OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Resident Evil",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 97,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "18:00:00"
     }
   ],
   "success": true
