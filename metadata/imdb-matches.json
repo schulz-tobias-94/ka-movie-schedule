@@ -2395,6 +2395,76 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.881519+00:00"
   },
+  "godzilla minus zero japanisch mit engl ut": {
+    "authoritative_titles": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero",
+      "ゴジラ-0.0",
+      "超大作怪獣映画",
+      "G-0.0",
+      "Gojira -0.0",
+      "ゴジラ-0.0（ゴジラマイナスゼロ）",
+      "ゴジラマイナスゼロ",
+      "고지라 마이너스 제로",
+      "고질라-0.0",
+      "고지라-0.0",
+      "Godzilla -0.0",
+      "גודזילה מינוס אפס",
+      "Godzilla Trừ Không",
+      "ก็อดซิลล่า ไมนัส ซีโร่"
+    ],
+    "imdb_id": "tt34384661",
+    "key": "godzilla minus zero japanisch mit engl ut",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Godzilla Minus Zero",
+    "matched_year": 2026,
+    "query_title": "Godzilla Minus Zero (japanisch mit engl.Ut.)",
+    "reason": null,
+    "resolved_via": "godzilla minus zero japanisch mit engl ut|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-29T12:54:10.054974+00:00"
+  },
+  "godzilla minus zero japanisch mit engl ut|2026": {
+    "authoritative_titles": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero",
+      "ゴジラ-0.0",
+      "超大作怪獣映画",
+      "G-0.0",
+      "Gojira -0.0",
+      "ゴジラ-0.0（ゴジラマイナスゼロ）",
+      "ゴジラマイナスゼロ",
+      "고지라 마이너스 제로",
+      "고질라-0.0",
+      "고지라-0.0",
+      "Godzilla -0.0",
+      "גודזילה מינוס אפס",
+      "Godzilla Trừ Không",
+      "ก็อดซิลล่า ไมนัส ซีโร่"
+    ],
+    "imdb_id": "tt34384661",
+    "key": "godzilla minus zero japanisch mit engl ut|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Godzilla Minus Zero",
+    "matched_year": 2026,
+    "query_title": "Godzilla Minus Zero (japanisch mit engl.Ut.)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-29T12:54:10.054974+00:00"
+  },
   "gupi und der könig der nicht lachen kann|2026": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -3033,6 +3103,33 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-10-21T11:41:52.599739+00:00"
+  },
+  "les parapluies de cherbourg": {
+    "authoritative_titles": [
+      "Die Regenschirme von Cherbourg",
+      "The Umbrellas of Cherbourg",
+      "Les Parapluies de Cherbourg",
+      "秋水伊人",
+      "瑟堡的雨伞",
+      "Os Guarda-Chuvas do Amor",
+      "쉘부르의 우산",
+      "Paraplyene i Cherbourg"
+    ],
+    "imdb_id": "tt0058450",
+    "key": "les parapluies de cherbourg",
+    "matched_by": [
+      "original title",
+      "director match",
+      "runtime within fifteen"
+    ],
+    "matched_title": "The Umbrellas of Cherbourg",
+    "matched_year": 1964,
+    "query_title": "Les Parapluies de Cherbourg",
+    "reason": null,
+    "resolved_via": null,
+    "score": 85,
+    "status": "confident",
+    "verified_at": "2026-10-29T12:54:08.494514+00:00"
   },
   "lifehack": {
     "authoritative_titles": [
@@ -4282,6 +4379,70 @@
     "score": 50,
     "status": "confident",
     "verified_at": "2026-09-30T12:28:56.745809+00:00"
+  },
+  "ramayana rise of a legend": {
+    "authoritative_titles": [
+      "Ramayana: Rise of a Legend",
+      "Ramayana: Rise of a Legend",
+      "रामायणम",
+      "ராமாயணம்",
+      "Namit Malhotra's Ramayana: Rise of a Legend",
+      "Ramayana",
+      "รามายณะ : ปฐมบทแห่งตำนาน",
+      "Ramayana: The Legend of the Prince",
+      "Ramayana: Part One",
+      "রামায়ণ",
+      "Ramayana: Khởi Nguồn Một Huyền Thoại",
+      "Namit Malhotra's Ramayana"
+    ],
+    "imdb_id": "tt27988879",
+    "key": "ramayana rise of a legend",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Ramayana: Rise of a Legend",
+    "matched_year": 2026,
+    "query_title": "Ramayana: Rise Of A Legend",
+    "reason": null,
+    "resolved_via": "ramayana rise of a legend|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-29T12:54:09.094324+00:00"
+  },
+  "ramayana rise of a legend|2026": {
+    "authoritative_titles": [
+      "Ramayana: Rise of a Legend",
+      "Ramayana: Rise of a Legend",
+      "रामायणम",
+      "ராமாயணம்",
+      "Namit Malhotra's Ramayana: Rise of a Legend",
+      "Ramayana",
+      "รามายณะ : ปฐมบทแห่งตำนาน",
+      "Ramayana: The Legend of the Prince",
+      "Ramayana: Part One",
+      "রামায়ণ",
+      "Ramayana: Khởi Nguồn Một Huyền Thoại",
+      "Namit Malhotra's Ramayana"
+    ],
+    "imdb_id": "tt27988879",
+    "key": "ramayana rise of a legend|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Ramayana: Rise of a Legend",
+    "matched_year": 2026,
+    "query_title": "Ramayana: Rise Of A Legend",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-10-29T12:54:09.094324+00:00"
   },
   "rascal does not dream of a dear friend": {
     "authoritative_titles": [
@@ -6661,6 +6822,76 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-10-24T10:52:10.087438+00:00"
+  },
+  "wildwood engl": {
+    "authoritative_titles": [
+      "Wildwood",
+      "Wildwood",
+      "Wildwood",
+      "",
+      "Дикий ліс",
+      "Дикий лес",
+      "Vahşi Orman",
+      "El Bosque Salvaje: Wildwood",
+      "Wildwood: Tajemství zakázaného lesa",
+      "Wildwood : La prophétie de la forêt",
+      "Wildwood: El Bosque Salvaje",
+      "Wildwood - A tiltott vadon",
+      "Wildwood: la contrée maléfique",
+      "ველური ტყე",
+      "ვაილდვუდი"
+    ],
+    "imdb_id": "tt2056785",
+    "key": "wildwood engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within fifteen",
+      "original language"
+    ],
+    "matched_title": "Wildwood",
+    "matched_year": 2026,
+    "query_title": "Wildwood (engl",
+    "reason": null,
+    "resolved_via": "wildwood engl|2026",
+    "score": 86,
+    "status": "confident",
+    "verified_at": "2026-10-29T12:54:09.306629+00:00"
+  },
+  "wildwood engl|2026": {
+    "authoritative_titles": [
+      "Wildwood",
+      "Wildwood",
+      "Wildwood",
+      "",
+      "Дикий ліс",
+      "Дикий лес",
+      "Vahşi Orman",
+      "El Bosque Salvaje: Wildwood",
+      "Wildwood: Tajemství zakázaného lesa",
+      "Wildwood : La prophétie de la forêt",
+      "Wildwood: El Bosque Salvaje",
+      "Wildwood - A tiltott vadon",
+      "Wildwood: la contrée maléfique",
+      "ველური ტყე",
+      "ვაილდვუდი"
+    ],
+    "imdb_id": "tt2056785",
+    "key": "wildwood engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within fifteen",
+      "original language"
+    ],
+    "matched_title": "Wildwood",
+    "matched_year": 2026,
+    "query_title": "Wildwood (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 86,
+    "status": "confident",
+    "verified_at": "2026-10-29T12:54:09.306629+00:00"
   },
   "wtf did i see 2": {
     "authoritative_titles": [],
