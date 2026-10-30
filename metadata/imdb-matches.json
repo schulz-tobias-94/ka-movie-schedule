@@ -2967,6 +2967,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-25T11:18:08.906297+00:00"
   },
+  "jak zyc zeby nie zwariowac polnisch": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "jak zyc zeby nie zwariowac polnisch",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "JAK ZYC ZEBY NIE ZWARIOWAC (polnisch",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 50,
+    "status": "search_fallback",
+    "verified_at": "2026-10-30T12:46:32.667112+00:00"
+  },
   "jak zyc zeby nie zwariowac|2026": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -6805,23 +6819,27 @@
       "Wildwood : La prophétie de la forêt",
       "Wildwood: El Bosque Salvaje",
       "Wildwood - A tiltott vadon",
-      "Wildwood: la contrée maléfique"
+      "Wildwood: la contrée maléfique",
+      "ველური ტყე",
+      "ვაილდვუდი"
     ],
     "imdb_id": "tt2056785",
     "key": "wildwood",
     "matched_by": [
       "German localized title",
+      "exact year",
       "director match",
-      "runtime within five"
+      "runtime within five",
+      "original language"
     ],
     "matched_title": "Wildwood",
     "matched_year": 2026,
     "query_title": "Wildwood",
     "reason": null,
-    "resolved_via": null,
-    "score": 93,
+    "resolved_via": "wildwood|2026",
+    "score": 124,
     "status": "confident",
-    "verified_at": "2026-10-24T10:52:10.087438+00:00"
+    "verified_at": "2026-10-30T12:46:31.386353+00:00"
   },
   "wildwood engl": {
     "authoritative_titles": [
@@ -6892,6 +6910,42 @@
     "score": 86,
     "status": "confident",
     "verified_at": "2026-10-29T12:54:09.306629+00:00"
+  },
+  "wildwood|2026": {
+    "authoritative_titles": [
+      "Wildwood",
+      "Wildwood",
+      "Wildwood",
+      "",
+      "Дикий ліс",
+      "Дикий лес",
+      "Vahşi Orman",
+      "El Bosque Salvaje: Wildwood",
+      "Wildwood: Tajemství zakázaného lesa",
+      "Wildwood : La prophétie de la forêt",
+      "Wildwood: El Bosque Salvaje",
+      "Wildwood - A tiltott vadon",
+      "Wildwood: la contrée maléfique",
+      "ველური ტყე",
+      "ვაილდვუდი"
+    ],
+    "imdb_id": "tt2056785",
+    "key": "wildwood|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "director match",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Wildwood",
+    "matched_year": 2026,
+    "query_title": "Wildwood",
+    "reason": null,
+    "resolved_via": null,
+    "score": 124,
+    "status": "confident",
+    "verified_at": "2026-10-30T12:46:31.386353+00:00"
   },
   "wtf did i see 2": {
     "authoritative_titles": [],

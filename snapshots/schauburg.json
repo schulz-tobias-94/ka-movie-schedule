@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-05",
-    "start": "2026-10-29"
+    "end": "2026-11-06",
+    "start": "2026-10-30"
   },
-  "retrieved_at": "2026-10-29T13:53:26.783123+01:00",
+  "retrieved_at": "2026-10-30T13:45:51.136827+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-29",
-      "dimension": null,
-      "director_names": [
-        "Emile Ardolino"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Dirty Dancing",
-      "movie_url": "https://www.schauburg.de/film/dirty-dancing",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 100,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
