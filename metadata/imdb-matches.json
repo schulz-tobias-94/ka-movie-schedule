@@ -2981,6 +2981,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-30T12:46:32.667112+00:00"
   },
+  "jak zyc zeby nie zwariowac polnisch|2026": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "jak zyc zeby nie zwariowac polnisch|2026",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "JAK ZYC ZEBY NIE ZWARIOWAC (polnisch",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 80,
+    "status": "search_fallback",
+    "verified_at": "2026-10-31T12:17:30.091103+00:00"
+  },
   "jak zyc zeby nie zwariowac|2026": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -4872,6 +4886,29 @@
     "status": "confident",
     "verified_at": "2026-10-12T15:14:52.573645+00:00"
   },
+  "scene": {
+    "authoritative_titles": [
+      "Scene",
+      "Scene",
+      "சீன்",
+      "Suriya47"
+    ],
+    "imdb_id": "tt38192494",
+    "key": "scene",
+    "matched_by": [
+      "German localized title",
+      "runtime within fifteen",
+      "original language"
+    ],
+    "matched_title": "Scene",
+    "matched_year": 2026,
+    "query_title": "Scene",
+    "reason": null,
+    "resolved_via": null,
+    "score": 61,
+    "status": "confident",
+    "verified_at": "2026-10-31T12:17:31.398613+00:00"
+  },
   "singin in the rain": {
     "authoritative_titles": [
       "Du sollst mein Glücksstern sein",
@@ -5390,6 +5427,28 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-19T07:02:37.735526+00:00"
+  },
+  "stray kids world tour run it live viewing": {
+    "authoritative_titles": [
+      "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+      "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+      "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+      ""
+    ],
+    "imdb_id": "tt48391060",
+    "key": "stray kids world tour run it live viewing",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+    "matched_year": 2026,
+    "query_title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-10-31T12:17:31.935741+00:00"
   },
   "street fighter": {
     "authoritative_titles": [

@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-06",
-    "start": "2026-10-30"
+    "end": "2026-11-07",
+    "start": "2026-10-31"
   },
-  "retrieved_at": "2026-10-30T13:45:51.136827+01:00",
+  "retrieved_at": "2026-10-31T13:16:43.471005+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-30",
-      "dimension": null,
-      "director_names": [
-        "Taika Waititi"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Klara und die Sonne",
-      "movie_url": "https://www.schauburg.de/film/klara-und-die-sonne",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 117,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -371,6 +347,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "18:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-11-08",
+      "dimension": null,
+      "director_names": [
+        "Walter Lang"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Desk Set (OmU)",
+      "movie_url": "https://www.schauburg.de/film/desk-set-omu",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 103,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "15:00:00"
     }
   ],
   "success": true
