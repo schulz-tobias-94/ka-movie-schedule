@@ -1420,6 +1420,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-25T11:18:08.787466+00:00"
   },
+  "der herr der ringe die zwei türme extended version|2002": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "der herr der ringe die zwei türme extended version|2002",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Der Herr der Ringe - Die zwei Türme (Extended Version)",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -4,
+    "status": "search_fallback",
+    "verified_at": "2026-11-01T13:14:36.206257+00:00"
+  },
   "der klang der stradivari": {
     "authoritative_titles": [
       "Der Klang der Stradivari",
@@ -1485,6 +1499,30 @@
     "score": 73,
     "status": "confident",
     "verified_at": "2026-08-25T07:06:11.192179+00:00"
+  },
+  "desk set": {
+    "authoritative_titles": [
+      "Eine Frau, die alles weiß",
+      "Desk Set",
+      "Desk Set",
+      "Une femme de tête",
+      "Eine Frau, die alles weiß"
+    ],
+    "imdb_id": "tt0050307",
+    "key": "desk set",
+    "matched_by": [
+      "English title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Desk Set",
+    "matched_year": 1957,
+    "query_title": "Desk Set",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-01T13:14:34.642298+00:00"
   },
   "detective conan film 29 der gefallene engel des highways": {
     "authoritative_titles": [
@@ -2475,9 +2513,9 @@
     "query_title": "Gupi und der König, der nicht lachen kann",
     "reason": "no_imdb_id",
     "resolved_via": null,
-    "score": 75,
+    "score": 110,
     "status": "search_fallback",
-    "verified_at": "2026-10-18T10:58:15.273484+00:00"
+    "verified_at": "2026-11-01T13:14:33.447904+00:00"
   },
   "halloween double bill invasion of the body snatchers omu carnival of souls": {
     "authoritative_titles": [],
@@ -6002,6 +6040,51 @@
     "score": 85,
     "status": "confident",
     "verified_at": "2026-10-08T13:21:51.350802+00:00"
+  },
+  "the lord of the rings the fellowship of the ring": {
+    "authoritative_titles": [
+      "Der Herr der Ringe - Die Gefährten",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Sagan om ringen: Härskarringen",
+      "Le Seigneur des Anneaux: La Communauté de l'Anneau",
+      "指环王1：护戒使者",
+      "Господар на прстените: Дружината на Прстенот",
+      "อภินิหารแหวนครองพิภพ",
+      "El señor de los anillos: La comunidad del anillo",
+      "魔戒首部曲：魔戒现身",
+      "Der Herr der Ringe - Die Gefährten",
+      "Üzüklərin Hökmdarı: Üzük Qardaşlığı",
+      "ロード・オブ・ザ・リング",
+      "LOTR1- The Fellowship of the Ring",
+      "指环王1：魔戒再现",
+      "The Lord of the Rings I: The Fellowship of the Ring",
+      "Le Seigneur des Anneaux: La Communauté de l'Anneau - version longue",
+      "Der Herr der Ringe - Die Gefaehrten",
+      "Մատանիների Տիրակալը 1",
+      "LOTR1",
+      "The Lord of the Rings I",
+      "Валадар Пярсцёнкаў: Брацтва Пярсцёнка",
+      "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+      "Il Signore degli Anelli - La Compagnia dell'Anello",
+      "Sagan om ringen",
+      "Властелин колец 1",
+      "Средиземье. Властелин колец: братство кольца"
+    ],
+    "imdb_id": "tt0120737",
+    "key": "the lord of the rings the fellowship of the ring",
+    "matched_by": [
+      "English title",
+      "original language"
+    ],
+    "matched_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "matched_year": 2001,
+    "query_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-01T13:14:34.238481+00:00"
   },
   "the odyssey": {
     "authoritative_titles": [

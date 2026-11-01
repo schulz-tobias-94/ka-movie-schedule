@@ -7,109 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-07",
-    "start": "2026-10-31"
+    "end": "2026-11-08",
+    "start": "2026-11-01"
   },
-  "retrieved_at": "2026-10-31T13:16:43.471005+01:00",
+  "retrieved_at": "2026-11-01T14:13:52.089168+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-31",
-      "dimension": null,
-      "director_names": [
-        "Travis Knight"
-      ],
-      "format_label": "OV",
-      "movie_title": "Wildwood",
-      "movie_url": "https://www.schauburg.de/film/wildwood",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 129,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-31",
-      "dimension": null,
-      "director_names": [
-        "Don Siegel",
-        "Herk Harvey"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Halloween Double Bill: Invasion of the Body Snatchers (OmU) + Carnival of Souls (OmU)",
-      "movie_url": "https://www.schauburg.de/film/halloween-double-bill",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 190,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-31",
-      "dimension": null,
-      "director_names": [
-        "Don Siegel"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Invasion of the Body Snatchers",
-      "movie_url": "https://www.schauburg.de/film/inavsion-of-the-body-snatchers-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 80,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-10-31",
-      "dimension": null,
-      "director_names": [
-        "Herk Harvey"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Carnival of Souls",
-      "movie_url": "https://www.schauburg.de/film/carnival-of-souls-ov",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 84,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "22:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
