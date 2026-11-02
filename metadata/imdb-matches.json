@@ -2100,6 +2100,31 @@
     "status": "search_fallback",
     "verified_at": "2026-09-22T11:31:08.649945+00:00"
   },
+  "ein talent fürs morden": {
+    "authoritative_titles": [
+      "Ein Talent fürs Morden",
+      "A Talent for Murder",
+      "A Talent for Murder",
+      "A Talent for Murder",
+      "Switzerland",
+      "Талант к убийству"
+    ],
+    "imdb_id": "tt14129116",
+    "key": "ein talent fürs morden",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "A Talent for Murder",
+    "matched_year": 2026,
+    "query_title": "Ein Talent fürs Morden",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-02T15:40:28.549858+00:00"
+  },
   "eiserne wildnis heart of the beast": {
     "authoritative_titles": [
       "Eiserne Wildnis - Heart of the Beast",
@@ -2432,6 +2457,76 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.881519+00:00"
+  },
+  "godzilla minus zero japanisch mit dt ut": {
+    "authoritative_titles": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero",
+      "ゴジラ-0.0",
+      "超大作怪獣映画",
+      "G-0.0",
+      "Gojira -0.0",
+      "ゴジラ-0.0（ゴジラマイナスゼロ）",
+      "ゴジラマイナスゼロ",
+      "고지라 마이너스 제로",
+      "고질라-0.0",
+      "고지라-0.0",
+      "Godzilla -0.0",
+      "גודזילה מינוס אפס",
+      "Godzilla Trừ Không",
+      "ก็อดซิลล่า ไมนัส ซีโร่"
+    ],
+    "imdb_id": "tt34384661",
+    "key": "godzilla minus zero japanisch mit dt ut",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Godzilla Minus Zero",
+    "matched_year": 2026,
+    "query_title": "Godzilla Minus Zero (japanisch mit dt.Ut.)",
+    "reason": null,
+    "resolved_via": "godzilla minus zero japanisch mit dt ut|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-02T15:40:28.332024+00:00"
+  },
+  "godzilla minus zero japanisch mit dt ut|2026": {
+    "authoritative_titles": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero",
+      "ゴジラ-0.0",
+      "超大作怪獣映画",
+      "G-0.0",
+      "Gojira -0.0",
+      "ゴジラ-0.0（ゴジラマイナスゼロ）",
+      "ゴジラマイナスゼロ",
+      "고지라 마이너스 제로",
+      "고질라-0.0",
+      "고지라-0.0",
+      "Godzilla -0.0",
+      "גודזילה מינוס אפס",
+      "Godzilla Trừ Không",
+      "ก็อดซิลล่า ไมนัส ซีโร่"
+    ],
+    "imdb_id": "tt34384661",
+    "key": "godzilla minus zero japanisch mit dt ut|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Godzilla Minus Zero",
+    "matched_year": 2026,
+    "query_title": "Godzilla Minus Zero (japanisch mit dt.Ut.)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-02T15:40:28.332024+00:00"
   },
   "godzilla minus zero japanisch mit engl ut": {
     "authoritative_titles": [
