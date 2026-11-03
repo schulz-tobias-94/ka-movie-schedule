@@ -2458,6 +2458,38 @@
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.881519+00:00"
   },
+  "godzilla minus zero": {
+    "authoritative_titles": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero",
+      "ゴジラ-0.0",
+      "超大作怪獣映画",
+      "G-0.0",
+      "Gojira -0.0",
+      "ゴジラ-0.0（ゴジラマイナスゼロ）",
+      "ゴジラマイナスゼロ",
+      "고지라 마이너스 제로",
+      "고질라-0.0",
+      "고지라-0.0",
+      "Godzilla -0.0",
+      "גודזילה מינוס אפס",
+      "Godzilla Trừ Không",
+      "ก็อดซิลล่า ไมนัส ซีโร่"
+    ],
+    "imdb_id": "tt34384661",
+    "key": "godzilla minus zero",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Godzilla Minus Zero",
+    "matched_year": 2026,
+    "query_title": "Godzilla Minus Zero",
+    "reason": null,
+    "resolved_via": "godzilla minus zero japanisch mit dt ut|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-02T15:40:28.332024+00:00"
+  },
   "godzilla minus zero japanisch mit dt ut": {
     "authoritative_titles": [
       "Godzilla Minus Zero",
