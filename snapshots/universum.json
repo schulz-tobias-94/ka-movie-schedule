@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-10",
-    "start": "2026-11-03"
+    "end": "2026-11-11",
+    "start": "2026-11-04"
   },
-  "retrieved_at": "2026-11-03T15:04:09.043056+01:00",
+  "retrieved_at": "2026-11-04T15:24:40.874000+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15134",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-03",
-      "dimension": "2D",
-      "director_names": [
-        "James Watkins"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Clayface",
-      "movie_url": "https://www.universum-city.de/de/programm/1698616",
-      "original_language": "English",
-      "original_title": "Clayface",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 108,
-      "screening_url": "https://www.universum-city.de/de/programm/1698616/46242192",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15185",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-03",
-      "dimension": "2D",
-      "director_names": [
-        "Zach Cregger"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Resident Evil (engl. OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Resident Evil",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 97,
-      "screening_url": "https://www.universum-city.de/de/programm/1715668/46242191",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "18:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 4",
@@ -69,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Deniz Enyüksek"
+      ],
       "format_label": "OmU",
       "movie_title": "Çatli 2",
       "movie_url": null,
@@ -78,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 118,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/2045886/46116396",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:00:00"
@@ -91,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-04",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Michael Showalter"
+      ],
       "format_label": "OmU",
       "movie_title": "Verity - Dunkle Geheimnisse (engl.OmU)",
       "movie_url": null,
@@ -100,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 118,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1537421/46242206",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "17:30:00"
@@ -289,7 +245,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-07",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Deniz Enyüksek"
+      ],
       "format_label": "OmU",
       "movie_title": "Çatli 2",
       "movie_url": null,
@@ -333,9 +291,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-07",
       "dimension": "2D",
-      "director_names": [
-        "James Watkins"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Clayface",
       "movie_url": "https://www.universum-city.de/de/programm/1698616",
@@ -467,7 +423,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-08",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Deniz Enyüksek"
+      ],
       "format_label": "OmU",
       "movie_title": "Çatli 2",
       "movie_url": null,
@@ -634,6 +592,72 @@
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14127",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-11",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Wildwood (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Wildwood",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 131,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14609",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-11",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Godzilla Minus Zero (japanisch mit dt.Ut.)",
+      "movie_url": null,
+      "original_language": "Japanese",
+      "original_title": "ゴジラ-0.0",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 135,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 3",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15243",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-11",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Clayface",
+      "movie_url": "https://www.universum-city.de/de/programm/1698616",
+      "original_language": "English",
+      "original_title": "Clayface",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 108,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:30:00"
     }
   ],
   "success": true

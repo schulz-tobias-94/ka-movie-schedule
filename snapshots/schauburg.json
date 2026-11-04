@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-10",
-    "start": "2026-11-03"
+    "end": "2026-11-11",
+    "start": "2026-11-04"
   },
-  "retrieved_at": "2026-11-03T15:03:26.874499+01:00",
+  "retrieved_at": "2026-11-04T15:24:08.036492+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-03",
-      "dimension": null,
-      "director_names": [
-        "Michał Kwieciński"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Chopin - Eine Sonate in Paris",
-      "movie_url": "https://www.schauburg.de/film/chopin-eine-sonate-in-paris",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 133,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "14:15:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-03",
-      "dimension": null,
-      "director_names": [
-        "Georgia Oakley"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Sinn und Sinnlichkeit",
-      "movie_url": "https://www.schauburg.de/film/sinn-und-sinnlichkeit",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 132,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:55:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-03",
-      "dimension": null,
-      "director_names": [
-        "Alejandro González Iñárritu"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Digger",
-      "movie_url": "https://www.schauburg.de/film/digger",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -464,6 +392,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-11-12",
+      "dimension": null,
+      "director_names": [
+        "Bob Fosse"
+      ],
+      "format_label": "OV",
+      "movie_title": "Cabaret (OV)",
+      "movie_url": "https://www.schauburg.de/film/cabaret-ov",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 124,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "18:45:00"
     }
   ],
   "success": true
