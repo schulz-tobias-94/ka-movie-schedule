@@ -7,10 +7,10 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-11",
-    "start": "2026-11-04"
+    "end": "2026-11-12",
+    "start": "2026-11-05"
   },
-  "retrieved_at": "2026-11-04T15:24:39.765412+01:00",
+  "retrieved_at": "2026-11-05T15:32:34.925763+01:00",
   "schema_version": 4,
   "screenings": [
     {
@@ -154,7 +154,7 @@
       "date": "2026-11-07",
       "dimension": null,
       "director_names": [],
-      "format_label": "OmeU · japanisch mit englischen Untertiteln",
+      "format_label": "japanisch mit englischen Untertiteln · OmeU",
       "movie_title": "Godzilla Minus Zero",
       "movie_url": "https://filmpalast.net/programmuebersicht/movie/godzilla-minus-zero",
       "original_language": "Japanese",
@@ -286,7 +286,7 @@
       "date": "2026-11-09",
       "dimension": null,
       "director_names": [],
-      "format_label": "OmeU · japanisch mit englischen Untertiteln",
+      "format_label": "japanisch mit englischen Untertiteln · OmeU",
       "movie_title": "Godzilla Minus Zero",
       "movie_url": "https://filmpalast.net/programmuebersicht/movie/godzilla-minus-zero",
       "original_language": "Japanese",
@@ -308,7 +308,7 @@
       "date": "2026-11-11",
       "dimension": null,
       "director_names": [],
-      "format_label": "OmeU · japanisch mit englischen Untertiteln",
+      "format_label": "japanisch mit englischen Untertiteln · OmeU",
       "movie_title": "Godzilla Minus Zero",
       "movie_url": "https://filmpalast.net/programmuebersicht/movie/godzilla-minus-zero",
       "original_language": "Japanese",
@@ -318,6 +318,28 @@
       "runtime_minutes": null,
       "screening_url": null,
       "subtitle_language": "English",
+      "technology": null,
+      "time": "20:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "IMAX",
+      "booking_url": null,
+      "cinema_id": "filmpalast",
+      "cinema_name": "Filmpalast am ZKM",
+      "date": "2026-11-12",
+      "dimension": null,
+      "director_names": [],
+      "format_label": "IMAX OmU",
+      "movie_title": "George Michael: The Faith Tour",
+      "movie_url": "https://filmpalast.net/programmuebersicht/movie/george-michael-the-faith-tour",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": null,
+      "screening_url": null,
+      "subtitle_language": null,
       "technology": null,
       "time": "20:00:00"
     }
