@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-12",
-    "start": "2026-11-05"
+    "end": "2026-11-13",
+    "start": "2026-11-06"
   },
-  "retrieved_at": "2026-11-05T15:32:00.304172+01:00",
+  "retrieved_at": "2026-11-06T15:10:37.658024+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-05",
-      "dimension": null,
-      "director_names": [
-        "Jacques Demy"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Les Parapluies de Cherbourg (OmU)",
-      "movie_url": "https://www.schauburg.de/film/les-parapluies-de-cherbourg-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 86,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-05",
-      "dimension": null,
-      "director_names": [
-        "Travis Knight"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wildwood",
-      "movie_url": "https://www.schauburg.de/film/wildwood",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 129,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,

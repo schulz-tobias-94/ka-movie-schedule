@@ -471,6 +471,60 @@
     "status": "confident",
     "verified_at": "2026-09-13T11:45:06.413605+00:00"
   },
+  "beware boiúna engl": {
+    "authoritative_titles": [
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "",
+      "Titan",
+      "Boiúna: Legend of the Amazon",
+      "Terror en el Amazonas"
+    ],
+    "imdb_id": "tt10377864",
+    "key": "beware boiúna engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Beware Boiúna",
+    "matched_year": 2026,
+    "query_title": "Beware Boiúna (engl",
+    "reason": null,
+    "resolved_via": "beware boiúna engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:16.534343+00:00"
+  },
+  "beware boiúna engl|2026": {
+    "authoritative_titles": [
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "",
+      "Titan",
+      "Boiúna: Legend of the Amazon",
+      "Terror en el Amazonas"
+    ],
+    "imdb_id": "tt10377864",
+    "key": "beware boiúna engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Beware Boiúna",
+    "matched_year": 2026,
+    "query_title": "Beware Boiúna (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:16.534343+00:00"
+  },
   "bitteres fest": {
     "authoritative_titles": [
       "Bitteres Fest",
@@ -2607,10 +2661,10 @@
     "matched_year": 2026,
     "query_title": "Godzilla Minus Zero",
     "reason": null,
-    "resolved_via": "godzilla minus zero japanisch mit dt ut|2026",
+    "resolved_via": "godzilla minus zero japanisch mit engl ut|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-11-02T15:40:28.332024+00:00"
+    "verified_at": "2026-10-29T12:54:10.054974+00:00"
   },
   "godzilla minus zero japanisch mit dt ut": {
     "authoritative_titles": [
@@ -2978,6 +3032,62 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-11-05T14:32:47.416787+00:00"
+  },
+  "how to rob a bank engl": {
+    "authoritative_titles": [
+      "How to Rob a Bank",
+      "How to Rob a Bank",
+      "How to Rob a Bank",
+      "",
+      "สูตรโกงปล้นแบงก์",
+      "Jak udělat banku",
+      "Como robar un banco",
+      "Bí kíp luyện cướp"
+    ],
+    "imdb_id": "tt35866986",
+    "key": "how to rob a bank engl",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "How to Rob a Bank",
+    "matched_year": 2026,
+    "query_title": "How to Rob a Bank (engl",
+    "reason": null,
+    "resolved_via": "how to rob a bank engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:15.741594+00:00"
+  },
+  "how to rob a bank engl|2026": {
+    "authoritative_titles": [
+      "How to Rob a Bank",
+      "How to Rob a Bank",
+      "How to Rob a Bank",
+      "",
+      "สูตรโกงปล้นแบงก์",
+      "Jak udělat banku",
+      "Como robar un banco",
+      "Bí kíp luyện cướp"
+    ],
+    "imdb_id": "tt35866986",
+    "key": "how to rob a bank engl|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "How to Rob a Bank",
+    "matched_year": 2026,
+    "query_title": "How to Rob a Bank (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:15.741594+00:00"
   },
   "how to rob a bank|2026": {
     "authoritative_titles": [
@@ -7505,6 +7615,50 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.674901+00:00"
+  },
+  "çakallarla dans 8 sututgart çikarmasi": {
+    "authoritative_titles": [
+      "Çakallarla Dans 8: Şututgart Çıkarması",
+      "Dance with the Jackals 8",
+      "Çakallarla Dans 8: Şututgart Çıkarması",
+      "Çakallarla Dans 8"
+    ],
+    "imdb_id": "tt41342499",
+    "key": "çakallarla dans 8 sututgart çikarmasi",
+    "matched_by": [
+      "German localized title",
+      "exact year"
+    ],
+    "matched_title": "Dance with the Jackals 8",
+    "matched_year": 2026,
+    "query_title": "Çakallarla Dans 8: Sututgart Çikarmasi",
+    "reason": null,
+    "resolved_via": "çakallarla dans 8 sututgart çikarmasi|2026",
+    "score": 75,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:15.218306+00:00"
+  },
+  "çakallarla dans 8 sututgart çikarmasi|2026": {
+    "authoritative_titles": [
+      "Çakallarla Dans 8: Şututgart Çıkarması",
+      "Dance with the Jackals 8",
+      "Çakallarla Dans 8: Şututgart Çıkarması",
+      "Çakallarla Dans 8"
+    ],
+    "imdb_id": "tt41342499",
+    "key": "çakallarla dans 8 sututgart çikarmasi|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year"
+    ],
+    "matched_title": "Dance with the Jackals 8",
+    "matched_year": 2026,
+    "query_title": "Çakallarla Dans 8: Sututgart Çikarmasi",
+    "reason": null,
+    "resolved_via": null,
+    "score": 75,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:15.218306+00:00"
   },
   "çatli 2": {
     "authoritative_titles": [
