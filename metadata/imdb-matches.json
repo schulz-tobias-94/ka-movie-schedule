@@ -2661,10 +2661,10 @@
     "matched_year": 2026,
     "query_title": "Godzilla Minus Zero",
     "reason": null,
-    "resolved_via": "godzilla minus zero japanisch mit engl ut|2026",
+    "resolved_via": "godzilla minus zero japanisch mit dt ut|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-10-29T12:54:10.054974+00:00"
+    "verified_at": "2026-11-02T15:40:28.332024+00:00"
   },
   "godzilla minus zero japanisch mit dt ut": {
     "authoritative_titles": [
@@ -3584,6 +3584,20 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-10-21T11:41:52.599739+00:00"
+  },
+  "league of legends worlds 26 finals in cinema": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "league of legends worlds 26 finals in cinema",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "League of Legends Worlds 26 - Finals in Cinema",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-11-07T12:54:03.660251+00:00"
   },
   "les parapluies de cherbourg": {
     "authoritative_titles": [
