@@ -1515,6 +1515,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-25T11:18:08.787466+00:00"
   },
+  "der herr der ringe die rückkehr des königs extended version|2003": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "der herr der ringe die rückkehr des königs extended version|2003",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Der Herr der Ringe - die Rückkehr des Königs (Extended Version)",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-11-08T13:16:35.996571+00:00"
+  },
   "der herr der ringe die zwei türme extended version|2002": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -2551,6 +2565,20 @@
     "status": "search_fallback",
     "verified_at": "2026-10-25T11:18:07.863288+00:00"
   },
+  "frühstück wild horse nine": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "frühstück wild horse nine",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Frühstück - Wild Horse Nine",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 0,
+    "status": "search_fallback",
+    "verified_at": "2026-11-08T13:16:34.310587+00:00"
+  },
   "george michael the faith tour": {
     "authoritative_titles": [
       "George Michael: The Faith Tour",
@@ -2819,6 +2847,20 @@
     "score": 110,
     "status": "search_fallback",
     "verified_at": "2026-11-01T13:14:33.447904+00:00"
+  },
+  "hadoota": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "hadoota",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Hadoota",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-11-08T13:16:34.921049+00:00"
   },
   "halloween double bill invasion of the body snatchers omu carnival of souls": {
     "authoritative_titles": [],
@@ -6514,6 +6556,48 @@
     "score": 56,
     "status": "confident",
     "verified_at": "2026-11-01T13:14:34.238481+00:00"
+  },
+  "the lord of the rings the two towers": {
+    "authoritative_titles": [
+      "Der Herr der Ringe - Die zwei Türme",
+      "The Lord of the Rings: The Two Towers",
+      "The Lord of the Rings: The Two Towers",
+      "Le Seigneur des Anneaux: Les Deux Tours",
+      "The Lord of the Rings 2: The Two Towers",
+      "魔戒二部曲：雙城奇謀",
+      "Господар на прстените: Двете кули",
+      "ศึกหอคอยคู่กู้พิภพ",
+      "The Lord of the Rings II: The Two Towers",
+      "El señor de los anillos: Las dos torres",
+      "Chúa Tể Của Những Chiếc Nhẫn 2: Hai Tòa Tháp",
+      "ロード・オブ・ザ・リング／二つの塔：2002",
+      "Üzüklərin Hökmdarı: İki Qala",
+      "Yüzüklerin Efendisi: İki Kule",
+      "ロード・オブ・ザ・リング／二つの塔",
+      "The Lord of the Rings The Two Towers",
+      "LOTR2 - The Two Towers",
+      "魔戒2 雙城奇謀",
+      "Le Seigneur des anneaux Les Deux Tours - version Longue",
+      "Մատանիների Տիրակալը 2",
+      "Der Herr der Ringe - Die zwei Tuerme",
+      "Властелин колец 2",
+      "Il Signore degli Anelli: Le due Torri",
+      "Средиземье. Властелин колец: две крепости"
+    ],
+    "imdb_id": "tt0167261",
+    "key": "the lord of the rings the two towers",
+    "matched_by": [
+      "English title",
+      "original language"
+    ],
+    "matched_title": "The Lord of the Rings: The Two Towers",
+    "matched_year": 2002,
+    "query_title": "The Lord of the Rings: The Two Towers",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-08T13:16:34.685880+00:00"
   },
   "the odyssey": {
     "authoritative_titles": [
