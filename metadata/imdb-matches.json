@@ -13,6 +13,44 @@
     "status": "search_fallback",
     "verified_at": "2026-09-27T11:58:03.395024+00:00"
   },
+  "a i künstliche intelligenz": {
+    "authoritative_titles": [
+      "A.I. - Künstliche Intelligenz",
+      "A.I. Artificial Intelligence",
+      "A.I. Artificial Intelligence",
+      "",
+      "A.I.",
+      "A.I. Veštačka inteligencija",
+      "Artificial Intelligence: AI",
+      "A.I. Izkustven intelekt",
+      "에이 아이",
+      "Technití Noimosýni",
+      "Iskusstvennyy razum",
+      "Shtuchnyy rozum",
+      "A.I.: Inteligência Artificial",
+      "A.I. – Umělá inteligence",
+      "A.I. Umělá inteligence",
+      "人工智能",
+      "에이.아이.",
+      "Süni İntellekt",
+      "Искусственный интеллект"
+    ],
+    "imdb_id": "tt0212720",
+    "key": "a i künstliche intelligenz",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "A.I. Artificial Intelligence",
+    "matched_year": 2001,
+    "query_title": "A.I. Künstliche Intelligenz",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-09T16:07:17.069031+00:00"
+  },
   "a new dawn": {
     "authoritative_titles": [
       "A New Dawn",
@@ -7515,6 +7553,34 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-11-05T14:32:48.018474+00:00"
+  },
+  "wild horse nine|director:martin mcdonagh": {
+    "authoritative_titles": [
+      "Wild Horse Nine",
+      "Wild Horse Nine",
+      "Wild Horse Nine",
+      "",
+      "Divoký kůň devítka",
+      "Dziki Koń Dziewięć",
+      "Caballo Salvaje Nueve",
+      "Cheval sauvage numéro neuf",
+      "Laukinis arklys devyni"
+    ],
+    "imdb_id": "tt15799564",
+    "key": "wild horse nine|director:martin mcdonagh",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Wild Horse Nine",
+    "matched_year": 2026,
+    "query_title": "Wild Horse Nine",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-09T16:07:16.624720+00:00"
   },
   "wildwood": {
     "authoritative_titles": [
