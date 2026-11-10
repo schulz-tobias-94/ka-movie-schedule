@@ -2233,6 +2233,20 @@
     "status": "search_fallback",
     "verified_at": "2026-09-27T11:58:01.355228+00:00"
   },
+  "ebenezer": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "ebenezer",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Ebenezer",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-11-10T14:47:21.699496+00:00"
+  },
   "ebenezer eine weihnachtsgeschichte engl": {
     "authoritative_titles": [
       "Ebenezer – Eine Weihnachtsgeschichte",
@@ -2727,10 +2741,10 @@
     "matched_year": 2026,
     "query_title": "Godzilla Minus Zero",
     "reason": null,
-    "resolved_via": "godzilla minus zero japanisch mit dt ut|2026",
+    "resolved_via": "godzilla minus zero japanisch mit engl ut|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-11-02T15:40:28.332024+00:00"
+    "verified_at": "2026-10-29T12:54:10.054974+00:00"
   },
   "godzilla minus zero japanisch mit dt ut": {
     "authoritative_titles": [
@@ -2959,6 +2973,35 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-15T11:39:22.424930+00:00"
+  },
+  "her private hell": {
+    "authoritative_titles": [
+      "Her Private Hell",
+      "Her Private Hell",
+      "Her Private Hell",
+      "",
+      "Her Private Hell by NWR",
+      "Её личный ад",
+      "Seu Inferno Particular",
+      "Su Propio Infierno",
+      "นรกของเธอ",
+      "NJEZIN PRIVATNI PAKAO"
+    ],
+    "imdb_id": "tt36629665",
+    "key": "her private hell",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within fifteen"
+    ],
+    "matched_title": "Her Private Hell",
+    "matched_year": 2026,
+    "query_title": "Her Private Hell",
+    "reason": null,
+    "resolved_via": null,
+    "score": 85,
+    "status": "confident",
+    "verified_at": "2026-11-10T14:47:22.468597+00:00"
   },
   "hindi engl omu awarapan 2": {
     "authoritative_titles": [
@@ -3664,6 +3707,37 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-10-21T11:41:52.599739+00:00"
+  },
+  "la bola negra": {
+    "authoritative_titles": [
+      "La bola negra",
+      "La Bola Negra",
+      "La bola negra",
+      "",
+      "Qara Top",
+      "The Black Ball",
+      "Czarna kula",
+      "A Bola Preta",
+      "ผิดไหมที่มีหัวใจ",
+      "Juodasis rutulys",
+      "黑球",
+      "Must kuul"
+    ],
+    "imdb_id": "tt35511966",
+    "key": "la bola negra",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "La Bola Negra",
+    "matched_year": 2026,
+    "query_title": "La Bola negra",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-10T14:47:22.959386+00:00"
   },
   "league of legends worlds 26 finals in cinema": {
     "authoritative_titles": [],
