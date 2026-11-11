@@ -6571,6 +6571,36 @@
     "status": "confident",
     "verified_at": "2026-08-25T07:06:11.334494+00:00"
   },
+  "the hunger games sunrise on the reaping": {
+    "authoritative_titles": [
+      "Die Tribute von Panem: Sunrise on the Reaping",
+      "The Hunger Games: Sunrise on the Reaping",
+      "The Hunger Games: Sunrise on the Reaping",
+      "Die Tribute von Panem - Sunrise on the Reaping",
+      "The Hunger Games 6",
+      "饥饿游戏：收获日出",
+      "Os Jogos da Fome: Amanhecer na Ceifa",
+      "შიმშილის თამაშები: მზის ამოსვლა მკისას",
+      "헝거게임: 선라이즈 온 더 리핑",
+      "Los Juegos del Hambre: Amanecer en la Cosecha",
+      "Igre gladi: Osvit dana žetve",
+      "เดอะ ฮังเกอร์เกมส์ รุ่งอรุณเกมล่าเกม"
+    ],
+    "imdb_id": "tt32558705",
+    "key": "the hunger games sunrise on the reaping",
+    "matched_by": [
+      "English title",
+      "original language"
+    ],
+    "matched_title": "The Hunger Games: Sunrise on the Reaping",
+    "matched_year": 2026,
+    "query_title": "The Hunger Games: Sunrise on the Reaping",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-11T14:10:30.142347+00:00"
+  },
   "the invite": {
     "authoritative_titles": [
       "The Invite",
