@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-19",
-    "start": "2026-11-12"
+    "end": "2026-11-20",
+    "start": "2026-11-13"
   },
-  "retrieved_at": "2026-11-12T16:03:58.368796+01:00",
+  "retrieved_at": "2026-11-13T15:29:04.276253+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-12",
-      "dimension": null,
-      "director_names": [
-        "Bob Fosse"
-      ],
-      "format_label": "OV",
-      "movie_title": "Cabaret",
-      "movie_url": "https://www.schauburg.de/film/cabaret-ov",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 124,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-12",
-      "dimension": null,
-      "director_names": [
-        "Martin McDonagh"
-      ],
-      "format_label": "OV",
-      "movie_title": "Wild Horse Nine",
-      "movie_url": "https://www.schauburg.de/film/wild-horse-nine",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 118,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:55:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-12",
-      "dimension": null,
-      "director_names": [
-        "Nicolas Winding Refn"
-      ],
-      "format_label": "OV",
-      "movie_title": "Her Private Hell",
-      "movie_url": "https://www.schauburg.de/film/her-private-hell",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 120,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -443,6 +371,31 @@
       "subtitle_language": null,
       "technology": null,
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-11-21",
+      "dimension": null,
+      "director_names": [
+        "Yuval Abraham",
+        "Rachel Szor"
+      ],
+      "format_label": "OmU",
+      "movie_title": "NAZA",
+      "movie_url": "https://www.schauburg.de/film/naza",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 80,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "17:00:00"
     }
   ],
   "success": true

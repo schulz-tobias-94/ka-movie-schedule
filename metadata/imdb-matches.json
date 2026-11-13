@@ -509,6 +509,30 @@
     "status": "confident",
     "verified_at": "2026-09-13T11:45:06.413605+00:00"
   },
+  "beware boiúna": {
+    "authoritative_titles": [
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "",
+      "Titan",
+      "Boiúna: Legend of the Amazon",
+      "Terror en el Amazonas"
+    ],
+    "imdb_id": "tt10377864",
+    "key": "beware boiúna",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Beware Boiúna",
+    "matched_year": 2026,
+    "query_title": "Beware Boiúna",
+    "reason": null,
+    "resolved_via": "beware boiúna engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:16.534343+00:00"
+  },
   "beware boiúna engl": {
     "authoritative_titles": [
       "Beware Boiúna",
@@ -559,6 +583,30 @@
     "query_title": "Beware Boiúna (engl",
     "reason": null,
     "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-06T14:11:16.534343+00:00"
+  },
+  "beware boiúna|2026": {
+    "authoritative_titles": [
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "Beware Boiúna",
+      "",
+      "Titan",
+      "Boiúna: Legend of the Amazon",
+      "Terror en el Amazonas"
+    ],
+    "imdb_id": "tt10377864",
+    "key": "beware boiúna|2026",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Beware Boiúna",
+    "matched_year": 2026,
+    "query_title": "Beware Boiúna",
+    "reason": null,
+    "resolved_via": "beware boiúna engl|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-11-06T14:11:16.534343+00:00"
@@ -2799,10 +2847,10 @@
     "matched_year": 2026,
     "query_title": "Godzilla Minus Zero",
     "reason": null,
-    "resolved_via": "godzilla minus zero japanisch mit dt ut|2026",
+    "resolved_via": "godzilla minus zero japanisch mit engl ut|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-11-02T15:40:28.332024+00:00"
+    "verified_at": "2026-10-29T12:54:10.054974+00:00"
   },
   "godzilla minus zero japanisch mit dt ut": {
     "authoritative_titles": [
@@ -4448,6 +4496,20 @@
     "score": null,
     "status": "search_fallback",
     "verified_at": "2026-08-18T07:01:48.827456+00:00"
+  },
+  "om": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "om",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "OM",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-11-13T14:29:42.089467+00:00"
   },
   "onslaught": {
     "authoritative_titles": [
@@ -6901,6 +6963,58 @@
     "score": 56,
     "status": "search_fallback",
     "verified_at": "2026-09-22T11:31:07.216615+00:00"
+  },
+  "the only living pickpocket in new york": {
+    "authoritative_titles": [
+      "The Only Living Pickpocket in New York",
+      "The Only Living Pickpocket in New York",
+      "The Only Living Pickpocket in New York",
+      "Poslední kapsář v New Yorku",
+      "The Last Pickpocket in New York",
+      "Jedini živi džeparoš u Njujorku"
+    ],
+    "imdb_id": "tt36482679",
+    "key": "the only living pickpocket in new york",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Only Living Pickpocket in New York",
+    "matched_year": 2026,
+    "query_title": "The Only Living Pickpocket In New York",
+    "reason": null,
+    "resolved_via": "the only living pickpocket in new york|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-13T14:29:41.839679+00:00"
+  },
+  "the only living pickpocket in new york|2026": {
+    "authoritative_titles": [
+      "The Only Living Pickpocket in New York",
+      "The Only Living Pickpocket in New York",
+      "The Only Living Pickpocket in New York",
+      "Poslední kapsář v New Yorku",
+      "The Last Pickpocket in New York",
+      "Jedini živi džeparoš u Njujorku"
+    ],
+    "imdb_id": "tt36482679",
+    "key": "the only living pickpocket in new york|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Only Living Pickpocket in New York",
+    "matched_year": 2026,
+    "query_title": "The Only Living Pickpocket In New York",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-13T14:29:41.839679+00:00"
   },
   "the paradise telugu mit englischen untertiteln": {
     "authoritative_titles": [
