@@ -649,6 +649,27 @@
     "status": "search_fallback",
     "verified_at": "2026-10-18T10:58:16.178673+00:00"
   },
+  "bts world tour arirang in kaohsiung live viewing": {
+    "authoritative_titles": [
+      "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+      "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+      "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING"
+    ],
+    "imdb_id": "tt50486016",
+    "key": "bts world tour arirang in kaohsiung live viewing",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+    "matched_year": 2026,
+    "query_title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-14T13:25:59.430483+00:00"
+  },
   "bts world tour arirang in são paulo live viewing": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -4303,6 +4324,30 @@
     "status": "confident",
     "verified_at": "2026-10-13T14:05:56.476596+00:00"
   },
+  "naza": {
+    "authoritative_titles": [
+      "NAZA",
+      "NAZA",
+      "NAZA",
+      "",
+      "附带伤亡"
+    ],
+    "imdb_id": "tt44766123",
+    "key": "naza",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "NAZA",
+    "matched_year": 2026,
+    "query_title": "NAZA",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-14T13:25:59.642934+00:00"
+  },
   "nightborn halloween": {
     "authoritative_titles": [
       "Nightborn",
@@ -4510,6 +4555,36 @@
     "score": -100,
     "status": "search_fallback",
     "verified_at": "2026-11-13T14:29:42.089467+00:00"
+  },
+  "om chapter 1 udhiram the blood wood": {
+    "authoritative_titles": [
+      "Om Chapter 1: Udhiram - The Blood Wood",
+      "O.M: Operation Mole",
+      "ஓ.ம்: Operation Mole",
+      "Dhanush 55",
+      "D55",
+      "OM – Chapter 1: Udhiram – The Blood Wood",
+      "OM Chapter 1: Udhiram - The Blood Wood",
+      "Om: Chapter 1 – Udhiram: The Blood Wood",
+      "OM Chapter 1",
+      "ஓம் Chapter 1",
+      "Operation Mole",
+      "O.M: Chapter 1"
+    ],
+    "imdb_id": "tt34515768",
+    "key": "om chapter 1 udhiram the blood wood",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "O.M: Operation Mole",
+    "matched_year": 2026,
+    "query_title": "Om Chapter 1: Udhiram - The Blood Wood",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-14T13:26:00.471434+00:00"
   },
   "onslaught": {
     "authoritative_titles": [
