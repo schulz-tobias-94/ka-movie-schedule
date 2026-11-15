@@ -7,61 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-21",
-    "start": "2026-11-14"
+    "end": "2026-11-22",
+    "start": "2026-11-15"
   },
-  "retrieved_at": "2026-11-14T14:25:22.625775+01:00",
+  "retrieved_at": "2026-11-15T14:51:57.559973+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-14",
-      "dimension": null,
-      "director_names": [
-        "Javier Calvo",
-        "Javier Ambrossi"
-      ],
-      "format_label": "OmU",
-      "movie_title": "La Bola negra",
-      "movie_url": "https://www.schauburg.de/film/la-bola-negra",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 155,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-14",
-      "dimension": null,
-      "director_names": [
-        "Nicolas Winding Refn"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Her Private Hell",
-      "movie_url": "https://www.schauburg.de/film/her-private-hell",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 120,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,

@@ -4280,6 +4280,30 @@
     "status": "confident",
     "verified_at": "2026-08-20T07:03:22.794310+00:00"
   },
+  "nasza rewolucja": {
+    "authoritative_titles": [
+      "Nasza rewolucja",
+      "Our Revolution",
+      "Nasza rewolucja",
+      "Bez Ciebie mnie nie będzie. Historia Jacka i Grażyny Kuroniów",
+      "Bez Ciebie mnie nie będzie. Historia Jacka i Gajki Kuroniów",
+      "Nasza rewolucja. Historia miłości Grażyny i Jacka Kuroniów",
+      "Nasza rewolucja"
+    ],
+    "imdb_id": "tt35571123",
+    "key": "nasza rewolucja",
+    "matched_by": [
+      "German localized title"
+    ],
+    "matched_title": "Our Revolution",
+    "matched_year": 2026,
+    "query_title": "Nasza rewolucja",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-11-15T13:52:36.240680+00:00"
+  },
   "nayyi navelli": {
     "authoritative_titles": [
       "Nayyi Navelli",
@@ -6919,6 +6943,54 @@
     "score": 56,
     "status": "confident",
     "verified_at": "2026-11-01T13:14:34.238481+00:00"
+  },
+  "the lord of the rings the return of the king": {
+    "authoritative_titles": [
+      "Der Herr der Ringe - Die Rückkehr des Königs",
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Return of the King",
+      "The Return of the King",
+      "Sagan om konungens återkomst",
+      "Le Seigneur des Anneaux: Le Retour du Roi",
+      "Le Retour du Roi",
+      "The Lord of the Rings 3: The Return of the King",
+      "魔戒三部曲：王者再臨",
+      "魔戒3：王者归来",
+      "Господар на прстените: Враќањето на кралот",
+      "The Lord of the Rings III: The Return of the King",
+      "ESDLA",
+      "El señor de los anillos: El retorno del rey",
+      "LOTR: The Return Of The King",
+      "Chúa Tể Của Những Chiếc Nhẫn 3: Hai Tòa Tháp",
+      "ロード・オブ・ザ・リング／王の帰還：2003",
+      "The Lord of the Rings The Return of the King",
+      "Üzüklərin Hökmdarı: Kralın Qayıdışı",
+      "指环王3：王者无敌",
+      "LOTR3 - The Return of the King",
+      "ロード・オブ・ザ・リング／王の帰還",
+      "指环王3：王者归来",
+      "Le Seigneur des anneaux : Le Retour du roi - version longue",
+      "Der Herr der Ringe - Die Rueckkehr des Koenigs",
+      "Մատանիների Տիրակալը 3",
+      "Yüzüklerin Efendisi: Kralın Dönüşü",
+      "Властелин колец 3",
+      "Il Signore degli Anelli: Il Ritorno del Re",
+      "Средиземье. Властелин колец: возвращение короля"
+    ],
+    "imdb_id": "tt0167260",
+    "key": "the lord of the rings the return of the king",
+    "matched_by": [
+      "English title",
+      "original language"
+    ],
+    "matched_title": "The Lord of the Rings: The Return of the King",
+    "matched_year": 2003,
+    "query_title": "The Lord of the Rings: The Return of the King",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-15T13:52:36.160074+00:00"
   },
   "the lord of the rings the two towers": {
     "authoritative_titles": [
