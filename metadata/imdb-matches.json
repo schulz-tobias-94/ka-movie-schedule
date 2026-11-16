@@ -4567,18 +4567,36 @@
     "verified_at": "2026-08-18T07:01:48.827456+00:00"
   },
   "om": {
-    "authoritative_titles": [],
-    "imdb_id": null,
+    "authoritative_titles": [
+      "Om Chapter 1: Udhiram - The Blood Wood",
+      "O.M: Operation Mole",
+      "ஓ.ம்: Operation Mole",
+      "Dhanush 55",
+      "D55",
+      "OM – Chapter 1: Udhiram – The Blood Wood",
+      "OM Chapter 1: Udhiram - The Blood Wood",
+      "Om: Chapter 1 – Udhiram: The Blood Wood",
+      "OM Chapter 1",
+      "ஓம் Chapter 1",
+      "Operation Mole",
+      "O.M: Chapter 1"
+    ],
+    "imdb_id": "tt34515768",
     "key": "om",
-    "matched_by": [],
-    "matched_title": null,
-    "matched_year": null,
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "O.M: Operation Mole",
+    "matched_year": 2026,
     "query_title": "OM",
-    "reason": "no_match",
-    "resolved_via": null,
-    "score": -100,
-    "status": "search_fallback",
-    "verified_at": "2026-11-13T14:29:42.089467+00:00"
+    "reason": null,
+    "resolved_via": "om|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-16T15:35:48.534370+00:00"
   },
   "om chapter 1 udhiram the blood wood": {
     "authoritative_titles": [
@@ -4598,17 +4616,48 @@
     "imdb_id": "tt34515768",
     "key": "om chapter 1 udhiram the blood wood",
     "matched_by": [
-      "German localized title",
-      "original language"
+      "TMDb authoritative title alias"
     ],
     "matched_title": "O.M: Operation Mole",
     "matched_year": 2026,
     "query_title": "Om Chapter 1: Udhiram - The Blood Wood",
     "reason": null,
-    "resolved_via": null,
-    "score": 56,
+    "resolved_via": "om|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-11-14T13:26:00.471434+00:00"
+    "verified_at": "2026-11-16T15:35:48.534370+00:00"
+  },
+  "om|2026": {
+    "authoritative_titles": [
+      "Om Chapter 1: Udhiram - The Blood Wood",
+      "O.M: Operation Mole",
+      "ஓ.ம்: Operation Mole",
+      "Dhanush 55",
+      "D55",
+      "OM – Chapter 1: Udhiram – The Blood Wood",
+      "OM Chapter 1: Udhiram - The Blood Wood",
+      "Om: Chapter 1 – Udhiram: The Blood Wood",
+      "OM Chapter 1",
+      "ஓம் Chapter 1",
+      "Operation Mole",
+      "O.M: Chapter 1"
+    ],
+    "imdb_id": "tt34515768",
+    "key": "om|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "O.M: Operation Mole",
+    "matched_year": 2026,
+    "query_title": "OM",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-16T15:35:48.534370+00:00"
   },
   "onslaught": {
     "authoritative_titles": [
