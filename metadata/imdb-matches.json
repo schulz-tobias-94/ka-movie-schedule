@@ -2374,6 +2374,33 @@
     "status": "search_fallback",
     "verified_at": "2026-11-10T14:47:21.699496+00:00"
   },
+  "ebenezer eine weihnachtsgeschichte": {
+    "authoritative_titles": [
+      "Ebenezer – Eine Weihnachtsgeschichte",
+      "Ebenezer",
+      "Ebenezer",
+      "Um Conto de Natal",
+      "Ebenezer: A Christmas Carol",
+      "אבנעזר: רוחות חג המולד",
+      "เอเบนีเซอร์และคืนคริสต์มาส",
+      "ابنزر: سرود کریسمس",
+      "ابنزر",
+      "Ebenezer: Božićna priča"
+    ],
+    "imdb_id": "tt38773219",
+    "key": "ebenezer eine weihnachtsgeschichte",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Ebenezer",
+    "matched_year": 2026,
+    "query_title": "Ebenezer: Eine Weihnachtsgeschichte",
+    "reason": null,
+    "resolved_via": "ebenezer eine weihnachtsgeschichte engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-05T14:32:44.757055+00:00"
+  },
   "ebenezer eine weihnachtsgeschichte engl": {
     "authoritative_titles": [
       "Ebenezer – Eine Weihnachtsgeschichte",
@@ -4228,6 +4255,20 @@
     "status": "confident",
     "verified_at": "2026-08-30T11:51:11.738963+00:00"
   },
+  "musik": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "musik",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "MUSIK",
+    "reason": "no_imdb_id",
+    "resolved_via": null,
+    "score": 55,
+    "status": "search_fallback",
+    "verified_at": "2026-11-17T15:54:50.436942+00:00"
+  },
   "mutiny": {
     "authoritative_titles": [
       "Mutiny",
@@ -5289,6 +5330,102 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-06T08:51:49.658218+00:00"
+  },
+  "puella magi madoka magica der film walpurgisnacht rising jap mit deutschen ut": {
+    "authoritative_titles": [
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "Gekijōban Mahō Shōjo Madoka☆Magica: Walpurgis no Kaiten",
+      "Gekijouban Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "Magical Girl Madoka☆Magica the Movie: Turning the Tide of Walpurgis",
+      "Puella Magi Madoka☆Magica the Movie -Walpurgisnacht: Rising-",
+      "Madoka Movie 4",
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "忧郁少女2",
+      "劇場版 魔法少女小圓<瓦爾普吉斯的迴天>",
+      "สาวน้อยเวทมนตร์ มาโดกะ มาจิก้า เดอะ มูฟวี่ <การหวนคืนแห่งวัลเพอร์กิส>"
+    ],
+    "imdb_id": "tt14523706",
+    "key": "puella magi madoka magica der film walpurgisnacht rising jap mit deutschen ut",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "matched_year": 2026,
+    "query_title": "Puella Magi Madoka Magica Der Film - Walpurgisnacht: Rising (Jap.mit deutschen Ut)",
+    "reason": null,
+    "resolved_via": "puella magi madoka magica der film walpurgisnacht rising jap mit deutschen ut|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-17T15:54:50.186980+00:00"
+  },
+  "puella magi madoka magica der film walpurgisnacht rising jap mit deutschen ut|2026": {
+    "authoritative_titles": [
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "Gekijōban Mahō Shōjo Madoka☆Magica: Walpurgis no Kaiten",
+      "Gekijouban Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "Magical Girl Madoka☆Magica the Movie: Turning the Tide of Walpurgis",
+      "Puella Magi Madoka☆Magica the Movie -Walpurgisnacht: Rising-",
+      "Madoka Movie 4",
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "忧郁少女2",
+      "劇場版 魔法少女小圓<瓦爾普吉斯的迴天>",
+      "สาวน้อยเวทมนตร์ มาโดกะ มาจิก้า เดอะ มูฟวี่ <การหวนคืนแห่งวัลเพอร์กิส>"
+    ],
+    "imdb_id": "tt14523706",
+    "key": "puella magi madoka magica der film walpurgisnacht rising jap mit deutschen ut|2026",
+    "matched_by": [
+      "original title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "matched_year": 2026,
+    "query_title": "Puella Magi Madoka Magica Der Film - Walpurgisnacht: Rising (Jap.mit deutschen Ut)",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-17T15:54:50.186980+00:00"
+  },
+  "puella magi madoka magica the movie walpurgisnacht rising": {
+    "authoritative_titles": [
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "Gekijōban Mahō Shōjo Madoka☆Magica: Walpurgis no Kaiten",
+      "Gekijouban Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "Magical Girl Madoka☆Magica the Movie: Turning the Tide of Walpurgis",
+      "Puella Magi Madoka☆Magica the Movie -Walpurgisnacht: Rising-",
+      "Madoka Movie 4",
+      "Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "忧郁少女2",
+      "劇場版 魔法少女小圓<瓦爾普吉斯的迴天>",
+      "สาวน้อยเวทมนตร์ มาโดกะ มาจิก้า เดอะ มูฟวี่ <การหวนคืนแห่งวัลเพอร์กิส>"
+    ],
+    "imdb_id": "tt14523706",
+    "key": "puella magi madoka magica the movie walpurgisnacht rising",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "matched_year": 2026,
+    "query_title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising",
+    "reason": null,
+    "resolved_via": "puella magi madoka magica der film walpurgisnacht rising jap mit deutschen ut|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-17T15:54:50.186980+00:00"
   },
   "queen budapest": {
     "authoritative_titles": [
