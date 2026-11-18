@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-24",
-    "start": "2026-11-17"
+    "end": "2026-11-25",
+    "start": "2026-11-18"
   },
-  "retrieved_at": "2026-11-17T16:54:45.875993+01:00",
+  "retrieved_at": "2026-11-18T16:33:41.678627+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/13859",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-17",
-      "dimension": "2D",
-      "director_names": [
-        "Martin McDonagh"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wild Horse Nine",
-      "movie_url": "https://www.universum-city.de/de/programm/1598110",
-      "original_language": "English",
-      "original_title": "Wild Horse Nine",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 117,
-      "screening_url": "https://www.universum-city.de/de/programm/1598110/45761292",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "14:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14596",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-17",
-      "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
-      "original_language": "English",
-      "original_title": "Wildwood",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 131,
-      "screening_url": "https://www.universum-city.de/de/programm/1655870/46511338",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 4",
@@ -69,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-18",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Takashi Yamazaki"
+      ],
       "format_label": "OmU",
       "movie_title": "Godzilla Minus Zero (japanisch mit engl.Ut.)",
       "movie_url": null,
@@ -78,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 135,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1767065/46511335",
       "subtitle_language": "English",
       "technology": null,
       "time": "17:15:00"
@@ -102,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 117,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1598110/46754495",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:45:00"
@@ -115,7 +69,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-18",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Ti West"
+      ],
       "format_label": "OmU",
       "movie_title": "Ebenezer: Eine Weihnachtsgeschichte (engl.OmU)",
       "movie_url": null,
@@ -124,7 +80,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 116,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1822403/46394947",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:15:00"
@@ -148,7 +104,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 131,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1655870/46511330",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:30:00"
@@ -193,7 +149,7 @@
       "original_title": "The Hunger Games: Sunrise on the Reaping",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": 158,
+      "runtime_minutes": 159,
       "screening_url": null,
       "subtitle_language": "German",
       "technology": null,
@@ -305,7 +261,7 @@
       "original_title": "ஓ.ம்: Operation Mole",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": 179,
+      "runtime_minutes": 178,
       "screening_url": null,
       "subtitle_language": "English",
       "technology": null,
@@ -341,7 +297,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-20",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Ti West"
+      ],
       "format_label": "OmU",
       "movie_title": "Ebenezer: Eine Weihnachtsgeschichte (engl.OmU)",
       "movie_url": null,
@@ -395,7 +353,7 @@
       "original_title": "The Hunger Games: Sunrise on the Reaping",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": 158,
+      "runtime_minutes": 159,
       "screening_url": null,
       "subtitle_language": "German",
       "technology": null,
@@ -409,7 +367,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-21",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Takashi Yamazaki"
+      ],
       "format_label": "OmU",
       "movie_title": "Godzilla Minus Zero (japanisch mit engl.Ut.)",
       "movie_url": null,
@@ -521,7 +481,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-22",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Ti West"
+      ],
       "format_label": "OmU",
       "movie_title": "Ebenezer: Eine Weihnachtsgeschichte (engl.OmU)",
       "movie_url": null,
@@ -551,7 +513,7 @@
       "original_title": "The Hunger Games: Sunrise on the Reaping",
       "production_countries": [],
       "release_year": 2026,
-      "runtime_minutes": 158,
+      "runtime_minutes": 159,
       "screening_url": null,
       "subtitle_language": "German",
       "technology": null,
@@ -679,7 +641,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Ti West"
+      ],
       "format_label": "OmU",
       "movie_title": "Ebenezer: Eine Weihnachtsgeschichte (engl.OmU)",
       "movie_url": null,
@@ -780,6 +744,74 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15344",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-25",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Godzilla Minus Zero (japanisch mit dt.Ut.)",
+      "movie_url": null,
+      "original_language": "Japanese",
+      "original_title": "ゴジラ-0.0",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 135,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "16:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 2",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14678",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-25",
+      "dimension": "2D",
+      "director_names": [
+        "Martin McDonagh"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Wild Horse Nine",
+      "movie_url": "https://www.universum-city.de/de/programm/1598110",
+      "original_language": "English",
+      "original_title": "Wild Horse Nine",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 117,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "17:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14637",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-11-25",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Die Tribute von Panem - Sunrise on the Reaping",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Hunger Games: Sunrise on the Reaping",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 159,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:15:00"
     }
   ],
   "success": true

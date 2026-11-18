@@ -442,6 +442,20 @@
     "status": "confident",
     "verified_at": "2026-10-02T12:27:02.542049+00:00"
   },
+  "bearcave": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "bearcave",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Bearcave",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": 33,
+    "status": "search_fallback",
+    "verified_at": "2026-11-18T15:33:45.302999+00:00"
+  },
   "bethlehem kudumba unit": {
     "authoritative_titles": [
       "Bethlehem Kudumba Unit",
