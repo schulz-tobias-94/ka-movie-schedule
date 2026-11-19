@@ -3054,6 +3054,38 @@
     "status": "confident",
     "verified_at": "2026-10-29T12:54:10.054974+00:00"
   },
+  "grease": {
+    "authoritative_titles": [
+      "Grease",
+      "Grease",
+      "Grease",
+      "",
+      "Nos Tempos da Brilhantina",
+      "火爆浪子",
+      "Grease – Schmiere",
+      "Grease Brillantina",
+      "กรีส",
+      "Vaselina",
+      "Grease er ordet",
+      "Γκριζ",
+      "ბრეოლინი"
+    ],
+    "imdb_id": "tt0077631",
+    "key": "grease",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Grease",
+    "matched_year": 1978,
+    "query_title": "Grease",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-19T15:40:13.406450+00:00"
+  },
   "gupi und der könig der nicht lachen kann|2026": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -4177,6 +4209,62 @@
     "status": "search_fallback",
     "verified_at": "2026-09-23T11:29:00.869239+00:00"
   },
+  "meine frau unsere schwiegertochter und ich engl omu": {
+    "authoritative_titles": [
+      "Meine Frau, unsere Schwiegertochter und ich",
+      "Focker-in-Law",
+      "Focker-in-Law",
+      "Meet the Parents 4",
+      "Entrando Na Maior Fria",
+      "Entrando Numa Fria 4",
+      "Fakerlərlə Tanışlıq: Yeni Bölüm",
+      "Fakərlərlə Tanışlıq 4"
+    ],
+    "imdb_id": "tt34966140",
+    "key": "meine frau unsere schwiegertochter und ich engl omu",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Focker-in-Law",
+    "matched_year": 2026,
+    "query_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
+    "reason": null,
+    "resolved_via": "meine frau unsere schwiegertochter und ich engl omu|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-19T15:40:15.410461+00:00"
+  },
+  "meine frau unsere schwiegertochter und ich engl omu|2026": {
+    "authoritative_titles": [
+      "Meine Frau, unsere Schwiegertochter und ich",
+      "Focker-in-Law",
+      "Focker-in-Law",
+      "Meet the Parents 4",
+      "Entrando Na Maior Fria",
+      "Entrando Numa Fria 4",
+      "Fakerlərlə Tanışlıq: Yeni Bölüm",
+      "Fakərlərlə Tanışlıq 4"
+    ],
+    "imdb_id": "tt34966140",
+    "key": "meine frau unsere schwiegertochter und ich engl omu|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Focker-in-Law",
+    "matched_year": 2026,
+    "query_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-19T15:40:15.410461+00:00"
+  },
   "met opera 2026 27 geburtstagsgala 20 jahre met live im kino": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -4897,6 +4985,28 @@
     "score": 56,
     "status": "confident",
     "verified_at": "2026-10-21T11:41:52.924680+00:00"
+  },
+  "parkway drive home": {
+    "authoritative_titles": [
+      "Parkway Drive - Home",
+      "Parkway Drive - Home",
+      "Parkway Drive - Home",
+      ""
+    ],
+    "imdb_id": "tt47657111",
+    "key": "parkway drive home",
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Parkway Drive - Home",
+    "matched_year": 2026,
+    "query_title": "Parkway Drive - Home",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-19T15:40:14.746757+00:00"
   },
   "paw patrol der dino film engl": {
     "authoritative_titles": [
