@@ -2075,6 +2075,78 @@
     "status": "confident",
     "verified_at": "2026-11-11T14:10:30.142347+00:00"
   },
+  "die tribute von panem sunrise on the reaping engl": {
+    "authoritative_titles": [
+      "Die Tribute von Panem: Sunrise on the Reaping",
+      "The Hunger Games: Sunrise on the Reaping",
+      "The Hunger Games: Sunrise on the Reaping",
+      "Die Tribute von Panem - Sunrise on the Reaping",
+      "The Hunger Games 6",
+      "饥饿游戏：收获日出",
+      "Os Jogos da Fome: Amanhecer na Ceifa",
+      "შიმშილის თამაშები: მზის ამოსვლა მკისას",
+      "헝거게임: 선라이즈 온 더 리핑",
+      "Los Juegos del Hambre: Amanecer en la Cosecha",
+      "Igre gladi: Osvit dana žetve",
+      "เดอะ ฮังเกอร์เกมส์ รุ่งอรุณเกมล่าเกม",
+      "بازی‌های گرسنگی: سپیده‌ دمِ مراسم انتخاب",
+      "Açlık Oyunları: Hasatta Gündoğumu",
+      "Bado Žaidynės: Aukų Dienai Auštant",
+      "Jogos Vorazes 6"
+    ],
+    "imdb_id": "tt32558705",
+    "key": "die tribute von panem sunrise on the reaping engl",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Hunger Games: Sunrise on the Reaping",
+    "matched_year": 2026,
+    "query_title": "Die Tribute von Panem - Sunrise on the Reaping (engl",
+    "reason": null,
+    "resolved_via": "die tribute von panem sunrise on the reaping engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-20T15:21:34.980409+00:00"
+  },
+  "die tribute von panem sunrise on the reaping engl|2026": {
+    "authoritative_titles": [
+      "Die Tribute von Panem: Sunrise on the Reaping",
+      "The Hunger Games: Sunrise on the Reaping",
+      "The Hunger Games: Sunrise on the Reaping",
+      "Die Tribute von Panem - Sunrise on the Reaping",
+      "The Hunger Games 6",
+      "饥饿游戏：收获日出",
+      "Os Jogos da Fome: Amanhecer na Ceifa",
+      "შიმშილის თამაშები: მზის ამოსვლა მკისას",
+      "헝거게임: 선라이즈 온 더 리핑",
+      "Los Juegos del Hambre: Amanecer en la Cosecha",
+      "Igre gladi: Osvit dana žetve",
+      "เดอะ ฮังเกอร์เกมส์ รุ่งอรุณเกมล่าเกม",
+      "بازی‌های گرسنگی: سپیده‌ دمِ مراسم انتخاب",
+      "Açlık Oyunları: Hasatta Gündoğumu",
+      "Bado Žaidynės: Aukų Dienai Auštant",
+      "Jogos Vorazes 6"
+    ],
+    "imdb_id": "tt32558705",
+    "key": "die tribute von panem sunrise on the reaping engl|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "The Hunger Games: Sunrise on the Reaping",
+    "matched_year": 2026,
+    "query_title": "Die Tribute von Panem - Sunrise on the Reaping (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-20T15:21:34.980409+00:00"
+  },
   "die tribute von panem sunrise on the reaping|2026": {
     "authoritative_titles": [
       "Die Tribute von Panem: Sunrise on the Reaping",
@@ -7140,7 +7212,11 @@
       "헝거게임: 선라이즈 온 더 리핑",
       "Los Juegos del Hambre: Amanecer en la Cosecha",
       "Igre gladi: Osvit dana žetve",
-      "เดอะ ฮังเกอร์เกมส์ รุ่งอรุณเกมล่าเกม"
+      "เดอะ ฮังเกอร์เกมส์ รุ่งอรุณเกมล่าเกม",
+      "بازی‌های گرسنگی: سپیده‌ دمِ مراسم انتخاب",
+      "Açlık Oyunları: Hasatta Gündoğumu",
+      "Bado Žaidynės: Aukų Dienai Auštant",
+      "Jogos Vorazes 6"
     ],
     "imdb_id": "tt32558705",
     "key": "the hunger games sunrise on the reaping",
@@ -7151,10 +7227,10 @@
     "matched_year": 2026,
     "query_title": "The Hunger Games: Sunrise on the Reaping",
     "reason": null,
-    "resolved_via": "die tribute von panem sunrise on the reaping|2026",
-    "score": 56,
+    "resolved_via": "die tribute von panem sunrise on the reaping engl|2026",
+    "score": 94,
     "status": "confident",
-    "verified_at": "2026-11-11T14:10:30.142347+00:00"
+    "verified_at": "2026-11-20T15:21:34.980409+00:00"
   },
   "the invite": {
     "authoritative_titles": [
@@ -8256,6 +8332,64 @@
     "score": 33,
     "status": "search_fallback",
     "verified_at": "2026-10-22T11:44:25.111451+00:00"
+  },
+  "wie verhext": {
+    "authoritative_titles": [
+      "Wie verhext",
+      "Hexed",
+      "Hexed",
+      "Hexe: Magický svět",
+      "Hexe: Kráľovstvo mágie",
+      "魔法師的袐密王國",
+      "Billie maailmojen välissä",
+      "Hechizo: Bienvenidos a Hexe",
+      "Disney's Hexed"
+    ],
+    "imdb_id": "tt38077943",
+    "key": "wie verhext",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Hexed",
+    "matched_year": 2026,
+    "query_title": "Wie verhext",
+    "reason": null,
+    "resolved_via": "wie verhext|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-20T15:21:35.833311+00:00"
+  },
+  "wie verhext|2026": {
+    "authoritative_titles": [
+      "Wie verhext",
+      "Hexed",
+      "Hexed",
+      "Hexe: Magický svět",
+      "Hexe: Kráľovstvo mágie",
+      "魔法師的袐密王國",
+      "Billie maailmojen välissä",
+      "Hechizo: Bienvenidos a Hexe",
+      "Disney's Hexed"
+    ],
+    "imdb_id": "tt38077943",
+    "key": "wie verhext|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Hexed",
+    "matched_year": 2026,
+    "query_title": "Wie verhext",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-20T15:21:35.833311+00:00"
   },
   "wild horse nine": {
     "authoritative_titles": [

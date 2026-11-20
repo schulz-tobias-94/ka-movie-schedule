@@ -7,85 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-26",
-    "start": "2026-11-19"
+    "end": "2026-11-27",
+    "start": "2026-11-20"
   },
-  "retrieved_at": "2026-11-19T16:39:27.010847+01:00",
+  "retrieved_at": "2026-11-20T16:20:53.866069+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-19",
-      "dimension": null,
-      "director_names": [
-        "Norman Jewison"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Jesus Christ Superstar",
-      "movie_url": "https://www.schauburg.de/film/jesus-christ-superstar-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 102,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-19",
-      "dimension": null,
-      "director_names": [
-        "Nathan Fielder & Lance Oppenheim"
-      ],
-      "format_label": "OmU",
-      "movie_title": "You Can See Everything",
-      "movie_url": "https://www.schauburg.de/film/you-can-see-everything-ov",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 174,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-19",
-      "dimension": null,
-      "director_names": [
-        "Javier Calvo",
-        "Javier Ambrossi"
-      ],
-      "format_label": "OmU",
-      "movie_title": "La Bola negra",
-      "movie_url": "https://www.schauburg.de/film/la-bola-negra",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 155,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -449,6 +376,31 @@
       "subtitle_language": null,
       "technology": null,
       "time": "18:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-11-28",
+      "dimension": null,
+      "director_names": [
+        "Yuval Abraham",
+        "Rachel Szor"
+      ],
+      "format_label": "OmU",
+      "movie_title": "NAZA",
+      "movie_url": "https://www.schauburg.de/film/naza",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 80,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "17:00:00"
     }
   ],
   "success": true
