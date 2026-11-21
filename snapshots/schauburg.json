@@ -7,36 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-27",
-    "start": "2026-11-20"
+    "end": "2026-11-28",
+    "start": "2026-11-21"
   },
-  "retrieved_at": "2026-11-20T16:20:53.866069+01:00",
+  "retrieved_at": "2026-11-21T15:33:41.193829+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-20",
-      "dimension": null,
-      "director_names": [
-        "Martin McDonagh"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wild Horse Nine",
-      "movie_url": "https://www.schauburg.de/film/wild-horse-nine",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 118,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:00:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -401,6 +377,30 @@
       "subtitle_language": null,
       "technology": null,
       "time": "17:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-11-29",
+      "dimension": null,
+      "director_names": [
+        "François Truffaut"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Fahrenheit 451 (OmU)",
+      "movie_url": "https://www.schauburg.de/film/fahrenheit-451-omu",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 112,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "15:00:00"
     }
   ],
   "success": true

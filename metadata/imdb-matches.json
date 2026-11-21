@@ -2547,6 +2547,33 @@
     "status": "confident",
     "verified_at": "2026-11-05T14:32:44.757055+00:00"
   },
+  "ebenezer eine weihnachtsgeschichte|2026": {
+    "authoritative_titles": [
+      "Ebenezer – Eine Weihnachtsgeschichte",
+      "Ebenezer",
+      "Ebenezer",
+      "Um Conto de Natal",
+      "Ebenezer: A Christmas Carol",
+      "אבנעזר: רוחות חג המולד",
+      "เอเบนีเซอร์และคืนคริสต์มาส",
+      "ابنزر: سرود کریسمس",
+      "ابنزر",
+      "Ebenezer: Božićna priča"
+    ],
+    "imdb_id": "tt38773219",
+    "key": "ebenezer eine weihnachtsgeschichte|2026",
+    "matched_by": [
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Ebenezer",
+    "matched_year": 2026,
+    "query_title": "Ebenezer: Eine Weihnachtsgeschichte",
+    "reason": null,
+    "resolved_via": "ebenezer eine weihnachtsgeschichte engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-05T14:32:44.757055+00:00"
+  },
   "ein nobody gegen putin": {
     "authoritative_titles": [],
     "imdb_id": null,
@@ -4837,7 +4864,7 @@
     "matched_year": 2026,
     "query_title": "Om Chapter 1: Udhiram - The Blood Wood",
     "reason": null,
-    "resolved_via": "om|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-11-16T15:35:48.534370+00:00"
@@ -6080,6 +6107,29 @@
     "score": 94,
     "status": "confident",
     "verified_at": "2026-09-20T11:17:00.463298+00:00"
+  },
+  "s миколай та загублений лист": {
+    "authoritative_titles": [
+      "St. Nicholas and the Lost Letter",
+      "A December Tale 2: The Lost Letter",
+      "S Миколай та загублений лист",
+      "S Mykolai ta zahublenyi lyst",
+      "S Nicholas and the Lost Letter"
+    ],
+    "imdb_id": "tt40378088",
+    "key": "s миколай та загублений лист",
+    "matched_by": [
+      "original title",
+      "original language"
+    ],
+    "matched_title": "A December Tale 2: The Lost Letter",
+    "matched_year": 2026,
+    "query_title": "S Миколай та загублений лист",
+    "reason": null,
+    "resolved_via": null,
+    "score": 56,
+    "status": "confident",
+    "verified_at": "2026-11-21T14:34:22.378036+00:00"
   },
   "sacrifice": {
     "authoritative_titles": [
