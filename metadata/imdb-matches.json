@@ -2794,6 +2794,49 @@
     "status": "confident",
     "verified_at": "2026-08-07T07:39:30.192278+00:00"
   },
+  "fahrenheit 451": {
+    "authoritative_titles": [
+      "Fahrenheit 451",
+      "Fahrenheit 451",
+      "Fahrenheit 451",
+      "",
+      "451 градуса по Фаренхайт",
+      "華氏451",
+      "451 градус по Фаренгейту",
+      "Фаренхајт 451",
+      "451º по Фаренгейту",
+      "華氏451度",
+      "Φαρενάιτ 451",
+      "Στους 451 Βαθμούς Φαρενάιτ",
+      "451 градус за Фаренгейтом",
+      "Değişen Dünyanın İnsanları",
+      "451° Fahrenheita",
+      "451 Fahrenheit",
+      "Brennpunkt Fahrenheit 451",
+      "451 աստիճան ըստ Ֆարենհայթի",
+      "ფარენჰაიტი 451",
+      "فهرنهايت 451",
+      "فارنهایت ۴۵۱",
+      "פרנהייט 451",
+      "화씨 451",
+      "பாரன்ஃகைட் 451"
+    ],
+    "imdb_id": "tt0060390",
+    "key": "fahrenheit 451",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Fahrenheit 451",
+    "matched_year": 1966,
+    "query_title": "Fahrenheit 451",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-22T14:29:24.798432+00:00"
+  },
   "flesh fuel": {
     "authoritative_titles": [
       "Du fioul dans les artères",
@@ -3200,18 +3243,25 @@
     "verified_at": "2026-11-01T13:14:33.447904+00:00"
   },
   "hadoota": {
-    "authoritative_titles": [],
-    "imdb_id": null,
+    "authoritative_titles": [
+      "Hadoota",
+      "Hadoota",
+      "حدوتة"
+    ],
+    "imdb_id": "tt43638234",
     "key": "hadoota",
-    "matched_by": [],
-    "matched_title": null,
-    "matched_year": null,
+    "matched_by": [
+      "German localized title",
+      "original language"
+    ],
+    "matched_title": "Hadoota",
+    "matched_year": 2026,
     "query_title": "Hadoota",
-    "reason": "no_imdb_id",
+    "reason": null,
     "resolved_via": null,
     "score": 56,
-    "status": "search_fallback",
-    "verified_at": "2026-11-08T13:16:34.921049+00:00"
+    "status": "confident",
+    "verified_at": "2026-11-22T14:29:23.487985+00:00"
   },
   "halloween double bill invasion of the body snatchers omu carnival of souls": {
     "authoritative_titles": [],
@@ -8722,6 +8772,52 @@
     "score": 93,
     "status": "confident",
     "verified_at": "2026-08-03T12:37:38.674901+00:00"
+  },
+  "yeh prem mol liya": {
+    "authoritative_titles": [
+      "Yeh Prem Mol Liya",
+      "Yeh Prem Mol Liya",
+      "ये प्रेम मोल लिया"
+    ],
+    "imdb_id": "tt38907401",
+    "key": "yeh prem mol liya",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Yeh Prem Mol Liya",
+    "matched_year": 2026,
+    "query_title": "Yeh Prem Mol Liya",
+    "reason": null,
+    "resolved_via": "yeh prem mol liya|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-22T14:29:24.004070+00:00"
+  },
+  "yeh prem mol liya|2026": {
+    "authoritative_titles": [
+      "Yeh Prem Mol Liya",
+      "Yeh Prem Mol Liya",
+      "ये प्रेम मोल लिया"
+    ],
+    "imdb_id": "tt38907401",
+    "key": "yeh prem mol liya|2026",
+    "matched_by": [
+      "German localized title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Yeh Prem Mol Liya",
+    "matched_year": 2026,
+    "query_title": "Yeh Prem Mol Liya",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-22T14:29:24.004070+00:00"
   },
   "you can see everything": {
     "authoritative_titles": [],
