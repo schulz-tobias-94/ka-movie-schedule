@@ -3603,6 +3603,36 @@
     "status": "search_fallback",
     "verified_at": "2026-08-30T11:51:10.971521+00:00"
   },
+  "i play rocky": {
+    "authoritative_titles": [
+      "I Play Rocky",
+      "I Play Rocky",
+      "I Play Rocky",
+      "",
+      "Já, Rocky",
+      "Yo Soy Rocky",
+      "Eu Sou Rocky",
+      "Moi, Rocky",
+      "Mina olen Rocky",
+      "म रकी खेल्छु",
+      "Aš būsiu Rokis"
+    ],
+    "imdb_id": "tt11995650",
+    "key": "i play rocky",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "I Play Rocky",
+    "matched_year": 2026,
+    "query_title": "I Play Rocky",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-23T17:58:21.412276+00:00"
+  },
   "insidious out of the further": {
     "authoritative_titles": [
       "Insidious: Out of the Further",
@@ -8448,19 +8478,74 @@
     "imdb_id": "tt38077943",
     "key": "wie verhext",
     "matched_by": [
-      "German localized title",
+      "TMDb authoritative title alias"
+    ],
+    "matched_title": "Hexed",
+    "matched_year": 2026,
+    "query_title": "Wie verhext",
+    "reason": null,
+    "resolved_via": "wie verhext engl|2026",
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-23T17:58:22.064545+00:00"
+  },
+  "wie verhext engl": {
+    "authoritative_titles": [
+      "Wie verhext",
+      "Hexed",
+      "Hexed",
+      "Hexe: Magický svět",
+      "Hexe: Kráľovstvo mágie",
+      "魔法師的袐密王國",
+      "Billie maailmojen välissä",
+      "Hechizo: Bienvenidos a Hexe",
+      "Disney's Hexed"
+    ],
+    "imdb_id": "tt38077943",
+    "key": "wie verhext engl",
+    "matched_by": [
+      "English title",
       "exact year",
       "runtime within five",
       "original language"
     ],
     "matched_title": "Hexed",
     "matched_year": 2026,
-    "query_title": "Wie verhext",
+    "query_title": "Wie verhext (engl",
     "reason": null,
-    "resolved_via": "wie verhext|2026",
+    "resolved_via": "wie verhext engl|2026",
     "score": 94,
     "status": "confident",
-    "verified_at": "2026-11-20T15:21:35.833311+00:00"
+    "verified_at": "2026-11-23T17:58:22.064545+00:00"
+  },
+  "wie verhext engl|2026": {
+    "authoritative_titles": [
+      "Wie verhext",
+      "Hexed",
+      "Hexed",
+      "Hexe: Magický svět",
+      "Hexe: Kráľovstvo mágie",
+      "魔法師的袐密王國",
+      "Billie maailmojen välissä",
+      "Hechizo: Bienvenidos a Hexe",
+      "Disney's Hexed"
+    ],
+    "imdb_id": "tt38077943",
+    "key": "wie verhext engl|2026",
+    "matched_by": [
+      "English title",
+      "exact year",
+      "runtime within five",
+      "original language"
+    ],
+    "matched_title": "Hexed",
+    "matched_year": 2026,
+    "query_title": "Wie verhext (engl",
+    "reason": null,
+    "resolved_via": null,
+    "score": 94,
+    "status": "confident",
+    "verified_at": "2026-11-23T17:58:22.064545+00:00"
   },
   "wie verhext|2026": {
     "authoritative_titles": [
