@@ -1139,6 +1139,26 @@
     "status": "confident",
     "verified_at": "2026-09-18T11:08:38.605381+00:00"
   },
+  "cosmic samson": {
+    "authoritative_titles": [
+      "Cosmic Samson",
+      "Cosmic Samson",
+      "കോസ്മിക് സാംസൺ"
+    ],
+    "imdb_id": "tt39139918",
+    "key": "cosmic samson",
+    "matched_by": [
+      "German localized title"
+    ],
+    "matched_title": "Cosmic Samson",
+    "matched_year": 2026,
+    "query_title": "Cosmic Samson",
+    "reason": null,
+    "resolved_via": null,
+    "score": 50,
+    "status": "confident",
+    "verified_at": "2026-11-24T17:35:06.371808+00:00"
+  },
   "coyote vs acme": {
     "authoritative_titles": [
       "Coyote vs. ACME",
@@ -2458,7 +2478,7 @@
     "resolved_via": null,
     "score": 56,
     "status": "search_fallback",
-    "verified_at": "2026-11-10T14:47:21.699496+00:00"
+    "verified_at": "2026-11-24T17:35:05.762566+00:00"
   },
   "ebenezer eine weihnachtsgeschichte": {
     "authoritative_titles": [
@@ -3351,6 +3371,20 @@
     "score": 85,
     "status": "confident",
     "verified_at": "2026-11-10T14:47:22.468597+00:00"
+  },
+  "hexed": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "hexed",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Hexed",
+    "reason": "ambiguous",
+    "resolved_via": null,
+    "score": 56,
+    "status": "search_fallback",
+    "verified_at": "2026-11-24T17:35:06.059849+00:00"
   },
   "hindi engl omu awarapan 2": {
     "authoritative_titles": [
@@ -9060,6 +9094,20 @@
     "score": 56,
     "status": "search_fallback",
     "verified_at": "2026-10-06T13:15:06.052973+00:00"
+  },
+  "чарокрай королівство магії": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "чарокрай королівство магії",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Чарокрай: Королівство магії",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": -100,
+    "status": "search_fallback",
+    "verified_at": "2026-11-24T17:35:06.220865+00:00"
   },
   "مطلوب آيليان": {
     "authoritative_titles": [

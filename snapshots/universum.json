@@ -7,82 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-11-30",
-    "start": "2026-11-23"
+    "end": "2026-12-01",
+    "start": "2026-11-24"
   },
-  "retrieved_at": "2026-11-23T18:58:16.895344+01:00",
+  "retrieved_at": "2026-11-24T18:34:59.659494+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 1",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15352",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-23",
-      "dimension": "2D",
-      "director_names": [
-        "David Leitch"
-      ],
-      "format_label": "OmU",
-      "movie_title": "How to Rob a Bank (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "How to Rob a Bank",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 122,
-      "screening_url": "https://www.universum-city.de/de/programm/1670497/46638606",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "17:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14683",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-23",
-      "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
-      "original_language": "English",
-      "original_title": "Wildwood",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 131,
-      "screening_url": "https://www.universum-city.de/de/programm/1655870/46113585",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15373",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-23",
-      "dimension": "2D",
-      "director_names": [],
-      "format_label": "OV",
-      "movie_title": "OV Sneak Preview",
-      "movie_url": null,
-      "original_language": null,
-      "original_title": "$undefined",
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 120,
-      "screening_url": "https://www.universum-city.de/de/programm/1941729/46638658",
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 1",
@@ -91,7 +21,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Ti West"
+      ],
       "format_label": "OmU",
       "movie_title": "Ebenezer: Eine Weihnachtsgeschichte (engl.OmU)",
       "movie_url": null,
@@ -100,7 +32,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 116,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1822403/46638668",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "17:15:00"
@@ -113,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Noah Segan"
+      ],
       "format_label": "OmU",
       "movie_title": "The Only Living Pickpocket In New York",
       "movie_url": null,
@@ -122,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 88,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1650974/46638634",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:30:00"
@@ -135,7 +69,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Yukihiro Miyamoto",
+        "Akiyuki Shinbo"
+      ],
       "format_label": "OmU",
       "movie_title": "Puella Magi Madoka Magica Der Film - Walpurgisnacht: Rising (Jap.mit deutschen Ut)",
       "movie_url": null,
@@ -144,7 +81,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 120,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1655852/46638642",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:45:00"
@@ -157,7 +94,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Murat Şeker"
+      ],
       "format_label": "OmU",
       "movie_title": "Çakallarla Dans 8: Sututgart Çikarmasi",
       "movie_url": null,
@@ -166,7 +105,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 110,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1933056/46638676",
       "subtitle_language": "German",
       "technology": null,
       "time": "17:45:00"
@@ -179,7 +118,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-24",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Yukihiro Miyamoto",
+        "Akiyuki Shinbo"
+      ],
       "format_label": "OmU",
       "movie_title": "Puella Magi Madoka Magica Der Film - Walpurgisnacht: Rising (Jap.mit deutschen Ut)",
       "movie_url": null,
@@ -188,7 +130,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 120,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1655852/46638639",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:30:00"
@@ -267,12 +209,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-26",
       "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -335,7 +275,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Noah Segan"
+      ],
       "format_label": "OmU",
       "movie_title": "The Only Living Pickpocket In New York",
       "movie_url": null,
@@ -423,12 +365,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -601,12 +541,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-30",
       "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -660,6 +598,72 @@
       "subtitle_language": null,
       "technology": null,
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15527",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-01",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Ebenezer: Eine Weihnachtsgeschichte",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Ebenezer",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 116,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "17:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14702",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-01",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Hunger Games: Sunrise on the Reaping",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 159,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 3",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15428",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-01",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Wildwood",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Wildwood",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 131,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:00:00"
     }
   ],
   "success": true
