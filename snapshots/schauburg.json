@@ -7,87 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-12-01",
-    "start": "2026-11-24"
+    "end": "2026-12-02",
+    "start": "2026-11-25"
   },
-  "retrieved_at": "2026-11-24T18:34:25.192593+01:00",
+  "retrieved_at": "2026-11-25T18:05:53.284359+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-24",
-      "dimension": null,
-      "director_names": [
-        "Eugenia Bakurin",
-        "Arne Körner",
-        "Georges Schwizgebel"
-      ],
-      "format_label": "OmU",
-      "movie_title": "MUSIK",
-      "movie_url": "https://www.schauburg.de/film/musik",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 75,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "19:00:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-24",
-      "dimension": null,
-      "director_names": [
-        "Javier Calvo",
-        "Javier Ambrossi"
-      ],
-      "format_label": "OmeU",
-      "movie_title": "La Bola negra",
-      "movie_url": "https://www.schauburg.de/film/la-bola-negra",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 155,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-24",
-      "dimension": null,
-      "director_names": [
-        "Ti West"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Ebenezer: Eine Weihnachtsgeschichte",
-      "movie_url": "https://www.schauburg.de/film/ebenezer-eine-weihnachtsgeschichte",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 117,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "21:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -641,6 +566,54 @@
       "subtitle_language": null,
       "technology": null,
       "time": "21:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-12-03",
+      "dimension": null,
+      "director_names": [
+        "Bob Fosse"
+      ],
+      "format_label": "OV",
+      "movie_title": "All that Jazz (OV)",
+      "movie_url": "https://www.schauburg.de/film/al-that-jazz-ov",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 96,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "18:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-12-03",
+      "dimension": null,
+      "director_names": [
+        "Nathan Fielder & Lance Oppenheim"
+      ],
+      "format_label": "OV",
+      "movie_title": "You Can See Everything",
+      "movie_url": "https://www.schauburg.de/film/you-can-see-everything-ov",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 174,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "20:30:00"
     }
   ],
   "success": true

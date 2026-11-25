@@ -2502,7 +2502,7 @@
     "matched_year": 2026,
     "query_title": "Ebenezer: Eine Weihnachtsgeschichte",
     "reason": null,
-    "resolved_via": "ebenezer eine weihnachtsgeschichte engl|2026",
+    "resolved_via": "ebenezer eine weihnachtsgeschichte|2026",
     "score": 94,
     "status": "confident",
     "verified_at": "2026-11-05T14:32:44.757055+00:00"
@@ -2589,7 +2589,7 @@
     "matched_year": 2026,
     "query_title": "Ebenezer: Eine Weihnachtsgeschichte",
     "reason": null,
-    "resolved_via": "ebenezer eine weihnachtsgeschichte engl|2026",
+    "resolved_via": null,
     "score": 94,
     "status": "confident",
     "verified_at": "2026-11-05T14:32:44.757055+00:00"
@@ -5198,6 +5198,30 @@
     "score": 56,
     "status": "confident",
     "verified_at": "2026-10-21T11:41:52.924680+00:00"
+  },
+  "parallele leben": {
+    "authoritative_titles": [
+      "Parallele Leben",
+      "Parallel Tales",
+      "Histoires parallèles",
+      "Parallel Tales",
+      "Iš svetimų gyvenimų"
+    ],
+    "imdb_id": "tt36646880",
+    "key": "parallele leben",
+    "matched_by": [
+      "German localized title",
+      "director match",
+      "runtime within five"
+    ],
+    "matched_title": "Parallel Tales",
+    "matched_year": 2026,
+    "query_title": "Parallele Leben",
+    "reason": null,
+    "resolved_via": null,
+    "score": 93,
+    "status": "confident",
+    "verified_at": "2026-11-25T17:06:35.095350+00:00"
   },
   "parkway drive home": {
     "authoritative_titles": [
