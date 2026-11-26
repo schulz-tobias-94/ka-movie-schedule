@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-12-02",
-    "start": "2026-11-25"
+    "end": "2026-12-03",
+    "start": "2026-11-26"
   },
-  "retrieved_at": "2026-11-25T18:06:28.826090+01:00",
+  "retrieved_at": "2026-11-26T17:48:03.332980+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 4",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15344",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-25",
-      "dimension": "2D",
-      "director_names": [
-        "Takashi Yamazaki"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Godzilla Minus Zero (japanisch mit dt.Ut.)",
-      "movie_url": null,
-      "original_language": "Japanese",
-      "original_title": "ゴジラ-0.0",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 135,
-      "screening_url": "https://www.universum-city.de/de/programm/1767065/46638672",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "16:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14678",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-25",
-      "dimension": "2D",
-      "director_names": [
-        "Martin McDonagh"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wild Horse Nine",
-      "movie_url": "https://www.universum-city.de/de/programm/1598110",
-      "original_language": "English",
-      "original_title": "Wild Horse Nine",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 117,
-      "screening_url": "https://www.universum-city.de/de/programm/1598110/46638657",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "17:30:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 5",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14637",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-25",
-      "dimension": "2D",
-      "director_names": [
-        "Francis Lawrence"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "The Hunger Games: Sunrise on the Reaping",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 159,
-      "screening_url": "https://www.universum-city.de/de/programm/1687411/46349539",
-      "subtitle_language": "German",
-      "technology": "D-BOX",
-      "time": "20:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 3",
@@ -93,16 +21,18 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Travis Knight"
+      ],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1655870",
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 131,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1655870/46760541",
       "subtitle_language": "German",
       "technology": null,
       "time": "19:45:00"
@@ -115,7 +45,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-26",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "John Hamburg"
+      ],
       "format_label": "OmU",
       "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
       "movie_url": null,
@@ -124,7 +56,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 105,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1767084/46638611",
       "subtitle_language": "German",
       "technology": null,
       "time": "20:15:00"
@@ -181,9 +113,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-27",
       "dimension": "2D",
-      "director_names": [
-        "Francis Lawrence"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -227,9 +157,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [
-        "Francis Lawrence"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -251,10 +179,12 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Travis Knight"
+      ],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1655870",
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -273,7 +203,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "John Hamburg"
+      ],
       "format_label": "OmU",
       "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
       "movie_url": null,
@@ -339,9 +271,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-29",
       "dimension": "2D",
-      "director_names": [
-        "Francis Lawrence"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -363,9 +293,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-29",
       "dimension": "2D",
-      "director_names": [
-        "Martin McDonagh"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wild Horse Nine",
       "movie_url": "https://www.universum-city.de/de/programm/1598110",
@@ -387,7 +315,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-29",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "John Hamburg"
+      ],
       "format_label": "OmU",
       "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
       "movie_url": null,
@@ -431,10 +361,12 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-30",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Travis Knight"
+      ],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1655870",
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -519,9 +451,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-01",
       "dimension": "2D",
-      "director_names": [
-        "Francis Lawrence"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -543,10 +473,12 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-01",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Travis Knight"
+      ],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": null,
+      "movie_url": "https://www.universum-city.de/de/programm/1655870",
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -587,9 +519,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-02",
       "dimension": "2D",
-      "director_names": [
-        "Martin McDonagh"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wild Horse Nine",
       "movie_url": "https://www.universum-city.de/de/programm/1598110",
@@ -611,7 +541,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-02",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "John Hamburg"
+      ],
       "format_label": "OmU",
       "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
       "movie_url": null,
@@ -646,6 +578,96 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "18:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 1",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15564",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-03",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Wie verhext (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Hexed",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 103,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "17:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14817",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-03",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "2 Aile Arasinda",
+      "movie_url": null,
+      "original_language": "Turkish",
+      "original_title": "2 Aile Arasında",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 143,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "17:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 5",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14769",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-03",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "The Hunger Games: Sunrise on the Reaping",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 159,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": "D-BOX",
+      "time": "20:15:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15556",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-03",
+      "dimension": "2D",
+      "director_names": [
+        "Travis Knight"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Wildwood",
+      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "original_language": "English",
+      "original_title": "Wildwood",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 131,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:45:00"
     }
   ],
   "success": true
