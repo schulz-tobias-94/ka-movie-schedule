@@ -7,84 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-12-03",
-    "start": "2026-11-26"
+    "end": "2026-12-04",
+    "start": "2026-11-27"
   },
-  "retrieved_at": "2026-11-26T17:47:28.031427+01:00",
+  "retrieved_at": "2026-11-27T17:32:56.146220+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-26",
-      "dimension": null,
-      "director_names": [
-        "Randal Kleiser"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Grease",
-      "movie_url": "https://www.schauburg.de/film/grease-omu",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 112,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "18:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-26",
-      "dimension": null,
-      "director_names": [
-        "Peter Farrelly"
-      ],
-      "format_label": "OV",
-      "movie_title": "I Play Rocky",
-      "movie_url": "https://www.schauburg.de/film/i-play-rocky",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-26",
-      "dimension": null,
-      "director_names": [
-        "Travis Knight"
-      ],
-      "format_label": "OV",
-      "movie_title": "Wildwood",
-      "movie_url": "https://www.schauburg.de/film/wildwood",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 129,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -557,6 +485,54 @@
         "Nathan Fielder & Lance Oppenheim"
       ],
       "format_label": "OmU",
+      "movie_title": "You Can See Everything",
+      "movie_url": "https://www.schauburg.de/film/you-can-see-everything-ov",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 174,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-12-05",
+      "dimension": null,
+      "director_names": [
+        "Darko Tresnjak"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Met Opera 2026/27: Camille Saint-Saëns SAMSON ET DALILA",
+      "movie_url": "https://www.schauburg.de/film/met-opera-2026/27-camille-saint-saens-samson-et-dalila",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 240,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "18:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-12-05",
+      "dimension": null,
+      "director_names": [
+        "Nathan Fielder & Lance Oppenheim"
+      ],
+      "format_label": "OV",
       "movie_title": "You Can See Everything",
       "movie_url": "https://www.schauburg.de/film/you-can-see-everything-ov",
       "original_language": null,

@@ -7,60 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-12-03",
-    "start": "2026-11-26"
+    "end": "2026-12-04",
+    "start": "2026-11-27"
   },
-  "retrieved_at": "2026-11-26T17:48:03.332980+01:00",
+  "retrieved_at": "2026-11-27T17:33:31.810144+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 3",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/15423",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-26",
-      "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
-      "original_language": "English",
-      "original_title": "Wildwood",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 131,
-      "screening_url": "https://www.universum-city.de/de/programm/1655870/46760541",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "19:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": "Universum 2",
-      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14728",
-      "cinema_id": "universum",
-      "cinema_name": "Universum City Kinos Karlsruhe",
-      "date": "2026-11-26",
-      "dimension": "2D",
-      "director_names": [
-        "John Hamburg"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
-      "movie_url": null,
-      "original_language": "English",
-      "original_title": "Focker In-Law",
-      "production_countries": [],
-      "release_year": 2026,
-      "runtime_minutes": 105,
-      "screening_url": "https://www.universum-city.de/de/programm/1767084/46638611",
-      "subtitle_language": "German",
-      "technology": null,
-      "time": "20:15:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": "Universum 5",
@@ -69,7 +21,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Jason Hand",
+        "Fawn Veerasunthorn"
+      ],
       "format_label": "OmU",
       "movie_title": "Wie verhext (engl.OmU)",
       "movie_url": null,
@@ -78,7 +33,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 103,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1698992/46760513",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "14:00:00"
@@ -91,7 +46,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Noah Segan"
+      ],
       "format_label": "OmU",
       "movie_title": "The Only Living Pickpocket In New York",
       "movie_url": null,
@@ -100,7 +57,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 88,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1650974/46760549",
       "subtitle_language": "German",
       "technology": null,
       "time": "18:15:00"
@@ -113,7 +70,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-27",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Francis Lawrence"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -122,7 +81,7 @@
       "production_countries": [],
       "release_year": 2026,
       "runtime_minutes": 159,
-      "screening_url": null,
+      "screening_url": "https://www.universum-city.de/de/programm/1687411/46760519",
       "subtitle_language": "German",
       "technology": "D-BOX",
       "time": "20:00:00"
@@ -135,7 +94,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Jason Hand",
+        "Fawn Veerasunthorn"
+      ],
       "format_label": "OmU",
       "movie_title": "Wie verhext (engl.OmU)",
       "movie_url": null,
@@ -157,7 +119,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Francis Lawrence"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -179,12 +143,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -203,9 +165,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-28",
       "dimension": "2D",
-      "director_names": [
-        "John Hamburg"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
       "movie_url": null,
@@ -271,7 +231,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-29",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Francis Lawrence"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -315,9 +277,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-29",
       "dimension": "2D",
-      "director_names": [
-        "John Hamburg"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
       "movie_url": null,
@@ -339,7 +299,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-30",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Jason Hand",
+        "Fawn Veerasunthorn"
+      ],
       "format_label": "OmU",
       "movie_title": "Wie verhext (engl.OmU)",
       "movie_url": null,
@@ -361,12 +324,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-11-30",
       "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -451,7 +412,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-01",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Francis Lawrence"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -473,12 +436,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-01",
       "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -497,7 +458,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-02",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Jason Hand",
+        "Fawn Veerasunthorn"
+      ],
       "format_label": "OmU",
       "movie_title": "Wie verhext (engl.OmU)",
       "movie_url": null,
@@ -541,9 +505,7 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-02",
       "dimension": "2D",
-      "director_names": [
-        "John Hamburg"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
       "movie_url": null,
@@ -565,7 +527,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-02",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Noah Segan"
+      ],
       "format_label": "OmU",
       "movie_title": "The Only Living Pickpocket In New York",
       "movie_url": null,
@@ -587,7 +551,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-03",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Jason Hand",
+        "Fawn Veerasunthorn"
+      ],
       "format_label": "OmU",
       "movie_title": "Wie verhext (engl.OmU)",
       "movie_url": null,
@@ -631,7 +598,9 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-03",
       "dimension": "2D",
-      "director_names": [],
+      "director_names": [
+        "Francis Lawrence"
+      ],
       "format_label": "OmU",
       "movie_title": "Die Tribute von Panem - Sunrise on the Reaping (engl.OmU)",
       "movie_url": null,
@@ -653,12 +622,10 @@
       "cinema_name": "Universum City Kinos Karlsruhe",
       "date": "2026-12-03",
       "dimension": "2D",
-      "director_names": [
-        "Travis Knight"
-      ],
+      "director_names": [],
       "format_label": "OmU",
       "movie_title": "Wildwood",
-      "movie_url": "https://www.universum-city.de/de/programm/1655870",
+      "movie_url": null,
       "original_language": "English",
       "original_title": "Wildwood",
       "production_countries": [],
@@ -668,6 +635,50 @@
       "subtitle_language": "German",
       "technology": null,
       "time": "20:45:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 4",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14818",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-04",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "2 Aile Arasinda",
+      "movie_url": null,
+      "original_language": "Turkish",
+      "original_title": "2 Aile Arasında",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 143,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": "Universum 2",
+      "booking_url": "https://kinotickets.express/universum-city-karlsruhe/booking/14786",
+      "cinema_id": "universum",
+      "cinema_name": "Universum City Kinos Karlsruhe",
+      "date": "2026-12-04",
+      "dimension": "2D",
+      "director_names": [],
+      "format_label": "OmU",
+      "movie_title": "Meine Frau, unsere Schwiegertochter und ich (engl.OmU))",
+      "movie_url": null,
+      "original_language": "English",
+      "original_title": "Focker In-Law",
+      "production_countries": [],
+      "release_year": 2026,
+      "runtime_minutes": 105,
+      "screening_url": null,
+      "subtitle_language": "German",
+      "technology": null,
+      "time": "20:30:00"
     }
   ],
   "success": true
