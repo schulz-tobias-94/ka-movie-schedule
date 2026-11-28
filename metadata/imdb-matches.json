@@ -4548,6 +4548,20 @@
     "status": "confident",
     "verified_at": "2026-11-19T15:40:15.410461+00:00"
   },
+  "met opera 2026 27 camille saint saëns samson et dalila": {
+    "authoritative_titles": [],
+    "imdb_id": null,
+    "key": "met opera 2026 27 camille saint saëns samson et dalila",
+    "matched_by": [],
+    "matched_title": null,
+    "matched_year": null,
+    "query_title": "Met Opera 2026/27: Camille Saint-Saëns SAMSON ET DALILA",
+    "reason": "no_match",
+    "resolved_via": null,
+    "score": null,
+    "status": "search_fallback",
+    "verified_at": "2026-11-28T15:26:18.197410+00:00"
+  },
   "met opera 2026 27 geburtstagsgala 20 jahre met live im kino": {
     "authoritative_titles": [],
     "imdb_id": null,

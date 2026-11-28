@@ -7,85 +7,12 @@
   "error": null,
   "fresh": true,
   "requested_date_range": {
-    "end": "2026-12-04",
-    "start": "2026-11-27"
+    "end": "2026-12-05",
+    "start": "2026-11-28"
   },
-  "retrieved_at": "2026-11-27T17:32:56.146220+01:00",
+  "retrieved_at": "2026-11-28T16:25:39.554261+01:00",
   "schema_version": 4,
   "screenings": [
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-27",
-      "dimension": null,
-      "director_names": [
-        "Peter Farrelly"
-      ],
-      "format_label": "OmU",
-      "movie_title": "I Play Rocky",
-      "movie_url": "https://www.schauburg.de/film/i-play-rocky",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 128,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-27",
-      "dimension": null,
-      "director_names": [
-        "Javier Calvo",
-        "Javier Ambrossi"
-      ],
-      "format_label": "OmU",
-      "movie_title": "La Bola negra",
-      "movie_url": "https://www.schauburg.de/film/la-bola-negra",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 155,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
-    {
-      "alternate_titles": [],
-      "auditorium": null,
-      "booking_url": null,
-      "cinema_id": "schauburg",
-      "cinema_name": "Schauburg Karlsruhe",
-      "date": "2026-11-27",
-      "dimension": null,
-      "director_names": [
-        "Martin McDonagh"
-      ],
-      "format_label": "OmU",
-      "movie_title": "Wild Horse Nine",
-      "movie_url": "https://www.schauburg.de/film/wild-horse-nine",
-      "original_language": null,
-      "original_title": null,
-      "production_countries": [],
-      "release_year": null,
-      "runtime_minutes": 118,
-      "screening_url": null,
-      "subtitle_language": null,
-      "technology": null,
-      "time": "20:45:00"
-    },
     {
       "alternate_titles": [],
       "auditorium": null,
@@ -544,6 +471,78 @@
       "subtitle_language": null,
       "technology": null,
       "time": "20:30:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-12-06",
+      "dimension": null,
+      "director_names": [
+        "Nathan Fielder & Lance Oppenheim"
+      ],
+      "format_label": "OmU",
+      "movie_title": "You Can See Everything",
+      "movie_url": "https://www.schauburg.de/film/you-can-see-everything-ov",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 174,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "11:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-12-06",
+      "dimension": null,
+      "director_names": [
+        "Robert Wise"
+      ],
+      "format_label": "OmU",
+      "movie_title": "Star Trek: The Motion Picture (OmU)",
+      "movie_url": "https://www.schauburg.de/film/star-trek-der-film-omu",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 132,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "15:00:00"
+    },
+    {
+      "alternate_titles": [],
+      "auditorium": null,
+      "booking_url": null,
+      "cinema_id": "schauburg",
+      "cinema_name": "Schauburg Karlsruhe",
+      "date": "2026-12-06",
+      "dimension": null,
+      "director_names": [
+        "Nathan Fielder & Lance Oppenheim"
+      ],
+      "format_label": "OmU",
+      "movie_title": "You Can See Everything",
+      "movie_url": "https://www.schauburg.de/film/you-can-see-everything-ov",
+      "original_language": null,
+      "original_title": null,
+      "production_countries": [],
+      "release_year": null,
+      "runtime_minutes": 174,
+      "screening_url": null,
+      "subtitle_language": null,
+      "technology": null,
+      "time": "16:45:00"
     }
   ],
   "success": true
